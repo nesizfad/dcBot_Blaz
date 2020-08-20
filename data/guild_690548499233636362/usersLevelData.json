@@ -1,0 +1,31 @@
+{
+    "402394522824474624": {
+        "lastDate": "20_08_20",
+        "nick": "Nie",
+        "xpDeque": [
+            1,
+            1
+        ],
+        "xpVaild": 2,
+        "xpTotal": 2
+    },
+    "742195760522854482": {
+        "lastDate": "20_08_20",
+        "nick": "Blaz",
+        "xpDeque": [
+            1,
+            1
+        ],
+        "xpVaild": 2,
+        "xpTotal": 2
+    },
+    "338222603829510164": {
+        "lastDate": "20_08_19",
+        "nick": "Atlas",
+        "xpDeque": [
+            1
+        ],
+        "xpVaild": 1,
+        "xpTotal": 1
+    }
+}
