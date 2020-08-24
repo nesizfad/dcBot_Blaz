@@ -153,8 +153,9 @@ class ManagerExperienceViaUser():
             return False
         else:
             xpDQ[ -1 ] += xp
-            if xp > 0:
-                self.data[ 'xpTotal' ] += xp
+            '''if xp > 0:
+                self.data[ 'xpTotal' ] += xp'''
+            self.data[ 'xpTotal' ] += xp
             return True
 
     @_auto_dump_and_check
@@ -198,6 +199,8 @@ class ManagerExperienceViaUser():
         else:
             is_succ_reward = self._edit_today_xp_add_with( xp )
 
+        self.data[ 'eternal' ] += xp / 10
+
         return ( is_succ_reward, 'optional' )
 
     @_auto_dump_and_check
@@ -223,7 +226,7 @@ class ManagerExperienceViaUser():
 
     def _how_many_xp_have( self ) -> ( int, int ):
         '''vaild and in limit'''
-        return ( min( realHaveXp := ( sum( self.data[ 'xpDeque' ] ) ), 45 ), realHaveXp )
+        return ( min( realHaveXp := ( int( sum( self.data[ 'xpDeque' ] ) + self.data[ 'eternal' ] ) ), 45 ), realHaveXp )
 
     def _what_role_should_be( self ) -> discord.Role:
         if self.lv_role_dict is None:
@@ -272,13 +275,13 @@ class ManagerExperienceViaUser():
         '''role totalXp vaildXp realXp lastXp externalXp lastdate'''
         if self.data[ 'lastDate' ] == 'null':
             return ( None, 0, 0, 0, 0, 0, 'null' )
-        last_date = ''
+        last_date = 'null'
         for index in range( -1, ( len( self.data[ 'xpDeque' ] ) + 1 ) * -1, -1 ):
             if self.data[ 'xpDeque' ][ index ] != 0:
-                last_date = get_today_date_with_delta_str( hours=24 * ( index + 1 ) )
+                last_date = get_today_date_with_delta_str( hours=8 + 24 * ( index + 1 ) )  #8
                 break
         return ( self._what_role_should_be(), ( data := self.data )[ 'xpTotal' ], ( haveXp := self._how_many_xp_have() )[ 0 ],
-                 haveXp[ 1 ], data[ 'xpDeque' ][ -1 ], data[ 'eternal' ], last_date )
+                 haveXp[ 1 ], data[ 'xpDeque' ][ -1 ], int( data[ 'eternal' ] ), last_date )
 
 
 def get_today_date_with_delta_str( hours: int = 0 ) -> str:
@@ -379,8 +382,9 @@ class Levels( ExtensionBase, name='Levels parts' ):
     @commands.has_permissions( administrator=True )
     async def give_initial( self, ctx: commands.Context, member: discord.Member, xp: int = 0 ):
 
-        ctx.send( content='this feature is not open', delete_after=360 )
-        return
+        if ctx.author.id != self.bot.author_id:
+            await ctx.send( content='this feature is not open', delete_after=360 )
+            return
 
         if ctx.guild.id not in [ 690548499233636362, 741429518484635749 ]:
             print( 'not right guild' )
@@ -389,55 +393,18 @@ class Levels( ExtensionBase, name='Levels parts' ):
         today_date_str = get_today_date_with_delta_str( hours=8 )  #UTC+8
         if xp == -71235:
             for key, value in {
-                    "402394522824474624": "10",
-                    "472087521560363008": "10",
-                    "616609945441402916": "30",
-                    "640197596450652160": "19",
-                    "381453584463560704": "11",
-                    "459279265343733762": "11",
-                    "588038434120007727": "12",
-                    "710854577121132636": "20",
-                    "728550429033627740": "12",
-                    "616981256768585758": "25",
-                    "626717947536211969": "11",
-                    "652909866658037790": "3",
-                    "617164488453390336": "9",
-                    "495876881623678976": "4",
-                    "449493800113668096": "1",
-                    "736859682379137036": "3",
-                    "729536049931616347": "5",
-                    "366257472899383308": "1",
-                    "706097021362110525": "6",
-                    "723461723004338204": "3",
-                    "574575577063751684": "2",
-                    "724757789188161609": "1",
-                    "341201022859083777": "9",
-                    "742693749880258561": "1",
-                    "744133203429687397": "1",
-                    "356457910986997780": "8",
-                    "688249746808373260": "8",
-                    "178785491011764224": "5",
-                    "666760547135520768": "3",
-                    "657978952522137650": "3",
-                    "637196923287240714": "3",
-                    "155553892606803968": "7",
-                    "243994207163777025": "5",
-                    "606149076693549076": "9",
-                    "439105298481807360": "7",
-                    "494069352308408322": "4",
-                    "744211302519406593": "1",
-                    "726417453151944745": "2",
-                    "581857799621836823": "5",
-                    "644946414987640852": "9",
-                    "564378682429276180": "2",
-                    "249808428816400384": "3",
-                    "622725649899061258": "2",
-                    "476731107887546369": "7",
-                    "367687614834409472": "1",
-                    "304255890452643841": "2",
-                    "744359324427485316": "1",
-                    "744461054939103292": "1",
-                    "744886409885909112": "1"
+                    "520586770522570762": "23",
+                    "497273003177148418": "23",
+                    "699629250369814628": "10",
+                    "724912362833838120": "19",
+                    "432355890893684737": "32",
+                    "509750691653353472": "13",
+                    "588027241997402134": "58",
+                    "613698266982514688": "12",
+                    "718247900907569294": "48",
+                    "554486720184320002": "23",
+                    "671216877309001729": "11",
+                    "667280673580646410": "36"
             }.items():
                 path = get_user_json_path( guildID=ctx.guild.id, userID=key )
                 user_xp_manager = ManagerExperienceViaUser(
@@ -445,13 +412,15 @@ class Levels( ExtensionBase, name='Levels parts' ):
                     storePathStr=path,
                     todayDateStr=today_date_str,
                     thisGuildLevelRoleDict=load_level_roleObj_dict( guildObj=ctx.guild ) )
-                #flag = await user_xp_manager.give_init_xp( xp=int( value ) )
-                if True:
+
+                flag = await user_xp_manager.give_init_xp( xp=int( value ) )
+
+                if flag:
                     await ctx.send( f'succ init {value} xp to <@{key}>' )
                 await asyncio.sleep( 0.25 )
-            await ctx.send( f'succ init xp to all members in json' )
+            await ctx.send( 'succ init xp to all members in json' )
             return
-        today_date_str = get_today_date_with_delta_str( hours=8 )  #UTC+8
+
         path = get_user_json_path( guildID=ctx.guild.id, userID=member.id )
         user_xp_manager = ManagerExperienceViaUser( userObj=member,
                                                     storePathStr=path,
@@ -473,30 +442,28 @@ class Levels( ExtensionBase, name='Levels parts' ):
         executor_in_command = cf.ThreadPoolExecutor( max_workers=1 )
         executor_in_command.submit( await loop_to_check( guild=ctx.guild, today=get_today_date_with_delta_str( 8 ) ) )
 
-    @Manage_XP_With_Command.command( name='member_level_data', aliases=[ 'lv' ] )
-    @commands.has_permissions( administrator=True )
-    async def member_level_data( self, ctx: commands.Context, member: discord.Member ):
-        if ctx.guild.id not in [ 690548499233636362, 741429518484635749 ]:
-            print( ' not right guild' )
-            return
-
+    @staticmethod
+    async def send_level_data( ctx: commands.Context, member: discord.Member ) -> bool:
         today_date_str = get_today_date_with_delta_str( hours=8 )  #UTC+8
         path = get_user_json_path( guildID=ctx.guild.id, userID=member.id )
         user_xp_manager = ManagerExperienceViaUser( userObj=member,
                                                     storePathStr=path,
                                                     todayDateStr=today_date_str,
                                                     thisGuildLevelRoleDict=load_level_roleObj_dict( guildObj=ctx.guild ) )
-        lv_role_obj, t_x, v_x, r_x, l_x, e_x, last_date = user_xp_manager.return_data()
+        lv_r_obj, t_x, v_x, r_x, l_x, e_x, last_date = user_xp_manager.return_data()
+
+        print( [ type( lv_r_obj ), t_x, v_x, r_x, l_x, e_x, last_date ] )
 
         if last_date == 'null':
             await ctx.send( content=f"尚無{member.mention}的經驗值資料，請他先在伺服器上留下足跡吧" )
-            return
+            return False
 
-        embed = discord.Embed( title="XP Data",
+        embed = discord.Embed( title="user Data",
                                description=f"{member.mention}的經驗值資料",
                                color=member.color,
                                timestamp=datetime.datetime.now() )
-        embed.add_field( name="光翼數量", value='```html\n<0翼>\n```' if ( r := lv_role_obj ) is not None else r, inline=True )
+        embed.set_author( name=member.display_name, icon_url=member.avatar_url )
+        embed.add_field( name="光翼數量", value='```html\n<0翼>\n```' if ( r := lv_r_obj ) is None else r.mention, inline=True )
         embed.add_field( name='曾擁有的光之子', value=mk_code_block( s=t_x, lang='py' ), inline=True )
         embed.add_field( name='還有效的光之子', value=mk_code_block( s=v_x, lang='fix' ), inline=True )
         embed.add_field( name='現擁有的光之子', value=mk_code_block( s=r_x, lang='md' ), inline=True )
@@ -506,6 +473,24 @@ class Levels( ExtensionBase, name='Levels parts' ):
         embed.set_footer( text="blaz" )
 
         await ctx.send( content="請盡量不要太頻繁的調用此功能\n他可能導致一些伺服器延遲\n \n", embed=embed )
+        return True
+
+    @Manage_XP_With_Command.command( name='member_level_data', aliases=[ 'lv' ] )
+    @commands.has_permissions( administrator=True )
+    async def member_level_data( self, ctx: commands.Context, member: discord.Member ):
+        if ctx.guild.id not in [ 690548499233636362, 741429518484635749 ]:
+            print( ' not right guild' )
+            return
+
+        await self.send_level_data( ctx=ctx, member=member )
+
+    @commands.command( name='level_data', aliases=[ 'level', 'lvd' ] )
+    async def level_data( self, ctx: commands.Context ):
+        if ctx.guild.id not in [ 690548499233636362, 741429518484635749 ]:
+            print( ' not right guild' )
+            return
+
+        await self.send_level_data( ctx=ctx, member=ctx.author )
 
 
 def mk_str_c_w7_and_FS( s ) -> str:
