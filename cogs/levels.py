@@ -472,7 +472,7 @@ class Levels( ExtensionBase, name='Levels parts' ):
         embed.add_field( name='上次活躍日期', value=mk_str_c_w7_and_FS( s=last_date ), inline=True )
         embed.set_footer( text="blaz" )
 
-        await ctx.send( content="請盡量不要太頻繁的調用此功能\n他可能導致一些伺服器延遲\n \n", embed=embed )
+        await ctx.send( content="請盡量不要太頻繁的調用此功能\n他可能導致一些伺服器延遲\n \n", embed=embed, delete_after=600 )
         return True
 
     @Manage_XP_With_Command.command( name='member_level_data', aliases=[ 'lv' ] )
@@ -483,6 +483,7 @@ class Levels( ExtensionBase, name='Levels parts' ):
             return
 
         await self.send_level_data( ctx=ctx, member=member )
+        await ctx.message.delete( delay=600 )
 
     @commands.command( name='level_data', aliases=[ 'level', 'lvd' ] )
     async def level_data( self, ctx: commands.Context ):
@@ -491,6 +492,7 @@ class Levels( ExtensionBase, name='Levels parts' ):
             return
 
         await self.send_level_data( ctx=ctx, member=ctx.author )
+        await ctx.message.delete( delay=600 )
 
 
 def mk_str_c_w7_and_FS( s ) -> str:
