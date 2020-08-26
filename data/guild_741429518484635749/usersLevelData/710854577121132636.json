@@ -1,12 +1,13 @@
 {
     "nick": "Farewell, my friend.",
-    "lastDate": "20_08_26",
+    "lastDate": "20_08_27",
     "xpDeque": [
         20,
         1,
         1,
+        1,
         1
     ],
-    "xpTotal": 23,
+    "xpTotal": 24,
     "eternal": 0
 }

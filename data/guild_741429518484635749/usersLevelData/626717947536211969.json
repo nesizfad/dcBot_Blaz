@@ -1,11 +1,12 @@
 {
     "nick": "祈祿𓆝𓆜𓆟𓆞咩咩🎂",
-    "lastDate": "20_08_26",
+    "lastDate": "20_08_27",
     "xpDeque": [
         11,
         1,
-        0
+        2,
+        1
     ],
-    "xpTotal": 12,
-    "eternal": 0
+    "xpTotal": 15,
+    "eternal": 0.1
 }

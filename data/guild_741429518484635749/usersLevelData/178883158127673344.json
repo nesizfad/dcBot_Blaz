@@ -1,10 +1,11 @@
 {
     "nick": "Moko",
-    "lastDate": "20_08_26",
+    "lastDate": "20_08_27",
     "xpDeque": [
         0,
-        0
+        0,
+        1
     ],
-    "xpTotal": 0,
-    "eternal": 0
+    "xpTotal": 1,
+    "eternal": 0.1
 }

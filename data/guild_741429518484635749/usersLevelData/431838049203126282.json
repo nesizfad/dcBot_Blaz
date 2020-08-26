@@ -1,8 +1,9 @@
 {
     "nick": "是兔子還是鵵子或是鵺子",
-    "lastDate": "20_08_26",
+    "lastDate": "20_08_27",
     "xpDeque": [
-        1
+        1,
+        0
     ],
     "xpTotal": 1,
     "eternal": 0

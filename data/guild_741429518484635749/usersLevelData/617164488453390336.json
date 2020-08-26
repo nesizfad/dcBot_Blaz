@@ -1,12 +1,13 @@
 {
     "nick": "天然宗．崩潰聰明兔．把我的睡眠還來！",
-    "lastDate": "20_08_26",
+    "lastDate": "20_08_27",
     "xpDeque": [
         9,
         1,
         1,
-        1
+        2,
+        0
     ],
-    "xpTotal": 12,
-    "eternal": 0
+    "xpTotal": 13,
+    "eternal": 0.1
 }

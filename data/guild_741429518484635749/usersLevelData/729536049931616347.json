@@ -1,11 +1,12 @@
 {
     "nick": "小羽♡姆姆",
-    "lastDate": "20_08_26",
+    "lastDate": "20_08_27",
     "xpDeque": [
         5,
         1,
-        1
+        2,
+        0
     ],
-    "xpTotal": 7,
-    "eternal": 0
+    "xpTotal": 8,
+    "eternal": 0.1
 }
