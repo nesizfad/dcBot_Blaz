@@ -455,7 +455,7 @@ class Levels( ExtensionBase, name='Levels parts' ):
         print( [ type( lv_r_obj ), t_x, v_x, r_x, l_x, e_x, last_date ] )
 
         if last_date == 'null':
-            await ctx.send( content=f"尚無{member.mention}的經驗值資料，請他先在伺服器上留下足跡吧" )
+            await ctx.send( content=f"尚無{member.mention}的經驗值資料，請他先在伺服器上留下足跡吧", delete_after=600 )
             return False
 
         embed = discord.Embed( title="user Data",

@@ -1,10 +1,11 @@
 {
     "nick": "雷特",
-    "lastDate": "20_08_24",
+    "lastDate": "20_08_26",
     "xpDeque": [
         3,
-        0
+        0,
+        1
     ],
-    "xpTotal": 3,
+    "xpTotal": 4,
     "eternal": 0
 }
