@@ -39,6 +39,7 @@ async def loop_to_check( guild: discord.Guild, today: str ) -> bool:
         690548499233636362: 741666177050214430,
         741429518484635749: 742661957768970251
     }[ guild.id ] )
+    progress_msgObj = await log_channel.send( content='check mission start' )
     for m in guild.members:
         if g_check_cancel is True:
             await log_channel.send(
@@ -54,16 +55,17 @@ async def loop_to_check( guild: discord.Guild, today: str ) -> bool:
                                             storePathStr=get_user_json_path( guildID=guild.id, userID=m.id ),
                                             todayDateStr=today,
                                             thisGuildLevelRoleDict=load_level_roleObj_dict( guildObj=guild ) )
-        print( f'before mutil{(k:=manager.data)=}' )
+        ad = str( manager.data )
         await manager.check_activity()
-        print( f'affter mutil{(K:=manager.data)=}' )
-        print( f'is no change? {k==K=}' )
+        bd = str( manager.data )
+        if ad != bd:
+            print( f'{ad=}' )
+            print( f'{bd=}' )
         if count % 20 == 1:
-            await log_channel.send(
-                content=f"check on {m.mention} process {count*100/guild.member_count}%({count}/{guild.member_count})",
-                delete_after=10 )
+            await progress_msgObj.edit(
+                content=f"check on {m.mention} process {count*100/(c:=guild.member_count)}%({count}/{c})" )
     print( 'finish' )
-    await log_channel.send( content=f"process {100}%({count}/{guild.member_count})", delete_after=86400 )
+    await progress_msgObj.edit( content=f"process {100}%({count}/{guild.member_count})", delete_after=86400 )
     g_is_inloop_check = False
 
 
