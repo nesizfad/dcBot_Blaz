@@ -179,6 +179,7 @@ class ManagerExperienceViaUser():
     async def check_activity( self ) -> ( bool, str ):
         '''確認今日是否上線'''
         if self.data[ 'lastDate' ] != self.today_date_str:
+            print( f"{self.data[ 'lastDate' ] != self.today_date_str =}" )
             self.data[ 'lastDate' ] = self.today_date_str
             if self._append_xp( 0 ):
                 print( f'{self.user_obj.display_name} check succ' )
@@ -246,6 +247,7 @@ class ManagerExperienceViaUser():
         cRole = self._what_role_should_be()
         if len( lruh := [ role for role in self.user_obj.roles
                           if role in self.lv_role_dict.values() ] ) != 1 or cRole not in lruh:  #level_roles_user_have
+            print( f"{lruh} , {cRole}" )
             if len( ex_roles := [ role for role in lruh if role is not cRole ] ) != 0:
                 await self.user_obj.remove_roles( *ex_roles )
             if cRole not in lruh and cRole is not None:
