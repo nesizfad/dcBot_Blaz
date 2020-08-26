@@ -5,10 +5,10 @@ import os
 import json
 import datetime
 import asyncio
-import concurrent.futures as cf
 
 g_cache_dict = {}
 g_is_inloop_check = False
+g_check_cancel = False
 
 
 def is_user_in_cache( today: str, userID: str, guildID: str, yesterday: str, guild: discord.Guild ) -> bool:
@@ -31,22 +31,36 @@ def is_user_in_cache( today: str, userID: str, guildID: str, yesterday: str, gui
 
 
 async def loop_to_check( guild: discord.Guild, today: str ) -> bool:
+    global g_check_cancel
+    global g_is_inloop_check
+    print( f'{today=}' )
     count = 0
     log_channel = guild.get_channel( {
         690548499233636362: 741666177050214430,
         741429518484635749: 742661957768970251
     }[ guild.id ] )
-    for member in guild.members:
+    for m in guild.members:
+        if g_check_cancel is True:
+            await log_channel.send(
+                content=f"check cancelled on {m.mention} process {count*100/(c:=guild.member_count)}%({count}/{c})",
+                delete_after=86400 )
+            g_check_cancel = False
+            g_is_inloop_check = False
+            return False
+        print( f'\n deal with {m.display_name}({m.id})' )
         count += 1
         await asyncio.sleep( 0.5 )
-        manager = ManagerExperienceViaUser( userObj=member,
-                                            storePathStr=get_user_json_path( guildID=guild.id, userID=member.id ),
+        manager = ManagerExperienceViaUser( userObj=m,
+                                            storePathStr=get_user_json_path( guildID=guild.id, userID=m.id ),
                                             todayDateStr=today,
                                             thisGuildLevelRoleDict=load_level_roleObj_dict( guildObj=guild ) )
+        print( f'before mutil{(k:=manager.data)=}' )
         await manager.check_activity()
+        print( f'affter mutil{(K:=manager.data)=}' )
+        print( f'is no change? {k==K=}' )
         if count % 20 == 1:
             await log_channel.send(
-                content=f"check on {member.mention} process {count*100/guild.member_count}%({count}/{guild.member_count})",
+                content=f"check on {m.mention} process {count*100/guild.member_count}%({count}/{guild.member_count})",
                 delete_after=10 )
     print( 'finish' )
     await log_channel.send( content=f"process {100}%({count}/{guild.member_count})", delete_after=86400 )
@@ -179,7 +193,7 @@ class ManagerExperienceViaUser():
     async def check_activity( self ) -> ( bool, str ):
         '''確認今日是否上線'''
         if self.data[ 'lastDate' ] != self.today_date_str:
-            print( f"{self.data[ 'lastDate' ] != self.today_date_str =}" )
+            print( f"{(d:=self.data[ 'lastDate' ]) =} != {(D:=self.today_date_str) =} ? {d != D =}" )
             self.data[ 'lastDate' ] = self.today_date_str
             if self._append_xp( 0 ):
                 print( f'{self.user_obj.display_name} check succ' )
@@ -441,9 +455,13 @@ class Levels( ExtensionBase, name='Levels parts' ):
             print( 'not right guild' )
             return
 
+        global g_is_inloop_check
+        if g_is_inloop_check is True:
+            print( 'method invaild' )
+            await ctx.send( content='method invaild bcuz others is running' )
+            return
         print( '\n\nin process\n\n' )
-        executor_in_command = cf.ThreadPoolExecutor( max_workers=1 )
-        executor_in_command.submit( await loop_to_check( guild=ctx.guild, today=get_today_date_with_delta_str( 8 ) ) )
+        await loop_to_check( guild=ctx.guild, today=get_today_date_with_delta_str( hours=8 ) )
 
     @staticmethod
     async def send_level_data( ctx: commands.Context, member: discord.Member ) -> bool:
@@ -487,6 +505,16 @@ class Levels( ExtensionBase, name='Levels parts' ):
 
         await self.send_level_data( ctx=ctx, member=member )
         await ctx.message.delete( delay=600 )
+
+    @Manage_XP_With_Command.command( name='check_cancel', aliases=[ 'cc' ] )
+    @commands.has_permissions( administrator=True )
+    async def check_cancel( self, ctx: commands.Context ):
+        if ctx.guild.id not in [ 690548499233636362, 741429518484635749 ]:
+            print( ' not right guild' )
+            return
+
+        global g_check_cancel
+        g_check_cancel = True
 
     @Manage_XP_With_Command.command( name='check_single_person', aliases=[ 'ch_s' ] )
     @commands.has_permissions( administrator=True )

@@ -32,8 +32,8 @@ class DevCommands( commands.Cog, name='Developer Commands' ):
         if cog in extensions:
             self.bot.unload_extension( cog )  # Unloads the cog
             self.bot.load_extension( cog )  # Loads the cog
-            await ctx.send( 'Done', delete_after=3 )  # Sends a message where content='Done'
-            await ctx.message.delete( delay=3 )
+            await ctx.send( 'Done', delete_after=360 )  # Sends a message where content='Done'
+            await ctx.message.delete( delay=360 )
         else:
             await ctx.send( 'Unknown Cog' )  # If the cog isn't found/loaded.
 

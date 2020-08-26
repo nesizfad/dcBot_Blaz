@@ -1,10 +1,11 @@
 {
     "nick": "不要封鎖我再把我每則訊息點開來看拉",
-    "lastDate": "20_08_24",
+    "lastDate": "20_08_26",
     "xpDeque": [
         1,
-        0
+        0,
+        1
     ],
-    "xpTotal": 1,
+    "xpTotal": 2,
     "eternal": 0
 }

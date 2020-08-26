@@ -1,9 +1,9 @@
 {
     "nick": "比利",
-    "lastDate": "20_08_24",
+    "lastDate": "20_08_26",
     "xpDeque": [
-        25
+        8,1,1
     ],
-    "xpTotal": 0,
-    "eternal": 2.5
+    "xpTotal": 10,
+    "eternal": 0
 }
