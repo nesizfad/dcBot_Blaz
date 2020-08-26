@@ -278,9 +278,10 @@ class ManagerExperienceViaUser():
         if self.data[ 'lastDate' ] == 'null':
             return ( None, 0, 0, 0, 0, 0, 'null' )
         last_date = 'null'
+        is_ch_today = self.data[ 'lastDate' ] == self.today_date_str
         for index in range( -1, ( len( self.data[ 'xpDeque' ] ) + 1 ) * -1, -1 ):
             if self.data[ 'xpDeque' ][ index ] != 0:
-                last_date = get_today_date_with_delta_str( hours=8 + 24 * ( index + 1 ) )  #8
+                last_date = get_today_date_with_delta_str( hours=8 + 24 * ( index + ( 1 if is_ch_today else 0 ) ) )  #8
                 break
         return ( self._what_role_should_be(), ( data := self.data )[ 'xpTotal' ], ( haveXp := self._how_many_xp_have() )[ 0 ],
                  haveXp[ 1 ], data[ 'xpDeque' ][ -1 ], int( data[ 'eternal' ] ), last_date )

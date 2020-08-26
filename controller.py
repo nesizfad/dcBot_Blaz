@@ -43,6 +43,14 @@ class ManagerExperience():
             self.data = self._generate_new_user_xp_data()
         return self.data
 
+    def edit_dq( self, dq: list ) -> dict:
+        if type( dq ) is not list:
+            print( f'type u input is {type(dq)} there need int' )
+        else:
+            self.data[ 'xpDeque' ] = dq
+            print( 'changed' )
+        return self.data
+
     def edit_total( self, total ) -> dict:
         if type( total ) is not int:
             print( f'type u input is {type(total)} there need int' )
@@ -71,5 +79,5 @@ class ManagerExperience():
             print( "IOError with " + str( e ) )
             return False
         else:
-            print( f"outputed json" )
+            print( "outputed json" )
             return True
