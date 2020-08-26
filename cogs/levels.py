@@ -487,6 +487,26 @@ class Levels( ExtensionBase, name='Levels parts' ):
         await self.send_level_data( ctx=ctx, member=member )
         await ctx.message.delete( delay=600 )
 
+    @Manage_XP_With_Command.command( name='check_single_person', aliases=[ 'ch_s' ] )
+    @commands.has_permissions( administrator=True )
+    async def check_single_person( self, ctx: commands.Context, member: discord.Member ):
+        if ctx.guild.id not in [ 690548499233636362, 741429518484635749 ]:
+            print( ' not right guild' )
+            return
+
+        today_date_str = get_today_date_with_delta_str( hours=8 )  #UTC+8
+        path = get_user_json_path( guildID=ctx.guild.id, userID=member.id )
+        user_xp_manager = ManagerExperienceViaUser( userObj=member,
+                                                    storePathStr=path,
+                                                    todayDateStr=today_date_str,
+                                                    thisGuildLevelRoleDict=load_level_roleObj_dict( guildObj=ctx.guild ) )
+
+        flag = await user_xp_manager.check_activity()
+        if flag:
+            await ctx.send( f'succ check {member.mention}' )
+        else:
+            await ctx.send( f'failed to check {member.mention}' )
+
     @commands.command( name='level_data', aliases=[ 'level', 'lvd' ] )
     async def level_data( self, ctx: commands.Context ):
         if ctx.guild.id not in [ 690548499233636362, 741429518484635749 ]:
