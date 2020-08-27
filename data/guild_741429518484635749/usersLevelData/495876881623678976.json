@@ -1,12 +1,13 @@
 {
     "nick": "a!level",
-    "lastDate": "20_08_27",
+    "lastDate": "20_08_28",
     "xpDeque": [
         4,
         1,
         1,
+        1,
         1
     ],
-    "xpTotal": 7,
+    "xpTotal": 8,
     "eternal": 0
 }
