@@ -1,11 +1,12 @@
 {
     "nick": "姿姿( • ̀ω•́ )",
-    "lastDate": "20_08_27",
+    "lastDate": "20_08_28",
     "xpDeque": [
         0,
         0,
-        0
+        0,
+        1
     ],
-    "xpTotal": 0,
+    "xpTotal": 1,
     "eternal": 0
 }
