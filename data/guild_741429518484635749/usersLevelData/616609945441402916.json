@@ -1,12 +1,13 @@
 {
     "nick": "知音難尋",
-    "lastDate": "20_08_27",
+    "lastDate": "20_08_28",
     "xpDeque": [
         30,
         1,
         1,
-        0
+        0,
+        1
     ],
-    "xpTotal": 32,
+    "xpTotal": 33,
     "eternal": 0
 }
