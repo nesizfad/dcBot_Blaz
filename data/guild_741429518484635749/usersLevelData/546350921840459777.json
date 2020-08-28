@@ -1,11 +1,15 @@
 {
     "nick": "正在刷存在感(σ≧∀≦)σ",
-    "lastDate": "20_08_27",
+    "lastDate": "20_08_29",
     "xpDeque": [
+        3,
         0,
         1,
+        1,
+        1,
+        0,
         0
     ],
-    "xpTotal": 1,
+    "xpTotal": 6,
     "eternal": 0
 }
