@@ -1,11 +1,12 @@
 {
     "nick": "卍煞氣a咸魚卍",
-    "lastDate": "20_08_27",
+    "lastDate": "20_08_29",
     "xpDeque": [
         1,
         0,
-        0
+        0,
+        1
     ],
-    "xpTotal": 1,
+    "xpTotal": 2,
     "eternal": 0
 }
