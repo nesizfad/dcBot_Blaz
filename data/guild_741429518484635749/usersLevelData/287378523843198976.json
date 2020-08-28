@@ -1,12 +1,13 @@
 {
     "nick": "小喇叭3(>>)",
-    "lastDate": "20_08_28",
+    "lastDate": "20_08_29",
     "xpDeque": [
+        1,
         1,
         1,
         1,
         1
     ],
-    "xpTotal": 4,
+    "xpTotal": 5,
     "eternal": 0
 }

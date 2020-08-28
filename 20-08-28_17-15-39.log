@@ -1,0 +1,88 @@
+2020-08-28 17:15:39,023 INFO: info message
+2020-08-28 17:15:39,023 WARNING: warning message
+2020-08-28 17:15:39,023 ERROR: error message
+2020-08-28 17:15:39,023 CRITICAL: critical message
+2020-08-28 17:15:39,026 INFO: logging in using static token
+2020-08-28 17:15:39,776 INFO: Shard ID None has sent the IDENTIFY payload.
+2020-08-28 17:15:39,889 INFO:  * Running on http://0.0.0.0:4825/ (Press CTRL+C to quit)
+2020-08-28 17:15:40,108 INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-g65b",{"micros":98792,"calls":["discord-sessions-prd-2-62",{"micros":94127,"calls":["start_session",{"micros":81075,"calls":["api-prd-main-rfc0",{"micros":71692,"calls":["get_user",{"micros":4197},"add_authorized_ip",{"micros":5002},"get_guilds",{"micros":5260},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":8218,"calls":[]}]}]}] (Session ID: 818e7f0827bedc2d3808e9ad8c2498b1).
+2020-08-28 17:15:42,661 INFO: Finished requesting guild member chunks for 1 guilds.
+2020-08-28 17:15:48,556 Level 15: 20_08_28 =?= 20_08_29
+2020-08-28 17:15:48,556 Level 15: date not match
+2020-08-28 17:15:48,556 Level 15: appended
+2020-08-28 17:15:48,556 Level 15: {'nick': '鴿子今天跑雨林了嗎🕊💦', 'lastDate': '20_08_29', 'xpDeque': [8, 1, 1, 1, 0, 1, 1], 'xpTotal': 13, 'eternal': 0}
+2020-08-28 17:15:48,556 Level 15: operated,try save
+2020-08-28 17:15:48,556 Level 15: try to save
+2020-08-28 17:15:48,556 Level 15: {'nick': '鴿子今天跑雨林了嗎🕊💦', 'lastDate': '20_08_29', 'xpDeque': [8, 1, 1, 1, 0, 1, 1], 'xpTotal': 13, 'eternal': 0}
+2020-08-28 17:15:48,557 Level 15: outputed總是摔車的姆姆學堂學員🕊💦(688249746808373260)'s json
+2020-08-28 17:15:48,557 INFO: saved,try update
+2020-08-28 17:15:48,557 INFO: no change
+2020-08-28 17:15:48,557 INFO: operation succ with 總是摔車的姆姆學堂學員🕊💦 on message
+2020-08-28 17:15:54,934 INFO: operation succ with (in cache)總是摔車的姆姆學堂學員🕊💦 on message
+2020-08-28 17:16:12,632 Level 15: 20_08_29 =?= 20_08_29
+2020-08-28 17:16:12,632 INFO: X× Lowe♡姆姆 ×X was token
+2020-08-28 17:16:12,633 Level 15: no write and no update in SOP
+2020-08-28 17:16:12,633 INFO: operation succ with X× Lowe♡姆姆 ×X on message
+2020-08-28 17:16:13,492 Level 15: 20_08_29 =?= 20_08_29
+2020-08-28 17:16:13,492 INFO: 枏                             樳 was token
+2020-08-28 17:16:13,492 Level 15: no write and no update in SOP
+2020-08-28 17:16:13,492 INFO: operation succ with 枏                             樳 on message
+2020-08-28 17:16:13,888 Level 15: 20_08_29 =?= 20_08_29
+2020-08-28 17:16:13,888 INFO: 果♡姆*˙︶˙*)ﾉﾞꕤ-徵耐心包容我軟爛的固玩哈哈哈哈哈☆ was token
+2020-08-28 17:16:13,888 Level 15: no write and no update in SOP
+2020-08-28 17:16:13,888 INFO: operation succ with 果♡姆*˙︶˙*)ﾉﾞꕤ-徵耐心包容我軟爛的固玩哈哈哈哈哈☆ on message
+2020-08-28 17:16:20,988 Level 15: 20_08_29 =?= 20_08_29
+2020-08-28 17:16:20,988 INFO: · 娜娜♡姆姆· 不想起床 (´▽`ʃ♡ƪ) was token
+2020-08-28 17:16:20,988 Level 15: no write and no update in SOP
+2020-08-28 17:16:20,988 INFO: operation succ with · 娜娜♡姆姆· 不想起床 (´▽`ʃ♡ƪ) on message
+2020-08-28 17:16:26,299 INFO: operation succ with (in cache)X× Lowe♡姆姆 ×X on message
+2020-08-28 17:16:34,524 INFO: operation succ with (in cache)枏                             樳 on message
+2020-08-28 17:16:38,656 Level 15: 20_08_29 =?= 20_08_29
+2020-08-28 17:16:38,656 INFO: 史萊姆-花朵吸食者 was token
+2020-08-28 17:16:38,656 Level 15: no write and no update in SOP
+2020-08-28 17:16:38,656 INFO: operation succ with 史萊姆-花朵吸食者's voice channel changed !
+2020-08-28 17:16:45,644 Level 15: 20_08_29 =?= 20_08_29
+2020-08-28 17:16:45,645 INFO: Blaz was token
+2020-08-28 17:16:45,645 Level 15: no write and no update in SOP
+2020-08-28 17:16:45,645 INFO: operation succ with Blaz on message
+2020-08-28 17:16:46,215 INFO: operation succ with (in cache)Blaz on message
+2020-08-28 17:17:49,996 INFO: operation succ with (in cache)X× Lowe♡姆姆 ×X on message
+2020-08-28 17:18:20,361 INFO: operation succ with (in cache)X× Lowe♡姆姆 ×X on message
+2020-08-28 17:18:39,717 Level 15: [<class 'discord.role.Role'>, 30, 30, 30, 1, 0, '20_08_29']
+2020-08-28 17:18:39,718 INFO: operation succ with (in cache)X× Lowe♡姆姆 ×X on message
+2020-08-28 17:18:40,087 INFO: operation succ with (in cache)Blaz on message
+2020-08-28 17:18:57,675 INFO: operation succ with (in cache)· 娜娜♡姆姆· 不想起床 (´▽`ʃ♡ƪ) on message
+2020-08-28 17:19:08,895 Level 15: 20_08_29 =?= 20_08_29
+2020-08-28 17:19:08,895 INFO: Farewell, my friend. was token
+2020-08-28 17:19:08,896 Level 15: no write and no update in SOP
+2020-08-28 17:19:08,896 INFO: operation succ with Farewell, my friend.'s voice channel changed !
+2020-08-28 17:19:16,853 INFO: operation succ with (in cache)Farewell, my friend.'s voice channel changed !
+2020-08-28 17:19:35,485 INFO: operation succ with (in cache)X× Lowe♡姆姆 ×X on message
+2020-08-28 17:19:36,444 INFO: operation succ with (in cache)史萊姆-花朵吸食者's voice channel changed !
+2020-08-28 17:20:01,149 INFO: operation succ with (in cache)X× Lowe♡姆姆 ×X on message
+2020-08-28 17:20:13,036 INFO: operation succ with (in cache)史萊姆-花朵吸食者's voice channel changed !
+2020-08-28 17:20:34,800 Level 15: 20_08_27 =?= 20_08_29
+2020-08-28 17:20:34,800 Level 15: date not match
+2020-08-28 17:20:34,800 Level 15: appended
+2020-08-28 17:20:34,800 Level 15: {'nick': '半邊藍天', 'lastDate': '20_08_29', 'xpDeque': [0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-08-28 17:20:34,800 Level 15: operated,try save
+2020-08-28 17:20:34,800 Level 15: try to save
+2020-08-28 17:20:34,800 Level 15: {'nick': '半邊藍天', 'lastDate': '20_08_29', 'xpDeque': [0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-08-28 17:20:34,801 Level 15: outputed半邊藍天(690481029747834911)'s json
+2020-08-28 17:20:34,801 INFO: saved,try update
+2020-08-28 17:20:34,801 INFO: [] , 一翼
+2020-08-28 17:20:35,116 INFO: role update
+2020-08-28 17:20:35,116 INFO: operation succ with 半邊藍天's voice channel changed !
+2020-08-28 17:20:43,680 INFO: operation succ with (in cache)半邊藍天's voice channel changed !
+2020-08-28 17:20:46,160 INFO: operation succ with (in cache)半邊藍天's voice channel changed !
+2020-08-28 17:20:52,704 INFO: operation succ with (in cache)半邊藍天's voice channel changed !
+2020-08-28 17:22:04,890 INFO: operation succ with (in cache)史萊姆-花朵吸食者's voice channel changed !
+2020-08-28 17:23:57,231 Level 15: 20_08_29 =?= 20_08_29
+2020-08-28 17:23:57,232 INFO: 一灘怨靈水 was token
+2020-08-28 17:23:57,232 Level 15: no write and no update in SOP
+2020-08-28 17:23:57,232 INFO: operation succ with 一灘怨靈水's voice channel changed !
+2020-08-28 17:24:07,174 INFO: operation succ with (in cache)史萊姆-花朵吸食者's voice channel changed !
+2020-08-28 17:25:17,352 Level 15: 20_08_29 =?= 20_08_29
+2020-08-28 17:25:17,353 INFO: 兔子腦🧠 was token
+2020-08-28 17:25:17,353 Level 15: no write and no update in SOP
+2020-08-28 17:25:17,354 INFO: operation succ with 兔子腦🧠's voice channel changed !
