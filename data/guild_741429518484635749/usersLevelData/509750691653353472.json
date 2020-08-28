@@ -1,12 +1,13 @@
 {
     "nick": "佛系跑圖的賴馬",
-    "lastDate": "20_08_27",
+    "lastDate": "20_08_29",
     "xpDeque": [
         13,
         0,
         1,
-        0
+        0,
+        1
     ],
-    "xpTotal": 14,
+    "xpTotal": 15,
     "eternal": 0
 }

@@ -1,11 +1,13 @@
 {
     "nick": "右方、要去辦公室可以@我<3",
-    "lastDate": "20_08_27",
+    "lastDate": "20_08_29",
     "xpDeque": [
+        1,
+        0,
         1,
         0,
         0
     ],
-    "xpTotal": 1,
+    "xpTotal": 2,
     "eternal": 0
 }
