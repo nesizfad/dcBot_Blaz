@@ -5,10 +5,25 @@ import os
 import json
 import datetime
 import asyncio
+import logging
+
+DEBUG_CHECK = 15
+FORMAT = '%(asctime)s %(levelname)s: %(message)s'
+DATA_CREATE = datetime.datetime.now().strftime( '%y-%m-%d_%H-%M-%S' )
+
+logging.basicConfig( level=DEBUG_CHECK, filename=f'{DATA_CREATE}.log', filemode='w', format=FORMAT )
+
+logging.debug( 'debug message' )
+logging.info( 'info message' )
+logging.warning( 'warning message' )
+logging.error( 'error message' )
+logging.critical( 'critical message' )
 
 g_cache_dict = {}
 g_is_inloop_check = False
 g_check_cancel = False
+
+g_path_data = '/data'
 
 
 def is_user_in_cache( today: str, userID: str, guildID: str, yesterday: str, guild: discord.Guild ) -> bool:
@@ -33,7 +48,7 @@ def is_user_in_cache( today: str, userID: str, guildID: str, yesterday: str, gui
 async def loop_to_check( guild: discord.Guild, today: str ) -> bool:
     global g_check_cancel
     global g_is_inloop_check
-    print( f'{today=}' )
+    logging.log( DEBUG_CHECK, f'{today=}' )
     count = 0
     log_channel = guild.get_channel( {
         690548499233636362: 741666177050214430,
@@ -48,7 +63,7 @@ async def loop_to_check( guild: discord.Guild, today: str ) -> bool:
             g_check_cancel = False
             g_is_inloop_check = False
             return False
-        print( f'\n deal with {m.display_name}({m.id})' )
+        logging.info( f'\n deal with {m.display_name}({m.id})' )
         count += 1
         await asyncio.sleep( 0.5 )
         manager = ManagerExperienceViaUser( userObj=m,
@@ -59,33 +74,34 @@ async def loop_to_check( guild: discord.Guild, today: str ) -> bool:
         await manager.check_activity()
         bd = str( manager.data )
         if ad != bd:
-            print( f'{ad=}' )
-            print( f'{bd=}' )
+            logging.log( DEBUG_CHECK, f'{ad=}' )
+            logging.log( DEBUG_CHECK, f'{bd=}' )
         if count % 20 == 1:
             await progress_msgObj.edit(
                 content=f"check on {m.mention} process {count*100/(c:=guild.member_count)}%({count}/{c})" )
-    print( 'finish' )
+    logging.info( 'finish' )
     await progress_msgObj.edit( content=f"process {100}%({count}/{guild.member_count})", delete_after=86400 )
     g_is_inloop_check = False
 
 
 def load_level_roleObj_dict( guildObj: discord.Guild ) -> { int: discord.Role }:
     global g_cache_dict
+    global g_path_data
     guildID = str( guildObj.id )
     if guildID not in g_cache_dict.keys():
         g_cache_dict[ guildID ] = {}
     if 'levelRoleDict' not in g_cache_dict[ guildID ].keys():
-        path = f"{os.path.dirname( sys.argv[ 0 ] )}data/guild_{guildID}/0rules/levelRoleDict.json"
+        path = f"{os.path.dirname( sys.argv[ 0 ] )}{g_path_data}/guild_{guildID}/0rules/levelRoleDict.json"
         if not os.path.exists( os.path.dirname( path ) ):
             os.makedirs( os.path.dirname( path ) )
         try:
             with open( path, 'r' ) as jsonFile:
                 level_Role_Dict = json.load( jsonFile )
         except FileNotFoundError as e:
-            print( f"{e} , return None" )
+            logging.warning( f"{e} , return None" )
             return None
         except json.JSONDecodeError as e:
-            print( f"file not right , return None , {e}" )
+            logging.error( f"file not right , return None , {e}" )
             return None
         else:
             g_cache_dict[ guildID ][ 'levelRoleDict' ] = ( lv_r_dict := {
@@ -126,14 +142,14 @@ class ManagerExperienceViaUser():
 
         async def dump_and_check( self, *arg, **karg ) -> bool:
             if ( succ_tuple := await func( self, *arg, **karg ) )[ 0 ]:
-                print( 'operated,try save' )
+                logging.log( DEBUG_CHECK, 'operated,try save' )
                 self.data_dump()
-                print( 'saved,try update' )
+                logging.info( 'saved,try update' )
                 await self._update_role()
             elif succ_tuple[ 1 ] == 'normal':
-                print( 'no write and no update in SOP' )
+                logging.log( DEBUG_CHECK, 'no write and no update in SOP' )
             else:
-                print( 'something wrong!' )
+                logging.error( 'something wrong!' )
                 return False
             return True
 
@@ -151,7 +167,7 @@ class ManagerExperienceViaUser():
             with open( self.data_path_str, 'r' ) as jsonFile:
                 self.data = json.load( jsonFile )
         except FileNotFoundError as e:
-            print( str( e ) + 'created temp json' )
+            logging.warning( str( e ) + 'created temp json' )
             self.data = self._generate_new_user_xp_data()
         return self.data
 
@@ -160,12 +176,12 @@ class ManagerExperienceViaUser():
         if len( xpDQ ) > 45:
             xpDQ.remove( xpDQ[ 0 ] )
         self.data[ 'xpTotal' ] += xp
-        print( 'appended' )
+        logging.log( DEBUG_CHECK, 'appended' )
         return True
 
     def _edit_today_xp_add_with( self, xp: int ) -> bool:
         if len( xpDQ := self.data[ 'xpDeque' ] ) < 1:
-            print( f"get error at edit {self.user_obj.display_name} xp" )
+            logging.error( f"get error at edit {self.user_obj.display_name} xp" )
             return False
         else:
             xpDQ[ -1 ] += xp
@@ -178,32 +194,32 @@ class ManagerExperienceViaUser():
     async def add_sign_in_xp( self ) -> ( bool, str ):
         '''簽到'''
         is_succ_sign_in = True  # record if func not run correct
-        print( f"{self.data[ 'lastDate' ]} =?= {self.today_date_str}" )
+        logging.log( DEBUG_CHECK, f"{self.data[ 'lastDate' ]} =?= {self.today_date_str}" )
         if self.data[ 'lastDate' ] != self.today_date_str:
-            print( 'date not match' )
+            logging.log( DEBUG_CHECK, 'date not match' )
             self.data[ 'lastDate' ] = self.today_date_str
             is_succ_sign_in = self._append_xp( 1 )
         elif self.data[ 'xpDeque' ][ -1 ] == 0:  #daily check
             is_succ_sign_in = self._edit_today_xp_add_with( 1 )
         else:
-            print( f'{self.user_obj.display_name} was token' )
+            logging.info( f'{self.user_obj.display_name} was token' )
             return ( False, 'normal' )
-        print( self.data )
+        logging.log( DEBUG_CHECK, self.data )
         return ( is_succ_sign_in, 'optional' )
 
     @_auto_dump_and_check
     async def check_activity( self ) -> ( bool, str ):
         '''確認今日是否上線'''
         if self.data[ 'lastDate' ] != self.today_date_str:
-            print( f"{(d:=self.data[ 'lastDate' ]) =} != {(D:=self.today_date_str) =} ? {d != D =}" )
+            logging.log( DEBUG_CHECK, f"{(d:=self.data[ 'lastDate' ]) =} != {(D:=self.today_date_str) =} ? {d != D =}" )
             self.data[ 'lastDate' ] = self.today_date_str
             if self._append_xp( 0 ):
-                print( f'{self.user_obj.display_name} check succ' )
+                logging.info( f'{self.user_obj.display_name} check succ' )
                 return ( True, 'normal' )
             else:
-                print( '_append_xp fall' )
+                logging.error( '_append_xp fall' )
                 return ( False, 'optional' )
-        print( f'{self.user_obj.display_name} active today' )
+        logging.info( f'{self.user_obj.display_name} active today' )
         return ( False, 'normal' )
 
     @_auto_dump_and_check
@@ -225,7 +241,7 @@ class ManagerExperienceViaUser():
         '''給予初始值'''
         self.data[ 'xpDeque' ].insert( 0, xp )
         self.data[ 'xpTotal' ] += xp
-        print( self.data )
+        logging.log( DEBUG_CHECK, self.data )
         return ( True, 'normal' )
 
     def trans_xp_to_external( self ) -> ( bool, str ):
@@ -247,7 +263,7 @@ class ManagerExperienceViaUser():
 
     def _what_role_should_be( self ) -> discord.Role:
         if self.lv_role_dict is None:
-            print( 'rule is not load' )
+            logging.warning( 'rule is not load' )
             return None
         lvs_r = [ *( lvs := list( self.lv_role_dict.keys() ) ), lvs[ -1 ] * 2 ][ 1: ]
         vaild_xp = self._how_many_xp_have()[ 0 ]
@@ -258,35 +274,35 @@ class ManagerExperienceViaUser():
 
     async def _update_role( self ) -> bool:
         if self.lv_role_dict is None:
-            print( 'rule is not load' )
+            logging.warning( 'rule is not load' )
             return False
         cRole = self._what_role_should_be()
         if len( lruh := [ role for role in self.user_obj.roles
                           if role in self.lv_role_dict.values() ] ) != 1 or cRole not in lruh:  #level_roles_user_have
-            print( f"{lruh} , {cRole}" )
+            logging.info( f"{lruh} , {cRole}" )
             if len( ex_roles := [ role for role in lruh if role is not cRole ] ) != 0:
                 await self.user_obj.remove_roles( *ex_roles )
             if cRole not in lruh and cRole is not None:
                 await self.user_obj.add_roles( cRole )
-            print( 'role update' )
+            logging.info( 'role update' )
             return True
         else:
-            print( 'no change' )
+            logging.info( 'no change' )
             return True
 
     def data_dump( self ) -> ( bool, str ):
-        print( 'try to save' )
+        logging.log( DEBUG_CHECK, 'try to save' )
         if not os.path.exists( os.path.dirname( self.data_path_str ) ):
             os.makedirs( os.path.dirname( self.data_path_str ) )
         try:
             with open( self.data_path_str, 'w' ) as jsonFile:
-                print( self.data )
+                logging.log( DEBUG_CHECK, self.data )
                 json.dump( self.data, jsonFile, indent=4, ensure_ascii=False )
         except IOError as e:
-            print( "IOError with " + str( e ) )
+            logging.error( "IOError with " + str( e ) )
             return False
         else:
-            print( f"outputed{self.user_obj.display_name}({self.user_obj.id})'s json" )
+            logging.log( DEBUG_CHECK, f"outputed{self.user_obj.display_name}({self.user_obj.id})'s json" )
             return True
 
     def return_data( self ) -> ( discord.Role, int, int, int, int, int, str ):
@@ -308,7 +324,8 @@ def get_today_date_with_delta_str( hours: int = 0 ) -> str:
 
 
 def get_user_json_path( guildID: int, userID: int ) -> str:
-    return f"{os.path.dirname( sys.argv[ 0 ] )}data/guild_{guildID}/usersLevelData/{userID}.json"
+    global g_path_data
+    return f"{os.path.dirname( sys.argv[ 0 ] )}{g_path_data}/guild_{guildID}/usersLevelData/{userID}.json"
 
 
 class Levels( ExtensionBase, name='Levels parts' ):
@@ -316,7 +333,7 @@ class Levels( ExtensionBase, name='Levels parts' ):
     @commands.Cog.listener()
     async def on_message( self, msg: discord.Message ) -> bool:
         if msg.guild.id not in [ 690548499233636362, 741429518484635749 ]:
-            print( ' not right guild' )
+            logging.warning( ' not right guild' )
             return
 
         today_date_str = get_today_date_with_delta_str( hours=8 )  #UTC+8
@@ -326,7 +343,7 @@ class Levels( ExtensionBase, name='Levels parts' ):
                              userID=msg.author.id,
                              yesterday=get_today_date_with_delta_str( hours=-24 ),
                              guild=msg.guild ):  #TODO:make this update check
-            print( f"operation succ with (in cache){msg.author.display_name} on message" )
+            logging.info( f"operation succ with (in cache){msg.author.display_name} on message" )
             return
 
         path = get_user_json_path( guildID=msg.guild.id, userID=msg.author.id )
@@ -338,15 +355,15 @@ class Levels( ExtensionBase, name='Levels parts' ):
 
         flag = await user_xp_manager.add_sign_in_xp()
         if flag:
-            print( f"operation succ with {msg.author.display_name} on message" )
+            logging.info( f"operation succ with {msg.author.display_name} on message" )
         else:
-            print( '\n\noperation failure\n\n' )
+            logging.error( '\n\noperation failure\n\n' )
             return False
 
     @commands.Cog.listener()
     async def on_voice_state_update( self, member: discord.Member, before: discord.VoiceState, after: discord.VoiceState ):
         if member.guild.id not in [ 690548499233636362, 741429518484635749 ]:
-            print( ' not right guild' )
+            logging.warning( ' not right guild' )
             return
 
         #print()
@@ -358,7 +375,7 @@ class Levels( ExtensionBase, name='Levels parts' ):
                              userID=member.id,
                              yesterday=get_today_date_with_delta_str( hours=-24 ),
                              guild=member.guild ):  #TODO:make this update check
-            print( f"operation succ with (in cache){member.display_name}'s voice channel changed !" )
+            logging.info( f"operation succ with (in cache){member.display_name}'s voice channel changed !" )
             return
 
         path = get_user_json_path( guildID=member.guild.id, userID=member.id )
@@ -370,9 +387,9 @@ class Levels( ExtensionBase, name='Levels parts' ):
 
         flag = await user_xp_manager.add_sign_in_xp()
         if flag:
-            print( f"operation succ with {member.display_name}'s voice channel changed !" )
+            logging.info( f"operation succ with {member.display_name}'s voice channel changed !" )
         else:
-            print( '\n\noperation failure with voice channel changed\n\n' )
+            logging.error( '\n\noperation failure with voice channel changed\n\n' )
             return False
 
     @commands.group( name="Manage_XP_With_Command", aliases=[ 'xp' ] )
@@ -383,7 +400,7 @@ class Levels( ExtensionBase, name='Levels parts' ):
     @commands.has_permissions( administrator=True )
     async def reward( self, ctx: commands.Context, member: discord.Member, xp: int = 0 ):
         if ctx.guild.id not in [ 690548499233636362, 741429518484635749 ]:
-            print( 'not right guild' )
+            logging.warning( 'not right guild' )
             return
 
         today_date_str = get_today_date_with_delta_str( hours=8 )  #UTC+8
@@ -406,7 +423,7 @@ class Levels( ExtensionBase, name='Levels parts' ):
             return
 
         if ctx.guild.id not in [ 690548499233636362, 741429518484635749 ]:
-            print( 'not right guild' )
+            logging.warning( 'not right guild' )
             return
 
         today_date_str = get_today_date_with_delta_str( hours=8 )  #UTC+8
@@ -454,15 +471,15 @@ class Levels( ExtensionBase, name='Levels parts' ):
     @commands.has_permissions( administrator=True )
     async def check_whole_guild_member_activity( self, ctx: commands.Context ):
         if ctx.guild.id not in [ 690548499233636362, 741429518484635749 ]:
-            print( 'not right guild' )
+            logging.warning( 'not right guild' )
             return
 
         global g_is_inloop_check
         if g_is_inloop_check is True:
-            print( 'method invaild' )
+            logging.warning( 'method invaild' )
             await ctx.send( content='method invaild bcuz others is running' )
             return
-        print( '\n\nin process\n\n' )
+        logging.info( '\n\nin process\n\n' )
         await loop_to_check( guild=ctx.guild, today=get_today_date_with_delta_str( hours=8 ) )
 
     @staticmethod
@@ -475,7 +492,7 @@ class Levels( ExtensionBase, name='Levels parts' ):
                                                     thisGuildLevelRoleDict=load_level_roleObj_dict( guildObj=ctx.guild ) )
         lv_r_obj, t_x, v_x, r_x, l_x, e_x, last_date = user_xp_manager.return_data()
 
-        print( [ type( lv_r_obj ), t_x, v_x, r_x, l_x, e_x, last_date ] )
+        logging.log( DEBUG_CHECK, [ type( lv_r_obj ), t_x, v_x, r_x, l_x, e_x, last_date ] )
 
         if last_date == 'null':
             await ctx.send( content=f"尚無{member.mention}的經驗值資料，請他先在伺服器上留下足跡吧", delete_after=600 )
@@ -502,7 +519,7 @@ class Levels( ExtensionBase, name='Levels parts' ):
     @commands.has_permissions( administrator=True )
     async def member_level_data( self, ctx: commands.Context, member: discord.Member ):
         if ctx.guild.id not in [ 690548499233636362, 741429518484635749 ]:
-            print( ' not right guild' )
+            logging.warning( ' not right guild' )
             return
 
         await self.send_level_data( ctx=ctx, member=member )
@@ -512,7 +529,7 @@ class Levels( ExtensionBase, name='Levels parts' ):
     @commands.has_permissions( administrator=True )
     async def check_cancel( self, ctx: commands.Context ):
         if ctx.guild.id not in [ 690548499233636362, 741429518484635749 ]:
-            print( ' not right guild' )
+            logging.warning( ' not right guild' )
             return
 
         global g_check_cancel
@@ -522,7 +539,7 @@ class Levels( ExtensionBase, name='Levels parts' ):
     @commands.has_permissions( administrator=True )
     async def check_single_person( self, ctx: commands.Context, member: discord.Member ):
         if ctx.guild.id not in [ 690548499233636362, 741429518484635749 ]:
-            print( ' not right guild' )
+            logging.warning( ' not right guild' )
             return
 
         today_date_str = get_today_date_with_delta_str( hours=8 )  #UTC+8
@@ -541,7 +558,7 @@ class Levels( ExtensionBase, name='Levels parts' ):
     @commands.command( name='level_data', aliases=[ 'level', 'lvd' ] )
     async def level_data( self, ctx: commands.Context ):
         if ctx.guild.id not in [ 690548499233636362, 741429518484635749 ]:
-            print( ' not right guild' )
+            logging.warning( ' not right guild' )
             return
 
         await self.send_level_data( ctx=ctx, member=ctx.author )

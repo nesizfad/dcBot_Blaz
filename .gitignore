@@ -1,0 +1,12 @@
+.vscode/settings.json
+.vscode/.style.yapf
+*loc*.*
+*.zip
+*.log
+*.gdoc
+.env
+.tmp/
+*.driveupload
+
+!*-[1-9][1-9].log
+*.cpython-38.pyc

@@ -1,0 +1,74 @@
+2020-08-28 16:30:19,803 INFO: info message
+2020-08-28 16:30:19,803 WARNING: warning message
+2020-08-28 16:30:19,803 ERROR: error message
+2020-08-28 16:30:19,803 CRITICAL: critical message
+2020-08-28 16:30:19,805 INFO: logging in using static token
+2020-08-28 16:30:20,594 INFO: Shard ID None has sent the IDENTIFY payload.
+2020-08-28 16:30:20,668 INFO:  * Running on http://0.0.0.0:6595/ (Press CTRL+C to quit)
+2020-08-28 16:30:20,930 INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-crc6",{"micros":103653,"calls":["discord-sessions-prd-2-9",{"micros":100002,"calls":["start_session",{"micros":44051,"calls":["api-prd-main-njn8",{"micros":41805,"calls":["get_user",{"micros":2480},"add_authorized_ip",{"micros":1309},"get_guilds",{"micros":3970},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":47083,"calls":[]}]}]}] (Session ID: ae7140350d87ea54d0cec2498356ce30).
+2020-08-28 16:30:23,530 INFO: Finished requesting guild member chunks for 1 guilds.
+2020-08-28 16:31:10,049 Level 15: 20_08_29 =?= 20_08_29
+2020-08-28 16:31:10,050 INFO: Blaz was token
+2020-08-28 16:31:10,050 Level 15: no write and no update in SOP
+2020-08-28 16:31:10,050 INFO: operation succ with Blaz on message
+2020-08-28 16:31:13,158 INFO: operation succ with (in cache)Blaz on message
+2020-08-28 16:32:47,738 Level 15: 20_08_28 =?= 20_08_29
+2020-08-28 16:32:47,738 Level 15: date not match
+2020-08-28 16:32:47,738 Level 15: appended
+2020-08-28 16:32:47,738 Level 15: {'nick': '阿倉 • 龍卡天下第一💙', 'lastDate': '20_08_29', 'xpDeque': [3, 0, 1, 0, 1, 1], 'xpTotal': 6, 'eternal': 0}
+2020-08-28 16:32:47,738 Level 15: operated,try save
+2020-08-28 16:32:47,738 Level 15: try to save
+2020-08-28 16:32:47,739 Level 15: {'nick': '阿倉 • 龍卡天下第一💙', 'lastDate': '20_08_29', 'xpDeque': [3, 0, 1, 0, 1, 1], 'xpTotal': 6, 'eternal': 0}
+2020-08-28 16:32:47,739 Level 15: outputed阿倉 • 龍卡萬歲(666760547135520768)'s json
+2020-08-28 16:32:47,739 INFO: saved,try update
+2020-08-28 16:32:47,739 INFO: no change
+2020-08-28 16:32:47,739 INFO: operation succ with 阿倉 • 龍卡萬歲 on message
+2020-08-28 16:33:13,072 INFO: operation succ with (in cache)阿倉 • 龍卡萬歲 on message
+2020-08-28 16:34:22,365 Level 15: 20_08_29 =?= 20_08_29
+2020-08-28 16:34:22,365 INFO: 兔子腦🧠 was token
+2020-08-28 16:34:22,365 Level 15: no write and no update in SOP
+2020-08-28 16:34:22,365 INFO: operation succ with 兔子腦🧠's voice channel changed !
+2020-08-28 16:34:49,851 Level 15: 20_08_29 =?= 20_08_29
+2020-08-28 16:34:49,851 INFO: 煙煙☁我終於拐到一個小可愛了嗚嗚嗚 was token
+2020-08-28 16:34:49,851 Level 15: no write and no update in SOP
+2020-08-28 16:34:49,851 INFO: operation succ with 煙煙☁我終於拐到一個小可愛了嗚嗚嗚 on message
+2020-08-28 16:40:34,895 Level 15: 20_08_27 =?= 20_08_29
+2020-08-28 16:40:34,895 Level 15: date not match
+2020-08-28 16:40:34,895 Level 15: appended
+2020-08-28 16:40:34,895 Level 15: {'nick': 'Awkward Silence S', 'lastDate': '20_08_29', 'xpDeque': [1, 1, 0, 1], 'xpTotal': 3, 'eternal': 0}
+2020-08-28 16:40:34,895 Level 15: operated,try save
+2020-08-28 16:40:34,895 Level 15: try to save
+2020-08-28 16:40:34,896 Level 15: {'nick': 'Awkward Silence S', 'lastDate': '20_08_29', 'xpDeque': [1, 1, 0, 1], 'xpTotal': 3, 'eternal': 0}
+2020-08-28 16:40:34,896 Level 15: outputed鯊魚腦🧠(679721982803443904)'s json
+2020-08-28 16:40:34,896 INFO: saved,try update
+2020-08-28 16:40:34,896 INFO: no change
+2020-08-28 16:40:34,896 INFO: operation succ with 鯊魚腦🧠 on message
+2020-08-28 16:41:33,928 Level 15: 20_08_28 =?= 20_08_29
+2020-08-28 16:41:33,928 Level 15: date not match
+2020-08-28 16:41:33,928 Level 15: appended
+2020-08-28 16:41:33,928 Level 15: {'nick': '墨言-難過，對方說要互心，結果對方差點不給我愛心(´；ω；｀)', 'lastDate': '20_08_29', 'xpDeque': [3, 1, 2, 1, 1, 1], 'xpTotal': 9, 'eternal': 0.1}
+2020-08-28 16:41:33,936 Level 15: operated,try save
+2020-08-28 16:41:33,936 Level 15: try to save
+2020-08-28 16:41:33,936 Level 15: {'nick': '墨言-難過，對方說要互心，結果對方差點不給我愛心(´；ω；｀)', 'lastDate': '20_08_29', 'xpDeque': [3, 1, 2, 1, 1, 1], 'xpTotal': 9, 'eternal': 0.1}
+2020-08-28 16:41:33,937 Level 15: outputed墨言腦🧠-準備找尋固玩同伴👀(723461723004338204)'s json
+2020-08-28 16:41:33,937 INFO: saved,try update
+2020-08-28 16:41:33,937 INFO: no change
+2020-08-28 16:41:33,937 INFO: operation succ with 墨言腦🧠-準備找尋固玩同伴👀 on message
+2020-08-28 16:42:01,223 INFO: operation succ with (in cache)墨言腦🧠-準備找尋固玩同伴👀 on message
+2020-08-28 16:48:59,170 Level 15: 20_08_29 =?= 20_08_29
+2020-08-28 16:48:59,170 INFO: 雨🐳 was token
+2020-08-28 16:48:59,170 Level 15: no write and no update in SOP
+2020-08-28 16:48:59,170 INFO: operation succ with 雨🐳 on message
+2020-08-28 16:49:22,148 INFO: operation succ with (in cache)雨🐳 on message
+2020-08-28 16:52:07,805 INFO: operation succ with (in cache)煙煙☁我終於拐到一個小可愛了嗚嗚嗚 on message
+2020-08-28 16:52:36,026 Level 15: 20_08_28 =?= 20_08_29
+2020-08-28 16:52:36,026 Level 15: date not match
+2020-08-28 16:52:36,026 Level 15: appended
+2020-08-28 16:52:36,026 Level 15: {'nick': 'X× Lowe♡姆姆 ×X', 'lastDate': '20_08_29', 'xpDeque': [25, 1, 1, 1, 1, 1], 'xpTotal': 30, 'eternal': 0}
+2020-08-28 16:52:36,026 Level 15: operated,try save
+2020-08-28 16:52:36,026 Level 15: try to save
+2020-08-28 16:52:36,027 Level 15: {'nick': 'X× Lowe♡姆姆 ×X', 'lastDate': '20_08_29', 'xpDeque': [25, 1, 1, 1, 1, 1], 'xpTotal': 30, 'eternal': 0}
+2020-08-28 16:52:36,027 Level 15: outputedX× Lowe♡姆姆 ×X(616981256768585758)'s json
+2020-08-28 16:52:36,027 INFO: saved,try update
+2020-08-28 16:52:36,027 INFO: no change
+2020-08-28 16:52:36,027 INFO: operation succ with X× Lowe♡姆姆 ×X's voice channel changed !
