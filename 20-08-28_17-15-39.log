@@ -86,3 +86,120 @@
 2020-08-28 17:25:17,353 INFO: 兔子腦🧠 was token
 2020-08-28 17:25:17,353 Level 15: no write and no update in SOP
 2020-08-28 17:25:17,354 INFO: operation succ with 兔子腦🧠's voice channel changed !
+2020-08-28 17:25:27,305 Level 15: 20_08_27 =?= 20_08_29
+2020-08-28 17:25:27,305 Level 15: date not match
+2020-08-28 17:25:27,306 Level 15: appended
+2020-08-28 17:25:27,306 Level 15: {'nick': 'reika 💠 冷華', 'lastDate': '20_08_29', 'xpDeque': [0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-08-28 17:25:27,306 Level 15: operated,try save
+2020-08-28 17:25:27,306 Level 15: try to save
+2020-08-28 17:25:27,306 Level 15: {'nick': 'reika 💠 冷華', 'lastDate': '20_08_29', 'xpDeque': [0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-08-28 17:25:27,306 Level 15: outputedreika 💠 冷華(501059956229931029)'s json
+2020-08-28 17:25:27,306 INFO: saved,try update
+2020-08-28 17:25:27,307 INFO: no change
+2020-08-28 17:25:27,307 INFO: operation succ with reika 💠 冷華 on message
+2020-08-28 17:30:03,277 Level 15: 20_08_29 =?= 20_08_29
+2020-08-28 17:30:03,279 INFO: 阿倉 • 龍卡萬歲 was token
+2020-08-28 17:30:03,279 Level 15: no write and no update in SOP
+2020-08-28 17:30:03,279 INFO: operation succ with 阿倉 • 龍卡萬歲 on message
+2020-08-28 17:30:12,853 INFO: operation succ with (in cache)阿倉 • 龍卡萬歲 on message
+2020-08-28 17:30:15,282 Level 15: 20_08_28 =?= 20_08_29
+2020-08-28 17:30:15,282 Level 15: date not match
+2020-08-28 17:30:15,282 Level 15: appended
+2020-08-28 17:30:15,282 Level 15: {'nick': '晨攸-太陽蛋水母頭真Q𓆝𓆜𓆟𓆞', 'lastDate': '20_08_29', 'xpDeque': [11, 1, 2, 1, 1, 1], 'xpTotal': 17, 'eternal': 0.1}
+2020-08-28 17:30:15,283 Level 15: operated,try save
+2020-08-28 17:30:15,283 Level 15: try to save
+2020-08-28 17:30:15,283 Level 15: {'nick': '晨攸-太陽蛋水母頭真Q𓆝𓆜𓆟𓆞', 'lastDate': '20_08_29', 'xpDeque': [11, 1, 2, 1, 1, 1], 'xpTotal': 17, 'eternal': 0.1}
+2020-08-28 17:30:15,283 Level 15: outputed晨攸-水母頭太Q了，想吃(459279265343733762)'s json
+2020-08-28 17:30:15,283 INFO: saved,try update
+2020-08-28 17:30:15,283 INFO: no change
+2020-08-28 17:30:15,284 INFO: operation succ with 晨攸-水母頭太Q了，想吃's voice channel changed !
+2020-08-28 17:30:22,523 INFO: operation succ with (in cache)阿倉 • 龍卡萬歲 on message
+2020-08-28 17:31:01,028 INFO: operation succ with (in cache)阿倉 • 龍卡萬歲 on message
+2020-08-28 17:31:34,093 INFO: operation succ with (in cache)阿倉 • 龍卡萬歲 on message
+2020-08-28 17:32:29,325 Level 15: 20_08_27 =?= 20_08_29
+2020-08-28 17:32:29,325 Level 15: date not match
+2020-08-28 17:32:29,325 Level 15: appended
+2020-08-28 17:32:29,325 Level 15: {'nick': '奶綠-我醒著呢  我沒傻唷', 'lastDate': '20_08_29', 'xpDeque': [0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-08-28 17:32:29,325 Level 15: operated,try save
+2020-08-28 17:32:29,325 Level 15: try to save
+2020-08-28 17:32:29,326 Level 15: {'nick': '奶綠-我醒著呢  我沒傻唷', 'lastDate': '20_08_29', 'xpDeque': [0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-08-28 17:32:29,326 Level 15: outputed透流-戰雙 明日正式啟動(720892491187880027)'s json
+2020-08-28 17:32:29,326 INFO: saved,try update
+2020-08-28 17:32:29,326 INFO: no change
+2020-08-28 17:32:29,326 INFO: operation succ with 透流-戰雙 明日正式啟動's voice channel changed !
+2020-08-28 17:32:45,608 INFO: operation succ with (in cache)透流-戰雙 明日正式啟動's voice channel changed !
+2020-08-28 17:34:28,312 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃 on message
+2020-08-28 17:34:36,924 INFO: operation succ with (in cache)阿倉 • 龍卡萬歲 on message
+2020-08-28 17:35:19,778 INFO: operation succ with (in cache)X× Lowe♡姆姆 ×X on message
+2020-08-28 17:35:43,931 INFO: operation succ with (in cache)X× Lowe♡姆姆 ×X on message
+2020-08-28 17:36:05,131 Level 15: 20_08_29 =?= 20_08_29
+2020-08-28 17:36:05,131 INFO: 小喇叭3(>>) was token
+2020-08-28 17:36:05,131 Level 15: no write and no update in SOP
+2020-08-28 17:36:05,131 INFO: operation succ with 小喇叭3(>>)'s voice channel changed !
+2020-08-28 17:36:19,920 INFO: operation succ with (in cache)X× Lowe♡姆姆 ×X's voice channel changed !
+2020-08-28 17:37:00,169 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃 on message
+2020-08-28 17:38:21,344 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃 on message
+2020-08-28 17:38:22,181 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃 on message
+2020-08-28 17:40:40,131 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃 on message
+2020-08-28 17:40:56,100 INFO: operation succ with (in cache)阿倉 • 龍卡萬歲 on message
+2020-08-28 17:41:12,654 INFO: operation succ with (in cache)阿倉 • 龍卡萬歲 on message
+2020-08-28 17:41:56,864 Level 15: 20_08_29 =?= 20_08_29
+2020-08-28 17:41:56,865 INFO: 雨🐳 was token
+2020-08-28 17:41:56,865 Level 15: no write and no update in SOP
+2020-08-28 17:41:56,865 INFO: operation succ with 雨🐳's voice channel changed !
+2020-08-28 17:42:04,194 Level 15: 20_08_28 =?= 20_08_29
+2020-08-28 17:42:04,194 Level 15: date not match
+2020-08-28 17:42:04,194 Level 15: appended
+2020-08-28 17:42:04,194 Level 15: {'nick': '雪夏(,,Ծ‸Ծ,, )', 'lastDate': '20_08_29', 'xpDeque': [0, 0, 0, 1, 1], 'xpTotal': 2, 'eternal': 0}
+2020-08-28 17:42:04,194 Level 15: operated,try save
+2020-08-28 17:42:04,194 Level 15: try to save
+2020-08-28 17:42:04,194 Level 15: {'nick': '雪夏(,,Ծ‸Ծ,, )', 'lastDate': '20_08_29', 'xpDeque': [0, 0, 0, 1, 1], 'xpTotal': 2, 'eternal': 0}
+2020-08-28 17:42:04,195 Level 15: outputed雪夏(,,Ծ‸Ծ,, )(665181477373476873)'s json
+2020-08-28 17:42:04,195 INFO: saved,try update
+2020-08-28 17:42:04,195 INFO: [<Role id=741691856890495046 name='一翼'>] , 兩翼
+2020-08-28 17:42:04,937 INFO: role update
+2020-08-28 17:42:04,937 INFO: operation succ with 雪夏(,,Ծ‸Ծ,, ) on message
+2020-08-28 17:42:37,338 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃 on message
+2020-08-28 17:43:17,464 Level 15: 20_08_29 =?= 20_08_29
+2020-08-28 17:43:17,465 INFO: 貓.爆肝的高中生 was token
+2020-08-28 17:43:17,465 Level 15: no write and no update in SOP
+2020-08-28 17:43:17,465 INFO: operation succ with 貓.爆肝的高中生 on message
+2020-08-28 17:43:27,185 Level 15: 20_08_27 =?= 20_08_29
+2020-08-28 17:43:27,185 Level 15: date not match
+2020-08-28 17:43:27,185 Level 15: appended
+2020-08-28 17:43:27,185 Level 15: {'nick': '企鵝', 'lastDate': '20_08_29', 'xpDeque': [0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-08-28 17:43:27,185 Level 15: operated,try save
+2020-08-28 17:43:27,185 Level 15: try to save
+2020-08-28 17:43:27,186 Level 15: {'nick': '企鵝', 'lastDate': '20_08_29', 'xpDeque': [0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-08-28 17:43:27,186 Level 15: outputed企鵝(129916455884947456)'s json
+2020-08-28 17:43:27,186 INFO: saved,try update
+2020-08-28 17:43:27,186 INFO: no change
+2020-08-28 17:43:27,186 INFO: operation succ with 企鵝 on message
+2020-08-28 17:43:30,631 INFO: operation succ with (in cache)reika 💠 冷華's voice channel changed !
+2020-08-28 17:43:34,610 INFO: operation succ with (in cache)reika 💠 冷華's voice channel changed !
+2020-08-28 17:44:22,362 Level 15: 20_08_27 =?= 20_08_29
+2020-08-28 17:44:22,363 Level 15: date not match
+2020-08-28 17:44:22,363 Level 15: appended
+2020-08-28 17:44:22,363 Level 15: {'nick': '英式奶茶', 'lastDate': '20_08_29', 'xpDeque': [1, 1, 0, 1], 'xpTotal': 3, 'eternal': 0}
+2020-08-28 17:44:22,363 Level 15: operated,try save
+2020-08-28 17:44:22,364 Level 15: try to save
+2020-08-28 17:44:22,364 Level 15: {'nick': '英式奶茶', 'lastDate': '20_08_29', 'xpDeque': [1, 1, 0, 1], 'xpTotal': 3, 'eternal': 0}
+2020-08-28 17:44:22,364 Level 15: outputed英式奶茶☕(524506094005911572)'s json
+2020-08-28 17:44:22,364 INFO: saved,try update
+2020-08-28 17:44:22,364 INFO: no change
+2020-08-28 17:44:22,364 INFO: operation succ with 英式奶茶☕ on message
+2020-08-28 17:44:38,490 INFO: operation succ with (in cache)英式奶茶☕ on message
+2020-08-28 17:45:30,512 INFO: operation succ with (in cache)英式奶茶☕ on message
+2020-08-28 17:51:19,026 Level 15: 20_08_27 =?= 20_08_29
+2020-08-28 17:51:19,028 Level 15: date not match
+2020-08-28 17:51:19,028 Level 15: appended
+2020-08-28 17:51:19,028 Level 15: {'nick': '雷特', 'lastDate': '20_08_29', 'xpDeque': [3, 0, 1, 0, 1], 'xpTotal': 5, 'eternal': 0}
+2020-08-28 17:51:19,028 Level 15: operated,try save
+2020-08-28 17:51:19,028 Level 15: try to save
+2020-08-28 17:51:19,028 Level 15: {'nick': '雷特', 'lastDate': '20_08_29', 'xpDeque': [3, 0, 1, 0, 1], 'xpTotal': 5, 'eternal': 0}
+2020-08-28 17:51:19,029 Level 15: outputed雷特(736859682379137036)'s json
+2020-08-28 17:51:19,029 INFO: saved,try update
+2020-08-28 17:51:19,029 INFO: no change
+2020-08-28 17:51:19,029 INFO: operation succ with 雷特 on message
+2020-08-28 17:51:27,044 INFO: operation succ with (in cache)雷特 on message
+2020-08-28 17:51:39,274 INFO: operation succ with (in cache)雷特 on message
