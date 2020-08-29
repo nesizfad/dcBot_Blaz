@@ -21649,3 +21649,28 @@ in process
 2020-08-29 12:50:43,165 INFO: operation succ with (in cache)史萊姆-花朵吸食者's voice channel changed !
 2020-08-29 12:51:16,804 INFO: operation succ with (in cache)覺得兔子好危險的怨靈 on message
 2020-08-29 12:51:49,065 INFO: operation succ with (in cache)覺得兔子好危險的怨靈 on message
+2020-08-29 12:54:31,884 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 12:54:31,886 Level 15: {'nick': '小果', 'lastDate': '20_08_29', 'xpDeque': [0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-08-29 12:54:31,886 Level 15: operated,try save
+2020-08-29 12:54:31,886 Level 15: try to save
+2020-08-29 12:54:31,888 Level 15: {'nick': '小果', 'lastDate': '20_08_29', 'xpDeque': [0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-08-29 12:54:31,888 Level 15: outputed小果(697032513553563738)'s json
+2020-08-29 12:54:31,888 INFO: saved,try update
+2020-08-29 12:54:31,888 INFO: [] , 一翼
+2020-08-29 12:54:32,260 INFO: role update
+2020-08-29 12:54:32,260 INFO: operation succ with 小果 on message
+2020-08-29 12:55:30,065 INFO: operation succ with (in cache)覺得兔子好危險的怨靈's voice channel changed !
+2020-08-29 12:56:46,875 WARNING: [Errno 2] No such file or directory: 'D:\\VirtualStudio_Code_Programming\\VSCode_Python3_DiscordBot/data/guild_741429518484635749/usersLevelData/549237677938180096.json'created temp json
+2020-08-29 12:56:46,878 Level 15: null =?= 20_08_29
+2020-08-29 12:56:46,878 Level 15: date not match
+2020-08-29 12:56:46,878 Level 15: appended
+2020-08-29 12:56:46,879 Level 15: {'nick': '貓神', 'lastDate': '20_08_29', 'xpDeque': [1], 'xpTotal': 1, 'eternal': 0}
+2020-08-29 12:56:46,879 Level 15: operated,try save
+2020-08-29 12:56:46,879 Level 15: try to save
+2020-08-29 12:56:46,880 Level 15: {'nick': '貓神', 'lastDate': '20_08_29', 'xpDeque': [1], 'xpTotal': 1, 'eternal': 0}
+2020-08-29 12:56:46,880 Level 15: outputed貓神(549237677938180096)'s json
+2020-08-29 12:56:46,881 INFO: saved,try update
+2020-08-29 12:56:46,881 INFO: [] , 一翼
+2020-08-29 12:56:47,248 INFO: role update
+2020-08-29 12:56:47,248 INFO: operation succ with 貓神 on message
+2020-08-29 12:58:05,719 INFO: operation succ with (in cache)🕯's voice channel changed !
