@@ -1,12 +1,13 @@
 {
     "nick": "🕯",
-    "lastDate": "20_08_29",
+    "lastDate": "20_08_30",
     "xpDeque": [
         3,
         1,
         1,
         0,
-        1
+        1,
+        0
     ],
     "xpTotal": 5,
     "eternal": 0

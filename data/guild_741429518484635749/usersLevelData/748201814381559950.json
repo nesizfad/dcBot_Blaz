@@ -1,10 +1,11 @@
 {
     "nick": "懶貓",
-    "lastDate": "20_08_29",
+    "lastDate": "20_08_30",
     "xpDeque": [
-        1,
+        0,
+        0,
         0
     ],
-    "xpTotal": 1,
+    "xpTotal": 0,
     "eternal": 0
 }

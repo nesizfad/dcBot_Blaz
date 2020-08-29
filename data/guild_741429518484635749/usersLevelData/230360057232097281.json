@@ -1,12 +1,13 @@
 {
     "nick": "百癸",
-    "lastDate": "20_08_29",
+    "lastDate": "20_08_30",
     "xpDeque": [
         0,
         1,
         1,
         0,
-        1
+        1,
+        0
     ],
     "xpTotal": 3,
     "eternal": 0

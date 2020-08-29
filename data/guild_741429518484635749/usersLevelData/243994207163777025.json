@@ -1,13 +1,14 @@
 {
     "nick": "鮪魚魚骨",
-    "lastDate": "20_08_29",
+    "lastDate": "20_08_30",
     "xpDeque": [
         5,
         1,
         0,
         0,
         1,
-        1
+        1,
+        0
     ],
     "xpTotal": 8,
     "eternal": 0

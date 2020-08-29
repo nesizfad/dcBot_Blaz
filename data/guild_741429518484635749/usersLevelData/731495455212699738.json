@@ -1,13 +1,14 @@
 {
     "nick": "小狼🐾",
-    "lastDate": "20_08_29",
+    "lastDate": "20_08_30",
     "xpDeque": [
+        1,
         1,
         1,
         1,
         1,
         1
     ],
-    "xpTotal": 5,
+    "xpTotal": 6,
     "eternal": 0
 }
