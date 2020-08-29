@@ -1,0 +1,25 @@
+2020-08-29 16:25:14,954 INFO: info message
+2020-08-29 16:25:14,954 WARNING: warning message
+2020-08-29 16:25:14,954 ERROR: error message
+2020-08-29 16:25:14,954 CRITICAL: critical message
+2020-08-29 16:25:14,956 INFO: logging in using static token
+2020-08-29 16:25:15,747 INFO: Shard ID None has sent the IDENTIFY payload.
+2020-08-29 16:25:15,951 INFO:  * Running on http://0.0.0.0:2968/ (Press CTRL+C to quit)
+2020-08-29 16:25:16,077 INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-wrs5",{"micros":94146,"calls":["discord-sessions-prd-2-8",{"micros":93131,"calls":["start_session",{"micros":81272,"calls":["api-prd-main-1j37",{"micros":78248,"calls":["get_user",{"micros":5854},"add_authorized_ip",{"micros":12611},"get_guilds",{"micros":12505},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1283,"calls":[]}]}]}] (Session ID: 2ca91e33ec41c9fc58638fb56ca3b542).
+2020-08-29 16:25:18,642 INFO: Finished requesting guild member chunks for 1 guilds.
+2020-08-29 16:27:38,760 Level 15: [<class 'discord.role.Role'>, 16, 16, 16, 1, 0, '20_08_29']
+2020-08-29 16:27:38,762 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 16:27:38,762 INFO: 涅 was token
+2020-08-29 16:27:38,762 Level 15: no write and no update in SOP
+2020-08-29 16:27:38,762 INFO: operation succ with 涅 on message
+2020-08-29 16:27:39,118 Level 15: 20_08_30 =?= 20_08_29
+2020-08-29 16:27:39,118 Level 15: date not match
+2020-08-29 16:27:39,120 Level 15: appended
+2020-08-29 16:27:39,120 Level 15: {'nick': 'Blaz', 'lastDate': '20_08_29', 'xpDeque': [1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 8, 'eternal': 0}
+2020-08-29 16:27:39,120 Level 15: operated,try save
+2020-08-29 16:27:39,120 Level 15: try to save
+2020-08-29 16:27:39,120 Level 15: {'nick': 'Blaz', 'lastDate': '20_08_29', 'xpDeque': [1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 8, 'eternal': 0}
+2020-08-29 16:27:39,120 Level 15: outputedBlaz(742195760522854482)'s json
+2020-08-29 16:27:39,121 INFO: saved,try update
+2020-08-29 16:27:39,121 INFO: no change
+2020-08-29 16:27:39,121 INFO: operation succ with Blaz on message

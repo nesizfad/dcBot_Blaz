@@ -8,6 +8,8 @@ import asyncio
 import logging
 import logging.handlers
 
+TIMEZONE = 0
+
 DEBUG_CHECK = 15
 FORMAT = '%(asctime)s %(levelname)s: %(message)s'
 DATA_CREATE = datetime.datetime.now().strftime( '%y-%m-%d_%H-%M-%S' )
@@ -43,7 +45,7 @@ def is_user_in_cache( today: str, userID: str, guildID: str, yesterday: str, gui
             g_is_inloop_check = True
             del g_cache_dict[ guildID ][ yesterday ]
             executor = cf.ThreadPoolExecutor(max_workers=1)
-            executor.submit( await loop_to_check( guild=guild, today=get_today_date_with_delta_str( 8 ) )  )
+            executor.submit( await loop_to_check( guild=guild, today=get_today_date_with_delta_str( TODO ) )  )
         '''
     if userID not in g_cache_dict[ guildID ][ today ]:
         g_cache_dict[ guildID ][ today ].append( userID )
@@ -319,7 +321,7 @@ class ManagerExperienceViaUser():
         is_ch_today = self.data[ 'lastDate' ] == self.today_date_str
         for index in range( -1, ( len( self.data[ 'xpDeque' ] ) + 1 ) * -1, -1 ):
             if self.data[ 'xpDeque' ][ index ] != 0:
-                last_date = get_today_date_with_delta_str( hours=8 + 24 * ( index + ( 1 if is_ch_today else 0 ) ) )  #8
+                last_date = get_today_date_with_delta_str( hours=TIMEZONE + 24 * ( index + ( 1 if is_ch_today else 0 ) ) )  #8
                 break
         return ( self._what_role_should_be(), ( data := self.data )[ 'xpTotal' ], ( haveXp := self._how_many_xp_have() )[ 0 ],
                  haveXp[ 1 ], data[ 'xpDeque' ][ -1 ], int( data[ 'eternal' ] ), last_date )
@@ -342,7 +344,7 @@ class Levels( ExtensionBase, name='Levels parts' ):
             level_logger.warning( ' not right guild' )
             return
 
-        today_date_str = get_today_date_with_delta_str( hours=8 )  #UTC+8
+        today_date_str = get_today_date_with_delta_str( hours=TIMEZONE )  #UTC+8
 
         if is_user_in_cache( today=today_date_str,
                              guildID=msg.guild.id,
@@ -374,7 +376,7 @@ class Levels( ExtensionBase, name='Levels parts' ):
 
         #print()
 
-        today_date_str = get_today_date_with_delta_str( hours=8 )  #UTC+8
+        today_date_str = get_today_date_with_delta_str( hours=TIMEZONE )  #UTC+8
 
         if is_user_in_cache( today=today_date_str,
                              guildID=member.guild.id,
@@ -409,7 +411,7 @@ class Levels( ExtensionBase, name='Levels parts' ):
             level_logger.warning( 'not right guild' )
             return
 
-        today_date_str = get_today_date_with_delta_str( hours=8 )  #UTC+8
+        today_date_str = get_today_date_with_delta_str( hours=TIMEZONE )  #UTC+8
         path = get_user_json_path( guildID=ctx.guild.id, userID=member.id )
         user_xp_manager = ManagerExperienceViaUser( userObj=member,
                                                     storePathStr=path,
@@ -432,7 +434,7 @@ class Levels( ExtensionBase, name='Levels parts' ):
             level_logger.warning( 'not right guild' )
             return
 
-        today_date_str = get_today_date_with_delta_str( hours=8 )  #UTC+8
+        today_date_str = get_today_date_with_delta_str( hours=TIMEZONE )  #UTC+8
         if xp == -71235:
             for key, value in {
                     "520586770522570762": "23",
@@ -486,11 +488,11 @@ class Levels( ExtensionBase, name='Levels parts' ):
             await ctx.send( content='method invaild bcuz others is running' )
             return
         level_logger.info( '\n\nin process\n\n' )
-        await loop_to_check( guild=ctx.guild, today=get_today_date_with_delta_str( hours=8 ) )
+        await loop_to_check( guild=ctx.guild, today=get_today_date_with_delta_str( hours=TIMEZONE ) )
 
     @staticmethod
     async def send_level_data( ctx: commands.Context, member: discord.Member ) -> bool:
-        today_date_str = get_today_date_with_delta_str( hours=8 )  #UTC+8
+        today_date_str = get_today_date_with_delta_str( hours=TIMEZONE )  #UTC+8
         path = get_user_json_path( guildID=ctx.guild.id, userID=member.id )
         user_xp_manager = ManagerExperienceViaUser( userObj=member,
                                                     storePathStr=path,
@@ -548,7 +550,7 @@ class Levels( ExtensionBase, name='Levels parts' ):
             level_logger.warning( ' not right guild' )
             return
 
-        today_date_str = get_today_date_with_delta_str( hours=8 )  #UTC+8
+        today_date_str = get_today_date_with_delta_str( hours=TIMEZONE )  #UTC+8
         path = get_user_json_path( guildID=ctx.guild.id, userID=member.id )
         user_xp_manager = ManagerExperienceViaUser( userObj=member,
                                                     storePathStr=path,
