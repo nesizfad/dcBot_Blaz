@@ -23,3 +23,335 @@
 2020-08-29 16:27:39,121 INFO: saved,try update
 2020-08-29 16:27:39,121 INFO: no change
 2020-08-29 16:27:39,121 INFO: operation succ with Blaz on message
+2020-08-29 16:31:29,228 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 16:31:29,228 INFO: たこ焼き was token
+2020-08-29 16:31:29,228 Level 15: no write and no update in SOP
+2020-08-29 16:31:29,228 INFO: operation succ with たこ焼き's voice channel changed !
+2020-08-29 16:31:47,737 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 16:31:47,737 INFO: Midnight lantern. was token
+2020-08-29 16:31:47,737 Level 15: no write and no update in SOP
+2020-08-29 16:31:47,737 INFO: operation succ with Midnight lantern.'s voice channel changed !
+2020-08-29 16:31:51,956 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 16:31:51,956 INFO: 這是喝了會兔子的聰明水 was token
+2020-08-29 16:31:51,956 Level 15: no write and no update in SOP
+2020-08-29 16:31:51,956 INFO: operation succ with 這是喝了會兔子的聰明水's voice channel changed !
+2020-08-29 16:33:07,023 INFO: operation succ with (in cache)たこ焼き's voice channel changed !
+2020-08-29 16:33:11,536 INFO: operation succ with (in cache)這是喝了會兔子的聰明水's voice channel changed !
+2020-08-29 16:33:18,837 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 16:39:32,997 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 16:39:32,997 INFO: 史萊姆茶拿鐵 was token
+2020-08-29 16:39:32,998 Level 15: no write and no update in SOP
+2020-08-29 16:39:32,998 INFO: operation succ with 史萊姆茶拿鐵's voice channel changed !
+2020-08-29 16:41:00,722 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 16:41:00,722 INFO: Sunday𓆝𓆜𓆟𓆞 was token
+2020-08-29 16:41:00,722 Level 15: no write and no update in SOP
+2020-08-29 16:41:00,722 INFO: operation succ with Sunday𓆝𓆜𓆟𓆞 on message
+2020-08-29 16:41:09,032 INFO: operation succ with (in cache)Sunday𓆝𓆜𓆟𓆞 on message
+2020-08-29 16:43:08,687 INFO: operation succ with (in cache)史萊姆茶拿鐵 on message
+2020-08-29 16:44:00,287 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 16:44:00,287 INFO: 貓.我的肝要爆了 was token
+2020-08-29 16:44:00,287 Level 15: no write and no update in SOP
+2020-08-29 16:44:00,288 INFO: operation succ with 貓.我的肝要爆了 on message
+2020-08-29 16:44:08,096 INFO: operation succ with (in cache)史萊姆茶拿鐵's voice channel changed !
+2020-08-29 16:44:12,963 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-08-29 16:45:22,994 INFO: operation succ with (in cache)史萊姆茶拿鐵's voice channel changed !
+2020-08-29 16:53:39,395 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 16:53:39,396 INFO: 新腦🧠 was token
+2020-08-29 16:53:39,396 Level 15: no write and no update in SOP
+2020-08-29 16:53:39,396 INFO: operation succ with 新腦🧠 on message
+2020-08-29 16:57:44,663 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 16:57:44,663 INFO: 英式奶茶☕ was token
+2020-08-29 16:57:44,663 Level 15: no write and no update in SOP
+2020-08-29 16:57:44,663 INFO: operation succ with 英式奶茶☕ on message
+2020-08-29 16:58:23,896 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 16:58:23,896 INFO: 天然呆 was token
+2020-08-29 16:58:23,896 Level 15: no write and no update in SOP
+2020-08-29 16:58:23,896 INFO: operation succ with 天然呆 on message
+2020-08-29 16:58:36,480 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 16:58:36,480 INFO: 稜鏡 was token
+2020-08-29 16:58:36,480 Level 15: no write and no update in SOP
+2020-08-29 16:58:36,480 INFO: operation succ with 稜鏡 on message
+2020-08-29 16:59:52,382 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 16:59:52,382 Level 15: {'nick': 'liouo_see', 'lastDate': '20_08_29', 'xpDeque': [1, 1], 'xpTotal': 2, 'eternal': 0}
+2020-08-29 16:59:52,382 Level 15: operated,try save
+2020-08-29 16:59:52,382 Level 15: try to save
+2020-08-29 16:59:52,382 Level 15: {'nick': 'liouo_see', 'lastDate': '20_08_29', 'xpDeque': [1, 1], 'xpTotal': 2, 'eternal': 0}
+2020-08-29 16:59:52,383 Level 15: outputedliouo_see(662637729108197416)'s json
+2020-08-29 16:59:52,383 INFO: saved,try update
+2020-08-29 16:59:52,384 INFO: [<Role id=741691856890495046 name='一翼'>] , 兩翼
+2020-08-29 16:59:53,010 INFO: role update
+2020-08-29 16:59:53,010 INFO: operation succ with liouo_see on message
+2020-08-29 17:00:58,343 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:00:58,343 INFO: 墨言 was token
+2020-08-29 17:00:58,343 Level 15: no write and no update in SOP
+2020-08-29 17:00:58,343 INFO: operation succ with 墨言 on message
+2020-08-29 17:01:18,591 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:01:32,179 Level 15: [<class 'discord.role.Role'>, 2, 2, 2, 1, 0, '20_08_29']
+2020-08-29 17:01:32,181 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:01:32,181 INFO: 🎠霓裳🎠 was token
+2020-08-29 17:01:32,181 Level 15: no write and no update in SOP
+2020-08-29 17:01:32,181 INFO: operation succ with 🎠霓裳🎠 on message
+2020-08-29 17:01:32,548 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:01:38,525 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:01:38,526 Level 15: {'nick': '席娜shina。蝦蝦看起來很好吃🦐🍤', 'lastDate': '20_08_29', 'xpDeque': [1, 1, 0, 1], 'xpTotal': 3, 'eternal': 0}
+2020-08-29 17:01:38,526 Level 15: operated,try save
+2020-08-29 17:01:38,526 Level 15: try to save
+2020-08-29 17:01:38,527 Level 15: {'nick': '席娜shina。蝦蝦看起來很好吃🦐🍤', 'lastDate': '20_08_29', 'xpDeque': [1, 1, 0, 1], 'xpTotal': 3, 'eternal': 0}
+2020-08-29 17:01:38,527 Level 15: outputed席娜shina。蝦蝦看起來很好吃🦐🍤(401648770569469962)'s json
+2020-08-29 17:01:38,527 INFO: saved,try update
+2020-08-29 17:01:38,527 INFO: no change
+2020-08-29 17:01:38,527 INFO: operation succ with 席娜shina。蝦蝦看起來很好吃🦐🍤 on message
+2020-08-29 17:02:48,750 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:03:10,975 INFO: operation succ with (in cache)新腦🧠's voice channel changed !
+2020-08-29 17:03:12,318 INFO: operation succ with (in cache)墨言 on message
+2020-08-29 17:03:14,969 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:03:25,109 INFO: operation succ with (in cache)席娜shina。蝦蝦看起來很好吃🦐🍤 on message
+2020-08-29 17:03:46,602 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:03:53,813 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:04:02,368 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:04:25,432 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:05:13,225 INFO: operation succ with (in cache)席娜shina。蝦蝦看起來很好吃🦐🍤 on message
+2020-08-29 17:06:12,286 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:06:19,175 Level 15: [<class 'discord.role.Role'>, 3, 3, 3, 1, 0, '20_08_29']
+2020-08-29 17:06:19,176 INFO: operation succ with (in cache)席娜shina。蝦蝦看起來很好吃🦐🍤 on message
+2020-08-29 17:06:19,560 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:06:33,674 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:06:41,098 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:07:01,913 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:08:40,778 INFO: operation succ with (in cache)墨言 on message
+2020-08-29 17:08:43,225 Level 15: [<class 'discord.role.Role'>, 13, 13, 13, 1, 0, '20_08_29']
+2020-08-29 17:08:43,226 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:08:43,226 INFO: *𓆝*𓆜陶𓆟*𓆞* was token
+2020-08-29 17:08:43,226 Level 15: no write and no update in SOP
+2020-08-29 17:08:43,226 INFO: operation succ with *𓆝*𓆜陶𓆟*𓆞* on message
+2020-08-29 17:08:43,570 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:09:16,781 INFO: operation succ with (in cache)天然呆 on message
+2020-08-29 17:09:24,903 INFO: operation succ with (in cache)天然呆 on message
+2020-08-29 17:09:32,578 INFO: operation succ with (in cache)天然呆 on message
+2020-08-29 17:09:33,400 Level 15: [<class 'discord.role.Role'>, 2, 2, 2, 1, 0, '20_08_29']
+2020-08-29 17:09:33,401 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:09:33,763 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:09:35,810 INFO: operation succ with (in cache)天然呆 on message
+2020-08-29 17:09:37,579 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:09:37,579 INFO: 🥑 was token
+2020-08-29 17:09:37,579 Level 15: no write and no update in SOP
+2020-08-29 17:09:37,579 INFO: operation succ with 🥑 on message
+2020-08-29 17:10:13,107 INFO: operation succ with (in cache)🥑 on message
+2020-08-29 17:10:19,076 INFO: operation succ with (in cache)天然呆 on message
+2020-08-29 17:10:20,474 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:10:32,631 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:10:37,763 INFO: operation succ with (in cache)🥑 on message
+2020-08-29 17:10:55,203 INFO: operation succ with (in cache)天然呆 on message
+2020-08-29 17:11:03,406 INFO: operation succ with (in cache)墨言 on message
+2020-08-29 17:12:04,078 INFO: operation succ with (in cache)墨言 on message
+2020-08-29 17:12:26,533 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:12:26,533 INFO: 晨攸-水母頭太Q了，想吃 was token
+2020-08-29 17:12:26,533 Level 15: no write and no update in SOP
+2020-08-29 17:12:26,534 INFO: operation succ with 晨攸-水母頭太Q了，想吃's voice channel changed !
+2020-08-29 17:12:42,140 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:12:54,473 INFO: operation succ with (in cache)墨言 on message
+2020-08-29 17:13:01,880 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃 on message
+2020-08-29 17:13:09,338 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:13:17,498 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:13:17,498 INFO: 腦幹🧠 was token
+2020-08-29 17:13:17,499 Level 15: no write and no update in SOP
+2020-08-29 17:13:17,499 INFO: operation succ with 腦幹🧠 on message
+2020-08-29 17:13:24,408 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:13:35,096 INFO: operation succ with (in cache)🥑 on message
+2020-08-29 17:13:37,091 INFO: operation succ with (in cache)🥑 on message
+2020-08-29 17:13:39,355 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:13:39,355 Level 15: {'nick': 'CarCar(斯士事)', 'lastDate': '20_08_29', 'xpDeque': [0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-08-29 17:13:39,355 Level 15: operated,try save
+2020-08-29 17:13:39,355 Level 15: try to save
+2020-08-29 17:13:39,356 Level 15: {'nick': 'CarCar(斯士事)', 'lastDate': '20_08_29', 'xpDeque': [0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-08-29 17:13:39,356 Level 15: outputedCarCar(斯士事)(327797143928832004)'s json
+2020-08-29 17:13:39,356 INFO: saved,try update
+2020-08-29 17:13:39,356 INFO: [] , 一翼
+2020-08-29 17:13:39,724 INFO: role update
+2020-08-29 17:13:39,724 INFO: operation succ with CarCar(斯士事) on message
+2020-08-29 17:13:45,757 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:13:49,533 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:13:56,682 INFO: operation succ with (in cache)CarCar(斯士事)'s voice channel changed !
+2020-08-29 17:13:58,892 INFO: operation succ with (in cache)CarCar(斯士事)'s voice channel changed !
+2020-08-29 17:13:59,793 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:14:11,500 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:14:39,240 INFO: operation succ with (in cache)墨言 on message
+2020-08-29 17:15:20,638 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:15:20,638 INFO: 沐雪 was token
+2020-08-29 17:15:20,638 Level 15: no write and no update in SOP
+2020-08-29 17:15:20,638 INFO: operation succ with 沐雪 on message
+2020-08-29 17:16:32,181 INFO: operation succ with (in cache)天然呆 on message
+2020-08-29 17:17:10,790 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃 on message
+2020-08-29 17:17:44,539 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:17:44,539 Level 15: {'nick': '米菲、', 'lastDate': '20_08_29', 'xpDeque': [0, 1, 0, 1], 'xpTotal': 2, 'eternal': 0}
+2020-08-29 17:17:44,539 Level 15: operated,try save
+2020-08-29 17:17:44,539 Level 15: try to save
+2020-08-29 17:17:44,540 Level 15: {'nick': '米菲、', 'lastDate': '20_08_29', 'xpDeque': [0, 1, 0, 1], 'xpTotal': 2, 'eternal': 0}
+2020-08-29 17:17:44,540 Level 15: outputed米菲、(691496155972108339)'s json
+2020-08-29 17:17:44,540 INFO: saved,try update
+2020-08-29 17:17:44,540 INFO: [<Role id=741691856890495046 name='一翼'>] , 兩翼
+2020-08-29 17:17:45,155 INFO: role update
+2020-08-29 17:17:45,156 INFO: operation succ with 米菲、 on message
+2020-08-29 17:17:52,396 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:18:13,225 INFO: operation succ with (in cache)史萊姆茶拿鐵's voice channel changed !
+2020-08-29 17:18:21,986 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:18:24,910 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:18:52,839 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃 on message
+2020-08-29 17:18:58,217 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃 on message
+2020-08-29 17:19:01,644 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃 on message
+2020-08-29 17:19:12,660 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃 on message
+2020-08-29 17:19:13,430 INFO: operation succ with (in cache)史萊姆茶拿鐵 on message
+2020-08-29 17:19:17,531 INFO: operation succ with (in cache)史萊姆茶拿鐵's voice channel changed !
+2020-08-29 17:20:39,689 INFO: operation succ with (in cache)腦幹🧠's voice channel changed !
+2020-08-29 17:20:46,241 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:20:50,387 INFO: operation succ with (in cache)英式奶茶☕ on message
+2020-08-29 17:20:58,118 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:20:58,933 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:21:03,085 INFO: operation succ with (in cache)英式奶茶☕ on message
+2020-08-29 17:21:05,340 INFO: operation succ with (in cache)史萊姆茶拿鐵's voice channel changed !
+2020-08-29 17:21:27,627 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:21:27,973 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:21:28,259 INFO: operation succ with (in cache)🥑 on message
+2020-08-29 17:21:31,495 INFO: operation succ with (in cache)🥑 on message
+2020-08-29 17:21:34,543 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:21:49,771 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:21:51,605 INFO: operation succ with (in cache)🥑 on message
+2020-08-29 17:21:59,715 INFO: operation succ with (in cache)🥑 on message
+2020-08-29 17:22:05,898 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:22:07,160 INFO: operation succ with (in cache)🥑 on message
+2020-08-29 17:22:08,856 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:22:40,688 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:22:41,209 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:24:38,727 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:25:12,026 INFO: operation succ with (in cache)貓.我的肝要爆了 on message
+2020-08-29 17:25:20,155 INFO: operation succ with (in cache)貓.我的肝要爆了 on message
+2020-08-29 17:25:30,961 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:26:44,387 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:26:44,815 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:26:48,601 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:26:49,008 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:27:10,544 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:27:16,192 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:27:43,852 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:27:44,375 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:28:06,394 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:28:08,057 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:28:26,919 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:28:31,187 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:28:51,603 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:28:52,197 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:28:55,080 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:28:55,412 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:29:13,987 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:31:06,325 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:31:09,162 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:32:07,023 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:32:25,330 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:32:25,330 INFO: Dreamxming was token
+2020-08-29 17:32:25,330 Level 15: no write and no update in SOP
+2020-08-29 17:32:25,330 INFO: operation succ with Dreamxming on message
+2020-08-29 17:33:47,811 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:33:47,811 INFO: ClaudiaH was token
+2020-08-29 17:33:47,811 Level 15: no write and no update in SOP
+2020-08-29 17:33:47,811 INFO: operation succ with ClaudiaH on message
+2020-08-29 17:33:57,152 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:34:03,927 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:34:11,519 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:34:15,779 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:34:34,178 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:34:46,213 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:34:46,213 INFO: 詠子 was token
+2020-08-29 17:34:46,213 Level 15: no write and no update in SOP
+2020-08-29 17:34:46,213 INFO: operation succ with 詠子's voice channel changed !
+2020-08-29 17:34:54,850 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:34:57,453 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:35:07,324 INFO: operation succ with (in cache)新腦🧠's voice channel changed !
+2020-08-29 17:35:30,441 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-08-29 17:37:05,110 INFO: operation succ with (in cache)ClaudiaH on message
+2020-08-29 17:39:26,964 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:39:26,964 INFO: 此云非雲 was token
+2020-08-29 17:39:26,964 Level 15: no write and no update in SOP
+2020-08-29 17:39:26,965 INFO: operation succ with 此云非雲 on message
+2020-08-29 17:39:55,758 INFO: operation succ with (in cache)此云非雲 on message
+2020-08-29 17:40:00,050 INFO: operation succ with (in cache)詠子's voice channel changed !
+2020-08-29 17:40:57,870 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:41:15,964 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃 on message
+2020-08-29 17:41:29,737 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃 on message
+2020-08-29 17:41:59,444 INFO: operation succ with (in cache)涅 on message
+2020-08-29 17:42:00,024 INFO: operation succ with (in cache)英式奶茶☕ on message
+2020-08-29 17:42:09,758 INFO: operation succ with (in cache)涅 on message
+2020-08-29 17:42:10,797 INFO: operation succ with (in cache)腦幹🧠 on message
+2020-08-29 17:42:13,497 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃's voice channel changed !
+2020-08-29 17:42:30,564 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃's voice channel changed !
+2020-08-29 17:42:41,188 INFO: operation succ with (in cache)涅 on message
+2020-08-29 17:42:45,525 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃's voice channel changed !
+2020-08-29 17:42:48,806 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃's voice channel changed !
+2020-08-29 17:42:57,281 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃's voice channel changed !
+2020-08-29 17:43:00,125 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃's voice channel changed !
+2020-08-29 17:43:03,290 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃's voice channel changed !
+2020-08-29 17:43:21,347 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:43:21,347 INFO: 昀昀 was token
+2020-08-29 17:43:21,348 Level 15: no write and no update in SOP
+2020-08-29 17:43:21,348 INFO: operation succ with 昀昀 on message
+2020-08-29 17:43:22,873 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:43:22,873 INFO: 下星期一開學 was token
+2020-08-29 17:43:22,873 Level 15: no write and no update in SOP
+2020-08-29 17:43:22,873 INFO: operation succ with 下星期一開學 on message
+2020-08-29 17:43:23,291 INFO: operation succ with (in cache)腦幹🧠 on message
+2020-08-29 17:43:29,870 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:43:30,895 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃's voice channel changed !
+2020-08-29 17:43:49,280 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:44:02,158 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:45:13,186 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃's voice channel changed !
+2020-08-29 17:45:24,153 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃's voice channel changed !
+2020-08-29 17:45:27,066 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃's voice channel changed !
+2020-08-29 17:45:30,314 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃's voice channel changed !
+2020-08-29 17:45:46,817 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:45:46,817 Level 15: {'nick': '楓兒星盤爆掉ㄌ但還是想認識各位(ง ᐛ )ว', 'lastDate': '20_08_29', 'xpDeque': [1, 0, 0, 1, 0, 1], 'xpTotal': 3, 'eternal': 0}
+2020-08-29 17:45:46,817 Level 15: operated,try save
+2020-08-29 17:45:46,817 Level 15: try to save
+2020-08-29 17:45:46,818 Level 15: {'nick': '楓兒星盤爆掉ㄌ但還是想認識各位(ง ᐛ )ว', 'lastDate': '20_08_29', 'xpDeque': [1, 0, 0, 1, 0, 1], 'xpTotal': 3, 'eternal': 0}
+2020-08-29 17:45:46,818 Level 15: outputed楓兒星盤爆掉ㄌ但還是想認識各位(ง ᐛ )ว(549890441537912842)'s json
+2020-08-29 17:45:46,818 INFO: saved,try update
+2020-08-29 17:45:46,819 INFO: [] , 兩翼
+2020-08-29 17:45:47,197 INFO: role update
+2020-08-29 17:45:47,197 INFO: operation succ with 楓兒星盤爆掉ㄌ但還是想認識各位(ง ᐛ )ว on message
+2020-08-29 17:46:59,167 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃's voice channel changed !
+2020-08-29 17:46:59,277 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃's voice channel changed !
+2020-08-29 17:47:00,549 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃's voice channel changed !
+2020-08-29 17:47:08,163 INFO: operation succ with (in cache)晨攸-水母頭太Q了，想吃's voice channel changed !
+2020-08-29 17:47:15,873 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:47:15,873 INFO: 花見桜咲 was token
+2020-08-29 17:47:15,873 Level 15: no write and no update in SOP
+2020-08-29 17:47:15,873 INFO: operation succ with 花見桜咲's voice channel changed !
+2020-08-29 17:47:20,436 INFO: operation succ with (in cache)花見桜咲's voice channel changed !
+2020-08-29 17:47:55,197 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:47:55,197 INFO: 阿四 was token
+2020-08-29 17:47:55,197 Level 15: no write and no update in SOP
+2020-08-29 17:47:55,197 INFO: operation succ with 阿四 on message
+2020-08-29 17:50:43,051 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:50:43,052 INFO: 枏                             樳 was token
+2020-08-29 17:50:43,052 Level 15: no write and no update in SOP
+2020-08-29 17:50:43,052 INFO: operation succ with 枏                             樳 on message
+2020-08-29 17:50:56,200 INFO: operation succ with (in cache)*𓆝*𓆜陶𓆟*𓆞* on message
+2020-08-29 17:52:43,376 INFO: operation succ with (in cache)涅 on message
+2020-08-29 17:53:21,792 INFO: operation succ with (in cache)涅 on message
+2020-08-29 17:54:37,988 INFO: operation succ with (in cache)史萊姆茶拿鐵 on message
+2020-08-29 17:54:50,106 Level 15: [<class 'discord.role.Role'>, 34, 34, 34, 1, 0, '20_08_29']
+2020-08-29 17:54:50,107 INFO: operation succ with (in cache)枏                             樳 on message
+2020-08-29 17:54:50,473 INFO: operation succ with (in cache)Blaz on message
+2020-08-29 17:55:09,305 INFO: operation succ with (in cache)天然呆 on message
+2020-08-29 17:55:31,405 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:55:31,405 INFO: 透流-戰雙 明日正式啟動 was token
+2020-08-29 17:55:31,406 Level 15: no write and no update in SOP
+2020-08-29 17:55:31,406 INFO: operation succ with 透流-戰雙 明日正式啟動 on message
+2020-08-29 17:56:40,759 INFO: operation succ with (in cache)liouo_see on message
+2020-08-29 17:56:43,108 Level 15: 20_08_29 =?= 20_08_29
+2020-08-29 17:56:43,108 Level 15: {'nick': 'Lorian', 'lastDate': '20_08_29', 'xpDeque': [1, 1, 0, 1], 'xpTotal': 3, 'eternal': 0}
+2020-08-29 17:56:43,108 Level 15: operated,try save
+2020-08-29 17:56:43,108 Level 15: try to save
+2020-08-29 17:56:43,108 Level 15: {'nick': 'Lorian', 'lastDate': '20_08_29', 'xpDeque': [1, 1, 0, 1], 'xpTotal': 3, 'eternal': 0}
+2020-08-29 17:56:43,108 Level 15: outputedLorian(381466716020015104)'s json
+2020-08-29 17:56:43,109 INFO: saved,try update
+2020-08-29 17:56:43,109 INFO: no change
+2020-08-29 17:56:43,110 INFO: operation succ with Lorian on message

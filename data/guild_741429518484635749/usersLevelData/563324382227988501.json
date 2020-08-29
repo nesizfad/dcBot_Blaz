@@ -1,12 +1,13 @@
 {
     "nick": "圈。",
-    "lastDate": "20_08_29",
+    "lastDate": "20_08_30",
     "xpDeque": [
         0,
         2,
         1,
-        0
+        1,
+        1
     ],
-    "xpTotal": 3,
+    "xpTotal": 5,
     "eternal": 0.1
 }
