@@ -1,14 +1,15 @@
 {
     "nick": "咕嚕嚕",
-    "lastDate": "20_08_30",
+    "lastDate": "20_08_31",
     "xpDeque": [
         0,
         1,
         1,
         1,
         1,
-        0
+        1,
+        1
     ],
-    "xpTotal": 4,
+    "xpTotal": 6,
     "eternal": 0
 }
