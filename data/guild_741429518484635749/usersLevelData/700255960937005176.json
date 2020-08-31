@@ -1,12 +1,13 @@
 {
     "nick": "月牙優",
-    "lastDate": "20_08_30",
+    "lastDate": "20_08_31",
     "xpDeque": [
         0,
         0,
         0,
         1,
-        1
+        1,
+        0
     ],
     "xpTotal": 2,
     "eternal": 0

@@ -1,6 +1,6 @@
 {
     "nick": "勾勾對數學感到反胃",
-    "lastDate": "20_08_30",
+    "lastDate": "20_08_31",
     "xpDeque": [
         2,
         1,
@@ -9,8 +9,9 @@
         1,
         1,
         1,
-        0
+        0,
+        1
     ],
-    "xpTotal": 8,
+    "xpTotal": 9,
     "eternal": 0
 }
