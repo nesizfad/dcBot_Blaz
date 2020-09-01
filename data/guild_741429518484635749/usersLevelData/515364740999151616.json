@@ -1,7 +1,8 @@
 {
     "nick": "雙倍偷心居士",
-    "lastDate": "20_08_31",
+    "lastDate": "20_09_01",
     "xpDeque": [
+        1,
         1,
         1,
         1,
@@ -9,6 +10,6 @@
         1,
         1
     ],
-    "xpTotal": 6,
+    "xpTotal": 7,
     "eternal": 0
 }

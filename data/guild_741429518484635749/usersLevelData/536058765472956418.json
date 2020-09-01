@@ -1,6 +1,6 @@
 {
     "nick": "雨",
-    "lastDate": "20_08_31",
+    "lastDate": "20_09_01",
     "xpDeque": [
         0,
         0,
@@ -8,8 +8,9 @@
         0,
         0,
         0,
+        1,
         1
     ],
-    "xpTotal": 2,
+    "xpTotal": 3,
     "eternal": 0
 }

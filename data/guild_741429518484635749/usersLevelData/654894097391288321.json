@@ -1,11 +1,12 @@
 {
     "nick": "._.77._.",
-    "lastDate": "20_08_31",
+    "lastDate": "20_09_01",
     "xpDeque": [
         0,
         0,
-        0
+        0,
+        1
     ],
-    "xpTotal": 0,
+    "xpTotal": 1,
     "eternal": 0
 }

@@ -1,14 +1,15 @@
 {
     "nick": "宅宅",
-    "lastDate": "20_08_31",
+    "lastDate": "20_09_01",
     "xpDeque": [
         1,
         1,
         0,
         1,
         1,
-        0
+        0,
+        1
     ],
-    "xpTotal": 4,
+    "xpTotal": 5,
     "eternal": 0
 }
