@@ -1,0 +1,13 @@
+2020-09-02 08:39:20,145 INFO: info message
+2020-09-02 08:39:20,146 WARNING: warning message
+2020-09-02 08:39:20,146 ERROR: error message
+2020-09-02 08:39:20,146 CRITICAL: critical message
+2020-09-02 08:39:20,164 INFO: logging in using static token
+2020-09-02 08:39:20,219 INFO:  * Running on http://0.0.0.0:6686/ (Press CTRL+C to quit)
+2020-09-02 08:39:21,062 INFO: Shard ID None has sent the IDENTIFY payload.
+2020-09-02 08:39:21,354 INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-xnhk",{"micros":53083,"calls":["discord-sessions-prd-2-36",{"micros":51770,"calls":["start_session",{"micros":26996,"calls":["api-prd-main-ssdk",{"micros":24384,"calls":["get_user",{"micros":1987},"add_authorized_ip",{"micros":1116},"get_guilds",{"micros":1204},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 327419d035e932ad3b207899f7a62689).
+2020-09-02 08:39:24,387 INFO: Finished requesting guild member chunks for 1 guilds.
+2020-09-02 08:40:12,210 INFO: Cleaning up tasks.
+2020-09-02 08:40:12,211 INFO: Cleaning up after 1 tasks.
+2020-09-02 08:40:12,269 INFO: All tasks finished cancelling.
+2020-09-02 08:40:12,271 INFO: Closing the event loop.

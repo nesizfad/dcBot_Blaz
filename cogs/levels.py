@@ -31,7 +31,7 @@ g_cache_dict = {}
 g_is_inloop_check = False
 g_check_cancel = False
 
-g_path_data = '/data'
+g_path_data = '/bot/blaz/data'
 
 
 def is_user_in_cache( today: str, userID: str, guildID: str, yesterday: str, guild: discord.Guild ) -> bool:
@@ -333,7 +333,9 @@ def get_today_date_with_delta_str( hours: int = 0 ) -> str:
 
 def get_user_json_path( guildID: int, userID: int ) -> str:
     global g_path_data
-    return f"{os.path.dirname( sys.argv[ 0 ] )}{g_path_data}/guild_{guildID}/usersLevelData/{userID}.json"
+    path =  f"{os.path.dirname( sys.argv[ 0 ] )}{g_path_data}/guild_{guildID}/usersLevelData/{userID}.json"
+    print(path)
+    return path
 
 
 class Levels( ExtensionBase, name='Levels parts' ):

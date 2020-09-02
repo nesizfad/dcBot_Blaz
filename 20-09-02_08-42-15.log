@@ -1,0 +1,28 @@
+2020-09-02 08:42:15,665 INFO: info message
+2020-09-02 08:42:15,666 WARNING: warning message
+2020-09-02 08:42:15,667 ERROR: error message
+2020-09-02 08:42:15,667 CRITICAL: critical message
+2020-09-02 08:42:15,685 INFO: logging in using static token
+2020-09-02 08:42:15,738 INFO:  * Running on http://0.0.0.0:3552/ (Press CTRL+C to quit)
+2020-09-02 08:42:16,577 INFO: Shard ID None has sent the IDENTIFY payload.
+2020-09-02 08:42:16,917 INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-r46s",{"micros":98460,"calls":["discord-sessions-prd-2-61",{"micros":97124,"calls":["start_session",{"micros":56667,"calls":["api-prd-main-4qbq",{"micros":52175,"calls":["get_user",{"micros":8114},"add_authorized_ip",{"micros":3081},"get_guilds",{"micros":3430},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":13066,"calls":[]}]}]}] (Session ID: d085a516907058f73f451a126ff4177e).
+2020-09-02 08:42:19,969 INFO: Finished requesting guild member chunks for 1 guilds.
+2020-09-02 08:42:21,397 Level 15: [<class 'discord.role.Role'>, 20, 20, 20, 1, 0, '20_09_02']
+2020-09-02 08:42:21,404 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 08:42:21,405 INFO: 涅 was token
+2020-09-02 08:42:21,405 Level 15: no write and no update in SOP
+2020-09-02 08:42:21,406 INFO: operation succ with 涅 on message
+2020-09-02 08:42:21,678 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 08:42:21,679 INFO: Blaz was token
+2020-09-02 08:42:21,679 Level 15: no write and no update in SOP
+2020-09-02 08:42:21,680 INFO: operation succ with Blaz on message
+2020-09-02 08:42:31,727 INFO: operation succ with (in cache)涅 on message
+2020-09-02 08:42:36,619 INFO: operation succ with (in cache)涅 on message
+2020-09-02 08:43:33,700 INFO: operation succ with (in cache)涅 on message
+2020-09-02 08:43:34,076 INFO: operation succ with (in cache)Blaz on message
+2020-09-02 08:43:35,334 Level 15: [<class 'discord.role.Role'>, 13, 13, 13, 1, 0, '20_09_02']
+2020-09-02 08:43:35,342 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 08:43:35,343 INFO: 雨🐳 was token
+2020-09-02 08:43:35,344 Level 15: no write and no update in SOP
+2020-09-02 08:43:35,344 INFO: operation succ with 雨🐳 on message
+2020-09-02 08:43:35,637 INFO: operation succ with (in cache)Blaz on message

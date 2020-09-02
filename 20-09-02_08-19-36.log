@@ -1,0 +1,14 @@
+2020-09-02 08:19:36,738 INFO: info message
+2020-09-02 08:19:36,739 WARNING: warning message
+2020-09-02 08:19:36,740 ERROR: error message
+2020-09-02 08:19:36,740 CRITICAL: critical message
+2020-09-02 08:19:36,758 INFO: logging in using static token
+2020-09-02 08:19:36,816 INFO:  * Running on http://0.0.0.0:7055/ (Press CTRL+C to quit)
+2020-09-02 08:19:37,658 INFO: Shard ID None has sent the IDENTIFY payload.
+2020-09-02 08:19:37,969 INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-9xmq",{"micros":78477,"calls":["discord-sessions-prd-2-4",{"micros":73480,"calls":["start_session",{"micros":52104,"calls":["api-prd-main-d453",{"micros":47920,"calls":["get_user",{"micros":5183},"add_authorized_ip",{"micros":1444},"get_guilds",{"micros":7324},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":7454,"calls":[]}]}]}] (Session ID: 8f2696fe9c5a5cb681c3e664fdf903ed).
+2020-09-02 08:19:41,043 INFO: Finished requesting guild member chunks for 1 guilds.
+2020-09-02 08:19:50,417 INFO: operation succ with (in cache)呆姆即將被機械科力量實體化 on message
+2020-09-02 08:20:00,464 INFO: Cleaning up tasks.
+2020-09-02 08:20:00,465 INFO: Cleaning up after 1 tasks.
+2020-09-02 08:20:00,516 INFO: All tasks finished cancelling.
+2020-09-02 08:20:00,518 INFO: Closing the event loop.

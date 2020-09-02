@@ -1,0 +1,5 @@
+2020-09-02 08:17:29,121 INFO: info message
+2020-09-02 08:17:29,122 WARNING: warning message
+2020-09-02 08:17:29,123 ERROR: error message
+2020-09-02 08:17:29,123 CRITICAL: critical message
+2020-09-02 08:17:29,173 INFO:  * Running on http://0.0.0.0:8239/ (Press CTRL+C to quit)
