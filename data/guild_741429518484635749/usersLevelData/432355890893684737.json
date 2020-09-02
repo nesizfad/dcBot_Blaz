@@ -1,6 +1,6 @@
 {
     "nick": "divide 分開",
-    "lastDate": "20_09_01",
+    "lastDate": "20_09_02",
     "xpDeque": [
         32,
         1,
@@ -10,8 +10,9 @@
         1,
         1,
         1,
+        1,
         1
     ],
-    "xpTotal": 39,
+    "xpTotal": 40,
     "eternal": 0
 }

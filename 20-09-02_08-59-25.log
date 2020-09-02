@@ -1,0 +1,1523 @@
+2020-09-02 08:59:25,563 INFO: info message
+2020-09-02 08:59:25,563 WARNING: warning message
+2020-09-02 08:59:25,563 ERROR: error message
+2020-09-02 08:59:25,563 CRITICAL: critical message
+2020-09-02 08:59:25,566 INFO: logging in using static token
+2020-09-02 08:59:26,340 INFO: Shard ID None has sent the IDENTIFY payload.
+2020-09-02 08:59:26,413 INFO:  * Running on http://0.0.0.0:6489/ (Press CTRL+C to quit)
+2020-09-02 08:59:26,625 INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-k29q",{"micros":54483,"calls":["discord-sessions-prd-2-87",{"micros":53400,"calls":["start_session",{"micros":33536,"calls":["api-prd-main-093q",{"micros":31036,"calls":["get_user",{"micros":2556},"add_authorized_ip",{"micros":1407},"get_guilds",{"micros":5507},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":7357,"calls":[]}]}]}] (Session ID: 80d16bd13f95d7d7f68bd347df1fd297).
+2020-09-02 08:59:29,458 INFO: Finished requesting guild member chunks for 1 guilds.
+2020-09-02 09:00:49,960 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:00:49,960 Level 15: {'nick': '姿姿( • ̀ω•́ )', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 1, 1, 1, 1, 1, 1], 'xpTotal': 6, 'eternal': 0}
+2020-09-02 09:00:49,961 Level 15: operated,try save
+2020-09-02 09:00:49,961 Level 15: try to save
+2020-09-02 09:00:49,961 Level 15: {'nick': '姿姿( • ̀ω•́ )', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 1, 1, 1, 1, 1, 1], 'xpTotal': 6, 'eternal': 0}
+2020-09-02 09:00:49,961 Level 15: outputed姿姿( • ̀ω•́ )(723512159807602769)'s json
+2020-09-02 09:00:49,961 INFO: saved,try update
+2020-09-02 09:00:49,962 INFO: no change
+2020-09-02 09:00:49,962 INFO: operation succ with 姿姿( • ̀ω•́ ) on message
+2020-09-02 09:00:55,613 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:00:55,614 INFO: 錢錢𓅩白鳥低馬尾騷年☻代玩細胞帳中 was token
+2020-09-02 09:00:55,614 Level 15: no write and no update in SOP
+2020-09-02 09:00:55,614 INFO: operation succ with 錢錢𓅩白鳥低馬尾騷年☻代玩細胞帳中 on message
+2020-09-02 09:01:38,645 INFO: operation succ with (in cache)錢錢𓅩白鳥低馬尾騷年☻代玩細胞帳中 on message
+2020-09-02 09:03:01,182 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:03:01,182 INFO: 忙碌的❄小水滴❄ was token
+2020-09-02 09:03:01,182 Level 15: no write and no update in SOP
+2020-09-02 09:03:01,182 INFO: operation succ with 忙碌的❄小水滴❄ on message
+2020-09-02 09:03:15,886 INFO: operation succ with (in cache)錢錢𓅩白鳥低馬尾騷年☻代玩細胞帳中 on message
+2020-09-02 09:03:28,953 INFO: operation succ with (in cache)忙碌的❄小水滴❄ on message
+2020-09-02 09:03:29,419 INFO: operation succ with (in cache)錢錢𓅩白鳥低馬尾騷年☻代玩細胞帳中 on message
+2020-09-02 09:03:38,054 INFO: operation succ with (in cache)錢錢𓅩白鳥低馬尾騷年☻代玩細胞帳中 on message
+2020-09-02 09:08:47,041 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:08:47,041 INFO: Sky: Children of the Light #news was token
+2020-09-02 09:08:47,041 Level 15: no write and no update in SOP
+2020-09-02 09:08:47,041 INFO: operation succ with Sky: Children of the Light #news on message
+2020-09-02 09:10:17,765 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:10:17,765 Level 15: {'nick': '· 娜娜♡姆姆 · (´▽`ʃ♡ƪ)', 'lastDate': '20_09_02', 'xpDeque': [48, 1, 2, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 58, 'eternal': 0.1}
+2020-09-02 09:10:17,765 Level 15: operated,try save
+2020-09-02 09:10:17,766 Level 15: try to save
+2020-09-02 09:10:17,766 Level 15: {'nick': '· 娜娜♡姆姆 · (´▽`ʃ♡ƪ)', 'lastDate': '20_09_02', 'xpDeque': [48, 1, 2, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 58, 'eternal': 0.1}
+2020-09-02 09:10:17,766 Level 15: outputed· 娜娜♡姆姆· 筆記中 (´▽`ʃ♡ƪ)(718247900907569294)'s json
+2020-09-02 09:10:17,766 INFO: saved,try update
+2020-09-02 09:10:17,766 INFO: no change
+2020-09-02 09:10:17,766 INFO: operation succ with · 娜娜♡姆姆· 筆記中 (´▽`ʃ♡ƪ) on message
+2020-09-02 09:11:32,005 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:11:32,005 Level 15: {'nick': '冷凌漩', 'lastDate': '20_09_02', 'xpDeque': [0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 09:11:32,005 Level 15: operated,try save
+2020-09-02 09:11:32,005 Level 15: try to save
+2020-09-02 09:11:32,005 Level 15: {'nick': '冷凌漩', 'lastDate': '20_09_02', 'xpDeque': [0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 09:11:32,005 Level 15: outputed我想吸白鳥(635994842060554261)'s json
+2020-09-02 09:11:32,006 INFO: saved,try update
+2020-09-02 09:11:32,006 INFO: [] , 一翼
+2020-09-02 09:11:32,363 INFO: role update
+2020-09-02 09:11:32,363 INFO: operation succ with 我想吸白鳥 on message
+2020-09-02 09:11:48,354 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:11:48,354 INFO: 枏ㄋㄢˊ樳ㄒㄩㄣˊ was token
+2020-09-02 09:11:48,354 Level 15: no write and no update in SOP
+2020-09-02 09:11:48,354 INFO: operation succ with 枏ㄋㄢˊ樳ㄒㄩㄣˊ on message
+2020-09-02 09:12:09,968 Level 15: [<class 'discord.role.Role'>, 38, 38, 38, 1, 0, '20_09_02']
+2020-09-02 09:12:09,969 INFO: operation succ with (in cache)枏ㄋㄢˊ樳ㄒㄩㄣˊ on message
+2020-09-02 09:12:10,308 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:12:10,308 INFO: Blaz was token
+2020-09-02 09:12:10,308 Level 15: no write and no update in SOP
+2020-09-02 09:12:10,308 INFO: operation succ with Blaz on message
+2020-09-02 09:13:55,733 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:13:55,733 Level 15: {'nick': 'PU TAO 水滴閣💦', 'lastDate': '20_09_02', 'xpDeque': [9, 1, 1, 1, 1, 1, 0, 1, 1], 'xpTotal': 16, 'eternal': 0}
+2020-09-02 09:13:55,733 Level 15: operated,try save
+2020-09-02 09:13:55,733 Level 15: try to save
+2020-09-02 09:13:55,733 Level 15: {'nick': 'PU TAO 水滴閣💦', 'lastDate': '20_09_02', 'xpDeque': [9, 1, 1, 1, 1, 1, 0, 1, 1], 'xpTotal': 16, 'eternal': 0}
+2020-09-02 09:13:55,733 Level 15: outputedPU TAO 水滴閣💦(341201022859083777)'s json
+2020-09-02 09:13:55,734 INFO: saved,try update
+2020-09-02 09:13:55,734 INFO: no change
+2020-09-02 09:13:55,734 INFO: operation succ with PU TAO 水滴閣💦 on message
+2020-09-02 09:14:00,040 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:14:00,040 INFO: 酪梨在喝酒🥑 was token
+2020-09-02 09:14:00,040 Level 15: no write and no update in SOP
+2020-09-02 09:14:00,040 INFO: operation succ with 酪梨在喝酒🥑 on message
+2020-09-02 09:14:12,480 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 09:14:19,490 INFO: operation succ with (in cache)酪梨在喝酒🥑 on message
+2020-09-02 09:14:20,415 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 09:14:31,316 INFO: operation succ with (in cache)酪梨在喝酒🥑 on message
+2020-09-02 09:14:33,874 INFO: operation succ with (in cache)酪梨在喝酒🥑 on message
+2020-09-02 09:14:40,131 INFO: operation succ with (in cache)· 娜娜♡姆姆· 筆記中 (´▽`ʃ♡ƪ) on message
+2020-09-02 09:14:55,002 INFO: operation succ with (in cache)酪梨在喝酒🥑 on message
+2020-09-02 09:15:00,778 INFO: operation succ with (in cache)· 娜娜♡姆姆· 筆記中 (´▽`ʃ♡ƪ) on message
+2020-09-02 09:15:07,232 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 09:15:24,903 INFO: operation succ with (in cache)· 娜娜♡姆姆· 筆記中 (´▽`ʃ♡ƪ) on message
+2020-09-02 09:15:25,911 INFO: operation succ with (in cache)酪梨在喝酒🥑 on message
+2020-09-02 09:16:10,903 INFO: operation succ with (in cache)枏ㄋㄢˊ樳ㄒㄩㄣˊ on message
+2020-09-02 09:16:21,792 INFO: operation succ with (in cache)枏ㄋㄢˊ樳ㄒㄩㄣˊ on message
+2020-09-02 09:17:16,714 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:17:16,714 Level 15: {'nick': '汎 (Hyo)', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 09:17:16,714 Level 15: operated,try save
+2020-09-02 09:17:16,714 Level 15: try to save
+2020-09-02 09:17:16,715 Level 15: {'nick': '汎 (Hyo)', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 09:17:16,715 Level 15: outputed汎 (Hyo)(367564763884027924)'s json
+2020-09-02 09:17:16,715 INFO: saved,try update
+2020-09-02 09:17:16,715 INFO: [] , 一翼
+2020-09-02 09:17:17,141 INFO: role update
+2020-09-02 09:17:17,142 INFO: operation succ with 汎 (Hyo) on message
+2020-09-02 09:17:25,272 INFO: operation succ with (in cache)忙碌的❄小水滴❄ on message
+2020-09-02 09:17:27,994 INFO: operation succ with (in cache)忙碌的❄小水滴❄ on message
+2020-09-02 09:17:28,276 WARNING: [Errno 2] No such file or directory: 'D:\\VirtualStudio_Code_Programming\\VSCode_Python3_DiscordBot/data/guild_741429518484635749/usersLevelData/427123537719984128.json'created temp json
+2020-09-02 09:17:28,276 Level 15: null =?= 20_09_02
+2020-09-02 09:17:28,277 Level 15: date not match
+2020-09-02 09:17:28,277 Level 15: appended
+2020-09-02 09:17:28,277 Level 15: {'nick': '銀嶽狼', 'lastDate': '20_09_02', 'xpDeque': [1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 09:17:28,277 Level 15: operated,try save
+2020-09-02 09:17:28,277 Level 15: try to save
+2020-09-02 09:17:28,278 Level 15: {'nick': '銀嶽狼', 'lastDate': '20_09_02', 'xpDeque': [1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 09:17:28,278 Level 15: outputed銀嶽狼(427123537719984128)'s json
+2020-09-02 09:17:28,278 INFO: saved,try update
+2020-09-02 09:17:28,278 INFO: [] , 一翼
+2020-09-02 09:17:28,547 INFO: role update
+2020-09-02 09:17:28,547 INFO: operation succ with 銀嶽狼 on message
+2020-09-02 09:17:38,243 INFO: operation succ with (in cache)忙碌的❄小水滴❄ on message
+2020-09-02 09:17:58,591 INFO: operation succ with (in cache)忙碌的❄小水滴❄ on message
+2020-09-02 09:18:04,902 INFO: operation succ with (in cache)忙碌的❄小水滴❄ on message
+2020-09-02 09:18:36,630 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:18:36,630 Level 15: {'nick': '酥皮🌵', 'lastDate': '20_09_02', 'xpDeque': [1, 0, 0, 1, 1, 1, 1, 1, 1], 'xpTotal': 7, 'eternal': 0}
+2020-09-02 09:18:36,630 Level 15: operated,try save
+2020-09-02 09:18:36,630 Level 15: try to save
+2020-09-02 09:18:36,631 Level 15: {'nick': '酥皮🌵', 'lastDate': '20_09_02', 'xpDeque': [1, 0, 0, 1, 1, 1, 1, 1, 1], 'xpTotal': 7, 'eternal': 0}
+2020-09-02 09:18:36,631 Level 15: outputed酥皮🌵(734425805454704705)'s json
+2020-09-02 09:18:36,631 INFO: saved,try update
+2020-09-02 09:18:36,631 INFO: no change
+2020-09-02 09:18:36,631 INFO: operation succ with 酥皮🌵 on message
+2020-09-02 09:19:15,027 INFO: operation succ with (in cache)· 娜娜♡姆姆· 筆記中 (´▽`ʃ♡ƪ) on message
+2020-09-02 09:19:20,629 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:19:20,630 INFO: 史萊宇治姆茶 was token
+2020-09-02 09:19:20,630 Level 15: no write and no update in SOP
+2020-09-02 09:19:20,630 INFO: operation succ with 史萊宇治姆茶 on message
+2020-09-02 09:20:10,857 INFO: operation succ with (in cache)· 娜娜♡姆姆· 筆記中 (´▽`ʃ♡ƪ) on message
+2020-09-02 09:20:22,593 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 09:20:30,963 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 09:20:53,918 Level 15: [<class 'discord.role.Role'>, 6, 6, 6, 1, 0, '20_09_02']
+2020-09-02 09:20:53,919 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:20:53,919 INFO: 沐沐(=´ω`=) was token
+2020-09-02 09:20:53,919 Level 15: no write and no update in SOP
+2020-09-02 09:20:53,919 INFO: operation succ with 沐沐(=´ω`=) on message
+2020-09-02 09:20:54,309 INFO: operation succ with (in cache)Blaz on message
+2020-09-02 09:21:01,550 INFO: operation succ with (in cache)忙碌的❄小水滴❄ on message
+2020-09-02 09:21:07,013 INFO: operation succ with (in cache)· 娜娜♡姆姆· 筆記中 (´▽`ʃ♡ƪ) on message
+2020-09-02 09:21:15,533 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 09:21:47,432 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 09:22:01,047 INFO: operation succ with (in cache)Blaz on message
+2020-09-02 09:22:08,305 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 09:22:15,293 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 09:22:59,163 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:22:59,163 Level 15: {'nick': '沙拉(˶‾᷄ ⁻̫ ‾᷅˵)', 'lastDate': '20_09_02', 'xpDeque': [1, 1, 0, 1, 1, 1, 1, 1, 1], 'xpTotal': 8, 'eternal': 0}
+2020-09-02 09:22:59,163 Level 15: operated,try save
+2020-09-02 09:22:59,163 Level 15: try to save
+2020-09-02 09:22:59,163 Level 15: {'nick': '沙拉(˶‾᷄ ⁻̫ ‾᷅˵)', 'lastDate': '20_09_02', 'xpDeque': [1, 1, 0, 1, 1, 1, 1, 1, 1], 'xpTotal': 8, 'eternal': 0}
+2020-09-02 09:22:59,163 Level 15: outputed沙拉•平菇愛好者(˶‾᷄ ⁻̫ ‾᷅˵)(724972279628431482)'s json
+2020-09-02 09:22:59,164 INFO: saved,try update
+2020-09-02 09:22:59,164 INFO: no change
+2020-09-02 09:22:59,164 INFO: operation succ with 沙拉•平菇愛好者(˶‾᷄ ⁻̫ ‾᷅˵) on message
+2020-09-02 09:24:01,746 INFO: operation succ with (in cache)酪梨在喝酒🥑 on message
+2020-09-02 09:24:25,093 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 09:24:30,086 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 09:25:14,613 INFO: operation succ with (in cache)· 娜娜♡姆姆· 筆記中 (´▽`ʃ♡ƪ) on message
+2020-09-02 09:26:08,950 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 09:26:29,236 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 09:26:46,278 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 09:26:56,673 Level 15: [<class 'NoneType'>, 0, 0, 0, 0, 0, 'null']
+2020-09-02 09:26:56,674 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:26:56,674 Level 15: {'nick': 'Sophie', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 09:26:56,674 Level 15: operated,try save
+2020-09-02 09:26:56,674 Level 15: try to save
+2020-09-02 09:26:56,674 Level 15: {'nick': 'Sophie', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 09:26:56,674 Level 15: outputedSophie(672627743019630596)'s json
+2020-09-02 09:26:56,674 INFO: saved,try update
+2020-09-02 09:26:56,674 INFO: [] , 一翼
+2020-09-02 09:26:57,030 INFO: role update
+2020-09-02 09:26:57,030 INFO: operation succ with Sophie on message
+2020-09-02 09:26:57,087 INFO: operation succ with (in cache)Blaz on message
+2020-09-02 09:29:04,578 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:29:04,578 INFO: 小喇叭 was token
+2020-09-02 09:29:04,579 Level 15: no write and no update in SOP
+2020-09-02 09:29:04,579 INFO: operation succ with 小喇叭 on message
+2020-09-02 09:30:36,158 INFO: operation succ with (in cache)酪梨在喝酒🥑 on message
+2020-09-02 09:30:40,557 INFO: operation succ with (in cache)酪梨在喝酒🥑 on message
+2020-09-02 09:31:27,640 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 09:31:54,607 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 09:32:03,740 INFO: Got a request to RESUME the websocket.
+2020-09-02 09:32:04,191 INFO: Shard ID None has sent the RESUME payload.
+2020-09-02 09:32:04,430 INFO: Shard ID None has successfully RESUMED session 80d16bd13f95d7d7f68bd347df1fd297 under trace ["gateway-prd-main-sqc6",{"micros":2513,"calls":["discord-sessions-prd-2-87",{"micros":27}]}].
+2020-09-02 09:32:07,306 INFO: operation succ with (in cache)枏ㄋㄢˊ樳ㄒㄩㄣˊ on message
+2020-09-02 09:32:33,962 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:32:33,962 Level 15: {'nick': '小雞🐤賭博沒事不要梭哈💦', 'lastDate': '20_09_02', 'xpDeque': [2, 1, 1, 0, 1, 1, 1, 1, 1], 'xpTotal': 9, 'eternal': 0}
+2020-09-02 09:32:33,962 Level 15: operated,try save
+2020-09-02 09:32:33,962 Level 15: try to save
+2020-09-02 09:32:33,962 Level 15: {'nick': '小雞🐤賭博沒事不要梭哈💦', 'lastDate': '20_09_02', 'xpDeque': [2, 1, 1, 0, 1, 1, 1, 1, 1], 'xpTotal': 9, 'eternal': 0}
+2020-09-02 09:32:33,962 Level 15: outputed小雞🐤賭博沒事不要梭哈💦(726417453151944745)'s json
+2020-09-02 09:32:33,962 INFO: saved,try update
+2020-09-02 09:32:33,962 INFO: no change
+2020-09-02 09:32:33,963 INFO: operation succ with 小雞🐤賭博沒事不要梭哈💦 on message
+2020-09-02 09:32:41,508 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:32:41,508 Level 15: {'nick': '啾唧', 'lastDate': '20_09_02', 'xpDeque': [1, 0, 0, 0, 1, 0, 1], 'xpTotal': 3, 'eternal': 0}
+2020-09-02 09:32:41,508 Level 15: operated,try save
+2020-09-02 09:32:41,508 Level 15: try to save
+2020-09-02 09:32:41,508 Level 15: {'nick': '啾唧', 'lastDate': '20_09_02', 'xpDeque': [1, 0, 0, 0, 1, 0, 1], 'xpTotal': 3, 'eternal': 0}
+2020-09-02 09:32:41,509 Level 15: outputed啾唧(594111938569568276)'s json
+2020-09-02 09:32:41,509 INFO: saved,try update
+2020-09-02 09:32:41,509 INFO: no change
+2020-09-02 09:32:41,509 INFO: operation succ with 啾唧 on message
+2020-09-02 09:33:25,965 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 09:33:46,632 INFO: operation succ with (in cache)酪梨在喝酒🥑 on message
+2020-09-02 09:33:49,480 INFO: operation succ with (in cache)酪梨在喝酒🥑 on message
+2020-09-02 09:34:06,201 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 09:34:20,215 INFO: operation succ with (in cache)小雞🐤賭博沒事不要梭哈💦 on message
+2020-09-02 09:34:23,986 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 09:35:34,731 INFO: operation succ with (in cache)啾唧 on message
+2020-09-02 09:36:07,196 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 09:36:11,677 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 09:36:15,806 INFO: operation succ with (in cache)小雞🐤賭博沒事不要梭哈💦 on message
+2020-09-02 09:36:25,195 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 09:37:04,595 INFO: operation succ with (in cache)酪梨在喝酒🥑 on message
+2020-09-02 09:40:46,600 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:40:46,600 INFO: 阿愷～下次聚會9月在台北 was token
+2020-09-02 09:40:46,600 Level 15: no write and no update in SOP
+2020-09-02 09:40:46,600 INFO: operation succ with 阿愷～下次聚會9月在台北 on message
+2020-09-02 09:40:51,297 INFO: operation succ with (in cache)阿愷～下次聚會9月在台北 on message
+2020-09-02 09:40:54,092 INFO: operation succ with (in cache)阿愷～下次聚會9月在台北 on message
+2020-09-02 09:41:41,017 INFO: operation succ with (in cache)阿愷～下次聚會9月在台北 on message
+2020-09-02 09:41:44,083 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:41:44,083 INFO: 同一科課本內容版本卻有大差異 筆記好難 was token
+2020-09-02 09:41:44,083 Level 15: no write and no update in SOP
+2020-09-02 09:41:44,083 INFO: operation succ with 同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 09:41:51,866 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 09:42:05,533 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 09:42:12,693 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 09:42:18,295 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 09:42:39,433 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 09:42:52,211 INFO: operation succ with (in cache)酪梨在喝酒🥑 on message
+2020-09-02 09:43:02,712 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 09:43:15,552 INFO: operation succ with (in cache)酪梨在喝酒🥑 on message
+2020-09-02 09:43:28,934 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 09:43:45,701 INFO: operation succ with (in cache)酪梨在喝酒🥑 on message
+2020-09-02 09:43:56,814 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 09:43:58,508 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 09:44:12,318 INFO: operation succ with (in cache)酪梨在喝酒🥑 on message
+2020-09-02 09:45:48,042 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 09:46:09,323 INFO: operation succ with (in cache)枏ㄋㄢˊ樳ㄒㄩㄣˊ on message
+2020-09-02 09:46:24,097 INFO: operation succ with (in cache)枏ㄋㄢˊ樳ㄒㄩㄣˊ on message
+2020-09-02 09:46:28,052 INFO: operation succ with (in cache)枏ㄋㄢˊ樳ㄒㄩㄣˊ on message
+2020-09-02 09:49:47,217 INFO: operation succ with (in cache)酪梨剛起床🥑 on message
+2020-09-02 09:50:05,885 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:50:05,885 INFO: 涅 was token
+2020-09-02 09:50:05,885 Level 15: no write and no update in SOP
+2020-09-02 09:50:05,885 INFO: operation succ with 涅 on message
+2020-09-02 09:50:14,602 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:50:14,602 INFO: 一轉身就會迷路的鴿子 🕊💦 was token
+2020-09-02 09:50:14,602 Level 15: no write and no update in SOP
+2020-09-02 09:50:14,603 INFO: operation succ with 一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 09:52:09,196 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 09:52:10,684 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:52:10,684 Level 15: {'nick': 'pizza ξ( ✿＞◡❛)', 'lastDate': '20_09_02', 'xpDeque': [1, 1, 0, 1, 1, 1, 1, 1, 1], 'xpTotal': 8, 'eternal': 0}
+2020-09-02 09:52:10,692 Level 15: operated,try save
+2020-09-02 09:52:10,692 Level 15: try to save
+2020-09-02 09:52:10,692 Level 15: {'nick': 'pizza ξ( ✿＞◡❛)', 'lastDate': '20_09_02', 'xpDeque': [1, 1, 0, 1, 1, 1, 1, 1, 1], 'xpTotal': 8, 'eternal': 0}
+2020-09-02 09:52:10,692 Level 15: outputedpizza ξ( ✿＞◡❛)(327803274264838145)'s json
+2020-09-02 09:52:10,692 INFO: saved,try update
+2020-09-02 09:52:10,693 INFO: no change
+2020-09-02 09:52:10,693 INFO: operation succ with pizza ξ( ✿＞◡❛) on message
+2020-09-02 09:52:14,648 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 09:52:19,530 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 09:52:23,287 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 09:52:23,431 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 09:52:26,756 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 09:52:30,600 INFO: operation succ with (in cache)pizza ξ( ✿＞◡❛) on message
+2020-09-02 09:52:32,196 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 09:53:11,923 INFO: operation succ with (in cache)pizza ξ( ✿＞◡❛) on message
+2020-09-02 09:53:12,213 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 09:53:14,581 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:53:14,581 Level 15: {'nick': '果果♡姆姆*˙︶˙*)ﾉﾞꕤ-徵耐心包容我軟爛的固玩哈哈哈哈哈☆', 'lastDate': '20_09_02', 'xpDeque': [23, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 32, 'eternal': 0}
+2020-09-02 09:53:14,581 Level 15: operated,try save
+2020-09-02 09:53:14,581 Level 15: try to save
+2020-09-02 09:53:14,581 Level 15: {'nick': '果果♡姆姆*˙︶˙*)ﾉﾞꕤ-徵耐心包容我軟爛的固玩哈哈哈哈哈☆', 'lastDate': '20_09_02', 'xpDeque': [23, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 32, 'eternal': 0}
+2020-09-02 09:53:14,581 Level 15: outputed果♡姆*˙︶˙*)ﾉﾞꕤ-徵耐心包容我軟爛的固玩哈哈哈哈哈☆(520586770522570762)'s json
+2020-09-02 09:53:14,581 INFO: saved,try update
+2020-09-02 09:53:14,581 INFO: no change
+2020-09-02 09:53:14,582 INFO: operation succ with 果♡姆*˙︶˙*)ﾉﾞꕤ-徵耐心包容我軟爛的固玩哈哈哈哈哈☆ on message
+2020-09-02 09:53:15,441 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 09:53:40,340 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 09:54:24,060 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 09:55:44,193 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 09:56:24,298 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 09:56:24,298 Level 15: {'nick': '歐若拉.阿克斯內斯', 'lastDate': '20_09_02', 'xpDeque': [5, 1, 0, 0, 1, 1, 1, 1, 1, 1], 'xpTotal': 12, 'eternal': 0}
+2020-09-02 09:56:24,298 Level 15: operated,try save
+2020-09-02 09:56:24,298 Level 15: try to save
+2020-09-02 09:56:24,298 Level 15: {'nick': '歐若拉.阿克斯內斯', 'lastDate': '20_09_02', 'xpDeque': [5, 1, 0, 0, 1, 1, 1, 1, 1, 1], 'xpTotal': 12, 'eternal': 0}
+2020-09-02 09:56:24,298 Level 15: outputed歐若拉.阿克斯內斯(581857799621836823)'s json
+2020-09-02 09:56:24,299 INFO: saved,try update
+2020-09-02 09:56:24,299 INFO: no change
+2020-09-02 09:56:24,299 INFO: operation succ with 歐若拉.阿克斯內斯 on message
+2020-09-02 09:57:04,297 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 09:57:33,046 INFO: operation succ with (in cache)屍．長不高的矮子．態 on message
+2020-09-02 09:57:43,907 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 09:58:02,977 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 09:58:10,435 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 10:00:22,553 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 10:00:22,553 INFO: 死線踐踏怨靈 was token
+2020-09-02 10:00:22,553 Level 15: no write and no update in SOP
+2020-09-02 10:00:22,553 INFO: operation succ with 死線踐踏怨靈 on message
+2020-09-02 10:00:52,722 INFO: operation succ with (in cache)屍．長不高的矮子．態 on message
+2020-09-02 10:01:02,858 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:01:03,176 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:01:06,964 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:01:25,056 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 10:01:56,624 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 10:02:26,938 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:02:37,085 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 10:02:53,083 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:03:06,436 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 10:03:06,902 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:03:14,610 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:03:19,965 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 10:03:19,990 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:03:27,730 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 10:03:40,099 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:04:44,244 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:04:48,999 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:04:54,582 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 10:05:08,161 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 10:05:10,161 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:05:18,258 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 10:05:18,837 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 10:05:32,988 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 10:05:36,779 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 10:05:50,792 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:06:04,812 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:06:05,091 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 10:06:23,500 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 10:06:26,329 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 10:06:30,963 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:06:33,076 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:06:56,930 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 10:07:16,198 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 10:07:35,195 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 10:07:52,536 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 10:08:45,101 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:09:05,457 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:09:35,138 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:09:37,686 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:09:49,557 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 10:10:05,117 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 10:10:16,140 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 10:10:32,713 INFO: operation succ with (in cache)酪梨剛起床🥑 on message
+2020-09-02 10:10:33,709 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:10:42,005 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:10:49,375 INFO: operation succ with (in cache)酪梨剛起床🥑 on message
+2020-09-02 10:11:48,969 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 10:11:55,267 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:11:56,938 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 10:11:57,522 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:12:04,588 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 10:12:10,262 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:12:23,417 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 10:12:29,587 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:12:45,278 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:12:48,165 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:13:15,214 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 10:13:20,915 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 10:13:20,915 INFO: 媽麻生日快樂 was token
+2020-09-02 10:13:20,915 Level 15: no write and no update in SOP
+2020-09-02 10:13:20,915 INFO: operation succ with 媽麻生日快樂 on message
+2020-09-02 10:13:27,033 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:13:29,009 INFO: operation succ with (in cache)媽麻生日快樂 on message
+2020-09-02 10:13:31,881 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:13:32,694 INFO: operation succ with (in cache)媽麻生日快樂 on message
+2020-09-02 10:13:33,998 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:15:54,585 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:15:59,515 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:16:16,686 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:16:29,545 INFO: operation succ with (in cache)同一科課本內容版本卻有大差異 筆記好難 on message
+2020-09-02 10:16:55,374 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 10:17:44,639 INFO: operation succ with (in cache)呆姆即將被機械科力量實體化 on message
+2020-09-02 10:17:46,273 INFO: operation succ with (in cache)呆姆即將被機械科力量實體化 on message
+2020-09-02 10:21:56,063 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 10:23:47,355 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 10:23:47,355 INFO: 薄情💦 was token
+2020-09-02 10:23:47,355 Level 15: no write and no update in SOP
+2020-09-02 10:23:47,356 INFO: operation succ with 薄情💦 on message
+2020-09-02 10:32:35,097 INFO: operation succ with (in cache)涅 on message
+2020-09-02 10:33:00,158 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 10:33:00,158 INFO: 企鵝 was token
+2020-09-02 10:33:00,158 Level 15: no write and no update in SOP
+2020-09-02 10:33:00,158 INFO: operation succ with 企鵝 on message
+2020-09-02 10:33:21,997 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 10:33:25,898 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 10:33:31,506 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 10:33:40,512 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 10:33:46,875 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 10:33:46,875 INFO: Midnight lantern. was token
+2020-09-02 10:33:46,875 Level 15: no write and no update in SOP
+2020-09-02 10:33:46,875 INFO: operation succ with Midnight lantern. on message
+2020-09-02 10:33:50,747 INFO: operation succ with (in cache)Midnight lantern. on message
+2020-09-02 10:33:59,658 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 10:34:17,837 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 10:34:22,531 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 10:34:27,994 INFO: operation succ with (in cache)Midnight lantern. on message
+2020-09-02 10:35:07,631 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 10:35:07,631 INFO: 蹭音樂機器人的hoho was token
+2020-09-02 10:35:07,631 Level 15: no write and no update in SOP
+2020-09-02 10:35:07,631 INFO: operation succ with 蹭音樂機器人的hoho's voice channel changed !
+2020-09-02 10:35:09,186 INFO: operation succ with (in cache)蹭音樂機器人的hoho's voice channel changed !
+2020-09-02 10:35:35,441 INFO: operation succ with (in cache)沙拉•平菇愛好者(˶‾᷄ ⁻̫ ‾᷅˵) on message
+2020-09-02 10:36:00,507 Level 15: [<class 'discord.role.Role'>, 8, 8, 8, 1, 0, '20_09_02']
+2020-09-02 10:36:00,507 INFO: operation succ with (in cache)沙拉•平菇愛好者(˶‾᷄ ⁻̫ ‾᷅˵) on message
+2020-09-02 10:36:00,874 INFO: operation succ with (in cache)Blaz on message
+2020-09-02 10:36:27,202 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 10:39:00,336 INFO: operation succ with (in cache)歐若拉.阿克斯內斯 on message
+2020-09-02 10:39:16,874 INFO: operation succ with (in cache)歐若拉.阿克斯內斯 on message
+2020-09-02 10:39:38,525 INFO: operation succ with (in cache)歐若拉.阿克斯內斯 on message
+2020-09-02 10:40:02,517 INFO: operation succ with (in cache)歐若拉.阿克斯內斯 on message
+2020-09-02 10:40:23,908 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 10:40:31,145 INFO: operation succ with (in cache)歐若拉.阿克斯內斯 on message
+2020-09-02 10:40:48,128 INFO: operation succ with (in cache)歐若拉.阿克斯內斯 on message
+2020-09-02 10:41:05,335 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 10:41:05,335 INFO: 派星星⭐ was token
+2020-09-02 10:41:05,335 Level 15: no write and no update in SOP
+2020-09-02 10:41:05,335 INFO: operation succ with 派星星⭐ on message
+2020-09-02 10:41:46,177 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 10:43:13,817 INFO: operation succ with (in cache)歐若拉.阿克斯內斯 on message
+2020-09-02 10:43:15,153 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 10:43:15,153 INFO: 🍵 was token
+2020-09-02 10:43:15,153 Level 15: no write and no update in SOP
+2020-09-02 10:43:15,153 INFO: operation succ with 🍵's voice channel changed !
+2020-09-02 10:43:27,021 INFO: operation succ with (in cache)🍵's voice channel changed !
+2020-09-02 10:43:38,424 INFO: operation succ with (in cache)歐若拉.阿克斯內斯 on message
+2020-09-02 10:46:39,426 INFO: operation succ with (in cache)蹭音樂機器人的hoho on message
+2020-09-02 10:47:37,652 INFO: operation succ with (in cache)枏ㄋㄢˊ樳ㄒㄩㄣˊ on message
+2020-09-02 10:48:09,498 INFO: operation succ with (in cache)枏ㄋㄢˊ樳ㄒㄩㄣˊ on message
+2020-09-02 10:49:13,185 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 10:49:13,185 Level 15: {'nick': '風風風風', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 0, 0, 1, 1], 'xpTotal': 2, 'eternal': 0}
+2020-09-02 10:49:13,185 Level 15: operated,try save
+2020-09-02 10:49:13,185 Level 15: try to save
+2020-09-02 10:49:13,185 Level 15: {'nick': '風風風風', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 0, 0, 1, 1], 'xpTotal': 2, 'eternal': 0}
+2020-09-02 10:49:13,186 Level 15: outputed風風風風(733626766878310451)'s json
+2020-09-02 10:49:13,186 INFO: saved,try update
+2020-09-02 10:49:13,187 INFO: [<Role id=741691856890495046 name='一翼'>] , 兩翼
+2020-09-02 10:49:13,822 INFO: role update
+2020-09-02 10:49:13,822 INFO: operation succ with 風風風風 on message
+2020-09-02 10:49:16,599 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 10:49:16,599 Level 15: {'nick': '卍煞氣a咸魚卍', 'lastDate': '20_09_02', 'xpDeque': [1, 0, 0, 1, 1, 1, 1, 1], 'xpTotal': 6, 'eternal': 0}
+2020-09-02 10:49:16,599 Level 15: operated,try save
+2020-09-02 10:49:16,599 Level 15: try to save
+2020-09-02 10:49:16,600 Level 15: {'nick': '卍煞氣a咸魚卍', 'lastDate': '20_09_02', 'xpDeque': [1, 0, 0, 1, 1, 1, 1, 1], 'xpTotal': 6, 'eternal': 0}
+2020-09-02 10:49:16,600 Level 15: outputed卍煞氣a咸魚卍(564436194818129950)'s json
+2020-09-02 10:49:16,600 INFO: saved,try update
+2020-09-02 10:49:16,600 INFO: no change
+2020-09-02 10:49:16,600 INFO: operation succ with 卍煞氣a咸魚卍 on message
+2020-09-02 10:49:44,245 INFO: operation succ with (in cache)風風風風 on message
+2020-09-02 10:49:44,604 INFO: operation succ with (in cache)枏ㄋㄢˊ樳ㄒㄩㄣˊ on message
+2020-09-02 10:50:25,943 INFO: operation succ with (in cache)卍煞氣a咸魚卍 on message
+2020-09-02 10:50:27,463 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 10:50:27,463 Level 15: {'nick': '阿切✧*｡٩(ˊᗜˋ*)و✧*｡', 'lastDate': '20_09_02', 'xpDeque': [1, 0, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 9, 'eternal': 0}
+2020-09-02 10:50:27,463 Level 15: operated,try save
+2020-09-02 10:50:27,464 Level 15: try to save
+2020-09-02 10:50:27,464 Level 15: {'nick': '阿切✧*｡٩(ˊᗜˋ*)و✧*｡', 'lastDate': '20_09_02', 'xpDeque': [1, 0, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 9, 'eternal': 0}
+2020-09-02 10:50:27,464 Level 15: outputed阿切✧*｡٩(ˊᗜˋ*)و✧*｡(702469765796593684)'s json
+2020-09-02 10:50:27,464 INFO: saved,try update
+2020-09-02 10:50:27,464 INFO: no change
+2020-09-02 10:50:27,464 INFO: operation succ with 阿切✧*｡٩(ˊᗜˋ*)و✧*｡ on message
+2020-09-02 10:53:23,886 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 10:53:23,886 INFO: 無腦🧠 was token
+2020-09-02 10:53:23,886 Level 15: no write and no update in SOP
+2020-09-02 10:53:23,886 INFO: operation succ with 無腦🧠 on message
+2020-09-02 10:56:48,170 INFO: operation succ with (in cache)無腦🧠 on message
+2020-09-02 10:56:49,501 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 10:56:51,626 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 10:57:53,482 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 10:57:53,482 Level 15: {'nick': '一束光', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 10:57:53,482 Level 15: operated,try save
+2020-09-02 10:57:53,482 Level 15: try to save
+2020-09-02 10:57:53,482 Level 15: {'nick': '一束光', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 10:57:53,482 Level 15: outputedBeam(720501001143975947)'s json
+2020-09-02 10:57:53,482 INFO: saved,try update
+2020-09-02 10:57:53,483 INFO: [] , 一翼
+2020-09-02 10:57:53,825 INFO: role update
+2020-09-02 10:57:53,825 INFO: operation succ with Beam on message
+2020-09-02 10:58:12,955 INFO: operation succ with (in cache)沐沐(=´ω`=) on message
+2020-09-02 10:58:21,852 INFO: operation succ with (in cache)沐沐(=´ω`=) on message
+2020-09-02 10:59:03,759 INFO: operation succ with (in cache)Beam on message
+2020-09-02 10:59:24,786 INFO: operation succ with (in cache)沐沐(=´ω`=) on message
+2020-09-02 10:59:41,442 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 11:00:05,418 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 11:00:05,418 INFO: 路人喵ΦωΦ回鍋者請告知解封鎖 was token
+2020-09-02 11:00:05,418 Level 15: no write and no update in SOP
+2020-09-02 11:00:05,418 INFO: operation succ with 路人喵ΦωΦ回鍋者請告知解封鎖 on message
+2020-09-02 11:00:07,772 INFO: operation succ with (in cache)Beam on message
+2020-09-02 11:00:27,892 INFO: operation succ with (in cache)路人喵ΦωΦ回鍋者請告知解封鎖 on message
+2020-09-02 11:01:13,330 INFO: operation succ with (in cache)路人喵ΦωΦ回鍋者請告知解封鎖 on message
+2020-09-02 11:04:03,119 Level 15: [<class 'discord.role.Role'>, 32, 32, 32, 1, 0, '20_09_02']
+2020-09-02 11:04:03,120 INFO: operation succ with (in cache)果♡姆*˙︶˙*)ﾉﾞꕤ-徵耐心包容我軟爛的固玩哈哈哈哈哈☆ on message
+2020-09-02 11:04:03,518 INFO: operation succ with (in cache)Blaz on message
+2020-09-02 11:05:20,893 INFO: operation succ with (in cache)果♡姆*˙︶˙*)ﾉﾞꕤ-徵耐心包容我軟爛的固玩哈哈哈哈哈☆ on message
+2020-09-02 11:05:35,128 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:05:40,155 INFO: operation succ with (in cache)果♡姆*˙︶˙*)ﾉﾞꕤ-徵耐心包容我軟爛的固玩哈哈哈哈哈☆ on message
+2020-09-02 11:06:03,887 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:06:06,277 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:06:28,602 INFO: operation succ with (in cache)路人喵ΦωΦ回鍋者請告知解封鎖 on message
+2020-09-02 11:06:31,748 INFO: operation succ with (in cache)果♡姆*˙︶˙*)ﾉﾞꕤ-徵耐心包容我軟爛的固玩哈哈哈哈哈☆ on message
+2020-09-02 11:06:38,862 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:06:42,845 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:09:50,780 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 11:09:50,781 Level 15: {'nick': 'wonghauhei', 'lastDate': '20_09_02', 'xpDeque': [1, 1, 1], 'xpTotal': 3, 'eternal': 0}
+2020-09-02 11:09:50,781 Level 15: operated,try save
+2020-09-02 11:09:50,781 Level 15: try to save
+2020-09-02 11:09:50,781 Level 15: {'nick': 'wonghauhei', 'lastDate': '20_09_02', 'xpDeque': [1, 1, 1], 'xpTotal': 3, 'eternal': 0}
+2020-09-02 11:09:50,782 Level 15: outputed熙熙(749309138718294048)'s json
+2020-09-02 11:09:50,782 INFO: saved,try update
+2020-09-02 11:09:50,782 INFO: no change
+2020-09-02 11:09:50,782 INFO: operation succ with 熙熙's voice channel changed !
+2020-09-02 11:11:05,503 INFO: operation succ with (in cache)酥皮🌵 on message
+2020-09-02 11:11:30,388 INFO: operation succ with (in cache)綠綠🥑 on message
+2020-09-02 11:11:54,118 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:11:56,248 INFO: operation succ with (in cache)綠綠🥑 on message
+2020-09-02 11:12:18,810 INFO: operation succ with (in cache)綠綠🥑 on message
+2020-09-02 11:12:19,222 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:12:28,532 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:12:34,113 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:12:45,825 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 11:12:48,993 INFO: operation succ with (in cache)綠綠🥑 on message
+2020-09-02 11:13:16,831 INFO: operation succ with (in cache)蹭音樂機器人的hoho's voice channel changed !
+2020-09-02 11:13:22,100 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 11:13:22,346 INFO: operation succ with (in cache)綠綠🥑 on message
+2020-09-02 11:13:28,623 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 11:13:29,850 INFO: operation succ with (in cache)綠綠🥑 on message
+2020-09-02 11:13:31,299 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 11:13:47,332 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:13:51,641 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:14:00,514 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:14:10,053 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 11:14:19,891 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 11:14:26,050 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 11:14:30,066 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 11:14:31,152 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:14:49,596 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:14:53,041 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 11:15:00,265 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 11:15:05,180 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 11:15:13,992 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 11:15:21,013 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 11:15:21,013 Level 15: {'nick': '尼亞 -凝視深淵𓆝𓆜𓆟𓆞', 'lastDate': '20_09_02', 'xpDeque': [1, 1, 0, 1, 1, 1, 1, 1], 'xpTotal': 7, 'eternal': 0}
+2020-09-02 11:15:21,013 Level 15: operated,try save
+2020-09-02 11:15:21,014 Level 15: try to save
+2020-09-02 11:15:21,014 Level 15: {'nick': '尼亞 -凝視深淵𓆝𓆜𓆟𓆞', 'lastDate': '20_09_02', 'xpDeque': [1, 1, 0, 1, 1, 1, 1, 1], 'xpTotal': 7, 'eternal': 0}
+2020-09-02 11:15:21,014 Level 15: outputed尼亞 -凝視深淵𓆝𓆜𓆟𓆞(711276144711696475)'s json
+2020-09-02 11:15:21,014 INFO: saved,try update
+2020-09-02 11:15:21,014 INFO: no change
+2020-09-02 11:15:21,015 INFO: operation succ with 尼亞 -凝視深淵𓆝𓆜𓆟𓆞 on message
+2020-09-02 11:15:24,217 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 11:15:30,721 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 11:15:32,164 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:15:48,342 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 11:16:26,432 INFO: operation succ with (in cache)尼亞 -凝視深淵𓆝𓆜𓆟𓆞 on message
+2020-09-02 11:16:29,455 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:16:50,952 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:16:58,153 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:17:11,983 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:17:17,429 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:17:51,679 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 11:18:59,548 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:19:04,403 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:19:11,532 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 11:19:11,533 INFO: mayi was token
+2020-09-02 11:19:11,533 Level 15: no write and no update in SOP
+2020-09-02 11:19:11,533 INFO: operation succ with mayi's voice channel changed !
+2020-09-02 11:19:14,850 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 11:19:14,850 Level 15: {'nick': 'Lorian', 'lastDate': '20_09_02', 'xpDeque': [1, 1, 0, 1, 1, 1, 1, 1], 'xpTotal': 7, 'eternal': 0}
+2020-09-02 11:19:14,850 Level 15: operated,try save
+2020-09-02 11:19:14,850 Level 15: try to save
+2020-09-02 11:19:14,850 Level 15: {'nick': 'Lorian', 'lastDate': '20_09_02', 'xpDeque': [1, 1, 0, 1, 1, 1, 1, 1], 'xpTotal': 7, 'eternal': 0}
+2020-09-02 11:19:14,851 Level 15: outputedLorian(381466716020015104)'s json
+2020-09-02 11:19:14,851 INFO: saved,try update
+2020-09-02 11:19:14,851 INFO: no change
+2020-09-02 11:19:14,851 INFO: operation succ with Lorian on message
+2020-09-02 11:21:38,533 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 11:23:41,600 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:23:47,048 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:23:54,613 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:24:27,285 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:24:41,856 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:25:00,095 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:25:31,315 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:27:00,795 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 11:28:43,396 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:29:01,422 INFO: operation succ with (in cache)路人喵ΦωΦ回鍋者請告知解封鎖 on message
+2020-09-02 11:31:16,405 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 11:33:15,967 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:33:25,478 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:33:39,352 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:34:07,275 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:34:08,058 Level 15: [<class 'discord.role.Role'>, 7, 7, 7, 1, 0, '20_09_02']
+2020-09-02 11:34:08,059 INFO: operation succ with (in cache)尼亞 -凝視深淵𓆝𓆜𓆟𓆞 on message
+2020-09-02 11:34:08,425 INFO: operation succ with (in cache)Blaz on message
+2020-09-02 11:34:12,130 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:34:25,128 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:34:37,351 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:34:45,940 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:34:57,206 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:36:26,707 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:38:37,287 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:38:41,340 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:38:57,660 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 11:38:57,660 Level 15: {'nick': 'Vincent 要互光可以直接dm qr code :)', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 1, 1, 1, 1], 'xpTotal': 4, 'eternal': 0}
+2020-09-02 11:38:57,660 Level 15: operated,try save
+2020-09-02 11:38:57,660 Level 15: try to save
+2020-09-02 11:38:57,660 Level 15: {'nick': 'Vincent 要互光可以直接dm qr code :)', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 1, 1, 1, 1], 'xpTotal': 4, 'eternal': 0}
+2020-09-02 11:38:57,661 Level 15: outputedVincent 沒加好友的找我互光吧！！(531780181791080449)'s json
+2020-09-02 11:38:57,661 INFO: saved,try update
+2020-09-02 11:38:57,661 INFO: no change
+2020-09-02 11:38:57,661 INFO: operation succ with Vincent 沒加好友的找我互光吧！！ on message
+2020-09-02 11:39:14,060 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 11:39:14,060 INFO: 小羽♡姆姆 was token
+2020-09-02 11:39:14,060 Level 15: no write and no update in SOP
+2020-09-02 11:39:14,060 INFO: operation succ with 小羽♡姆姆 on message
+2020-09-02 11:40:15,470 INFO: operation succ with (in cache)涅's voice channel changed !
+2020-09-02 11:40:17,885 INFO: operation succ with (in cache)涅's voice channel changed !
+2020-09-02 11:40:26,610 INFO: operation succ with (in cache)涅 on message
+2020-09-02 11:40:26,967 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 11:40:26,967 INFO: 小喇叭2(--) was token
+2020-09-02 11:40:26,967 Level 15: no write and no update in SOP
+2020-09-02 11:40:26,967 INFO: operation succ with 小喇叭2(--)'s voice channel changed !
+2020-09-02 11:40:27,130 INFO: operation succ with (in cache)小喇叭2(--) on message
+2020-09-02 11:40:27,258 INFO: operation succ with (in cache)小喇叭2(--) on message
+2020-09-02 11:40:32,127 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 11:40:46,459 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:40:56,151 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:40:59,593 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 11:41:31,771 INFO: operation succ with (in cache)熙熙's voice channel changed !
+2020-09-02 11:41:37,128 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:41:44,433 INFO: operation succ with (in cache)小羽♡姆姆 on message
+2020-09-02 11:41:55,330 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:42:20,255 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:42:21,556 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:42:35,338 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:42:37,485 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:42:57,025 INFO: operation succ with (in cache)小羽♡姆姆 on message
+2020-09-02 11:43:16,070 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:43:18,880 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:43:30,105 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:43:58,385 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:44:51,906 INFO: operation succ with (in cache)小喇叭2(--) on message
+2020-09-02 11:44:55,968 INFO: operation succ with (in cache)枏ㄋㄢˊ樳ㄒㄩㄣˊ on message
+2020-09-02 11:45:37,237 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:45:49,626 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:45:50,324 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 11:46:06,491 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:46:17,309 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:46:23,965 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:46:27,968 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:46:29,866 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:46:42,905 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 11:46:44,850 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:48:23,517 INFO: operation succ with (in cache)小喇叭2(--) on message
+2020-09-02 11:50:53,409 INFO: operation succ with (in cache)多多綠綠🥑's voice channel changed !
+2020-09-02 11:51:51,903 INFO: operation succ with (in cache)小喇叭2(--) on message
+2020-09-02 11:52:13,102 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 11:52:26,763 INFO: operation succ with (in cache)小喇叭's voice channel changed !
+2020-09-02 11:53:39,542 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:53:44,825 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:53:50,049 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 11:53:50,049 INFO: 哇洗洛宇 was token
+2020-09-02 11:53:50,049 Level 15: no write and no update in SOP
+2020-09-02 11:53:50,049 INFO: operation succ with 哇洗洛宇 on message
+2020-09-02 11:54:42,022 INFO: operation succ with (in cache)死線踐踏怨靈's voice channel changed !
+2020-09-02 11:54:43,665 INFO: operation succ with (in cache)死線踐踏怨靈's voice channel changed !
+2020-09-02 11:54:55,010 INFO: operation succ with (in cache)酥皮🌵 on message
+2020-09-02 11:55:15,799 INFO: operation succ with (in cache)小喇叭2(--) on message
+2020-09-02 11:56:25,569 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:56:26,667 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:56:36,664 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:57:48,596 INFO: operation succ with (in cache)涅's voice channel changed !
+2020-09-02 11:58:18,828 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 11:58:31,883 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 11:58:42,378 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:58:45,536 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:58:52,795 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 11:59:13,716 INFO: operation succ with (in cache)小喇叭2(--) on message
+2020-09-02 11:59:18,109 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 12:00:14,744 INFO: operation succ with (in cache)死線踐踏怨靈's voice channel changed !
+2020-09-02 12:00:17,385 INFO: operation succ with (in cache)死線踐踏怨靈's voice channel changed !
+2020-09-02 12:00:19,090 INFO: operation succ with (in cache)死線踐踏怨靈's voice channel changed !
+2020-09-02 12:00:23,414 INFO: operation succ with (in cache)死線踐踏怨靈's voice channel changed !
+2020-09-02 12:00:45,126 INFO: operation succ with (in cache)多多綠綠🥑's voice channel changed !
+2020-09-02 12:00:49,732 INFO: operation succ with (in cache)死線踐踏怨靈's voice channel changed !
+2020-09-02 12:01:13,997 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:01:21,903 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:01:43,583 INFO: operation succ with (in cache)小喇叭2(--) on message
+2020-09-02 12:01:44,649 INFO: operation succ with (in cache)小喇叭2(--) on message
+2020-09-02 12:01:48,591 INFO: operation succ with (in cache)小喇叭2(--) on message
+2020-09-02 12:02:11,168 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 12:02:11,168 Level 15: {'nick': '阿四', 'lastDate': '20_09_02', 'xpDeque': [0, 1, 0, 1, 1, 1, 1, 1], 'xpTotal': 6, 'eternal': 0}
+2020-09-02 12:02:11,170 Level 15: operated,try save
+2020-09-02 12:02:11,170 Level 15: try to save
+2020-09-02 12:02:11,170 Level 15: {'nick': '阿四', 'lastDate': '20_09_02', 'xpDeque': [0, 1, 0, 1, 1, 1, 1, 1], 'xpTotal': 6, 'eternal': 0}
+2020-09-02 12:02:11,170 Level 15: outputed阿四(469325249260027904)'s json
+2020-09-02 12:02:11,170 INFO: saved,try update
+2020-09-02 12:02:11,171 INFO: no change
+2020-09-02 12:02:11,171 INFO: operation succ with 阿四 on message
+2020-09-02 12:02:21,682 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:03:00,663 Level 15: [<class 'discord.role.Role'>, 6, 6, 6, 1, 0, '20_09_02']
+2020-09-02 12:03:00,664 INFO: operation succ with (in cache)阿四 on message
+2020-09-02 12:03:01,032 INFO: operation succ with (in cache)Blaz on message
+2020-09-02 12:03:23,338 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:03:27,135 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:03:29,075 INFO: operation succ with (in cache)mayi's voice channel changed !
+2020-09-02 12:03:34,380 INFO: operation succ with (in cache)mayi's voice channel changed !
+2020-09-02 12:03:49,825 INFO: operation succ with (in cache)mayi on message
+2020-09-02 12:04:10,551 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:04:34,195 Level 15: [<class 'discord.role.Role'>, 29, 29, 29, 1, 0, '20_09_02']
+2020-09-02 12:04:34,196 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:04:34,533 INFO: operation succ with (in cache)Blaz on message
+2020-09-02 12:04:56,696 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:05:14,535 INFO: operation succ with (in cache)卍煞氣a咸魚卍 on message
+2020-09-02 12:05:22,473 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:05:24,019 INFO: operation succ with (in cache)小喇叭2(--) on message
+2020-09-02 12:05:24,234 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 12:05:24,234 Level 15: {'nick': '小喇叭3(>>)', 'lastDate': '20_09_02', 'xpDeque': [1, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 9, 'eternal': 0}
+2020-09-02 12:05:24,234 Level 15: operated,try save
+2020-09-02 12:05:24,234 Level 15: try to save
+2020-09-02 12:05:24,234 Level 15: {'nick': '小喇叭3(>>)', 'lastDate': '20_09_02', 'xpDeque': [1, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 9, 'eternal': 0}
+2020-09-02 12:05:24,234 Level 15: outputed小喇叭3(>>)(287378523843198976)'s json
+2020-09-02 12:05:24,235 INFO: saved,try update
+2020-09-02 12:05:24,235 INFO: no change
+2020-09-02 12:05:24,235 INFO: operation succ with 小喇叭3(>>)'s voice channel changed !
+2020-09-02 12:05:24,588 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 12:05:28,560 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:06:08,711 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:07:05,537 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:07:14,747 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:07:57,904 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:07:58,338 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 12:07:58,338 Level 15: {'nick': 'Sunday𓆝𓆜𓆟𓆞', 'lastDate': '20_09_02', 'xpDeque': [3, 1, 1, 0, 1, 1, 1, 1, 1], 'xpTotal': 10, 'eternal': 0}
+2020-09-02 12:07:58,338 Level 15: operated,try save
+2020-09-02 12:07:58,338 Level 15: try to save
+2020-09-02 12:07:58,338 Level 15: {'nick': 'Sunday𓆝𓆜𓆟𓆞', 'lastDate': '20_09_02', 'xpDeque': [3, 1, 1, 0, 1, 1, 1, 1, 1], 'xpTotal': 10, 'eternal': 0}
+2020-09-02 12:07:58,338 Level 15: outputedSunday𓆝𓆜𓆟𓆞(652909866658037790)'s json
+2020-09-02 12:07:58,339 INFO: saved,try update
+2020-09-02 12:07:58,339 INFO: [<Role id=741691975626915921 name='三翼'>] , 四翼
+2020-09-02 12:07:58,946 INFO: role update
+2020-09-02 12:07:58,946 INFO: operation succ with Sunday𓆝𓆜𓆟𓆞 on message
+2020-09-02 12:08:08,748 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 12:08:08,748 INFO: 啊噗 was token
+2020-09-02 12:08:08,748 Level 15: no write and no update in SOP
+2020-09-02 12:08:08,748 INFO: operation succ with 啊噗 on message
+2020-09-02 12:08:23,908 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 12:08:23,908 Level 15: {'nick': 'ellalala', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 1, 1, 1], 'xpTotal': 3, 'eternal': 0}
+2020-09-02 12:08:23,908 Level 15: operated,try save
+2020-09-02 12:08:23,908 Level 15: try to save
+2020-09-02 12:08:23,909 Level 15: {'nick': 'ellalala', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 1, 1, 1], 'xpTotal': 3, 'eternal': 0}
+2020-09-02 12:08:23,909 Level 15: outputedellalala(711029550989049866)'s json
+2020-09-02 12:08:23,909 INFO: saved,try update
+2020-09-02 12:08:23,910 INFO: no change
+2020-09-02 12:08:23,910 INFO: operation succ with ellalala on message
+2020-09-02 12:08:27,425 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:08:59,257 INFO: operation succ with (in cache)小喇叭's voice channel changed !
+2020-09-02 12:09:10,236 INFO: operation succ with (in cache)小喇叭's voice channel changed !
+2020-09-02 12:09:13,646 INFO: operation succ with (in cache)小喇叭2(--) on message
+2020-09-02 12:09:14,286 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:10:02,612 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 12:10:02,613 Level 15: {'nick': 'Moko', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 1, 1, 0, 0, 1, 1], 'xpTotal': 4, 'eternal': 0.1}
+2020-09-02 12:10:02,613 Level 15: operated,try save
+2020-09-02 12:10:02,613 Level 15: try to save
+2020-09-02 12:10:02,613 Level 15: {'nick': 'Moko', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 1, 1, 0, 0, 1, 1], 'xpTotal': 4, 'eternal': 0.1}
+2020-09-02 12:10:02,613 Level 15: outputedMoko(178883158127673344)'s json
+2020-09-02 12:10:02,613 INFO: saved,try update
+2020-09-02 12:10:02,614 INFO: no change
+2020-09-02 12:10:02,614 INFO: operation succ with Moko on message
+2020-09-02 12:10:08,663 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:10:10,363 INFO: operation succ with (in cache)小喇叭2(--)'s voice channel changed !
+2020-09-02 12:10:20,234 INFO: operation succ with (in cache)小喇叭's voice channel changed !
+2020-09-02 12:10:42,672 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:11:03,971 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:11:09,062 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:11:16,163 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:11:40,178 Level 15: [<class 'discord.role.Role'>, 10, 10, 10, 1, 0, '20_09_02']
+2020-09-02 12:11:40,178 INFO: operation succ with (in cache)Sunday𓆝𓆜𓆟𓆞 on message
+2020-09-02 12:11:40,521 INFO: operation succ with (in cache)Blaz on message
+2020-09-02 12:12:27,007 INFO: operation succ with (in cache)Moko on message
+2020-09-02 12:12:39,050 INFO: operation succ with (in cache)Sunday𓆝𓆜𓆟𓆞 on message
+2020-09-02 12:13:11,093 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:13:15,831 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:13:22,690 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:13:31,011 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:14:15,392 INFO: operation succ with (in cache)Sunday𓆝𓆜𓆟𓆞 on message
+2020-09-02 12:14:37,575 INFO: operation succ with (in cache)路人喵ΦωΦ回鍋者請告知解封鎖 on message
+2020-09-02 12:14:48,717 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:14:52,725 INFO: operation succ with (in cache)路人喵ΦωΦ回鍋者請告知解封鎖 on message
+2020-09-02 12:14:56,382 INFO: operation succ with (in cache)Sunday𓆝𓆜𓆟𓆞 on message
+2020-09-02 12:14:57,261 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:15:01,417 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:15:21,314 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:15:22,141 INFO: operation succ with (in cache)Sunday𓆝𓆜𓆟𓆞 on message
+2020-09-02 12:15:25,141 INFO: operation succ with (in cache)路人喵ΦωΦ回鍋者請告知解封鎖 on message
+2020-09-02 12:15:41,246 INFO: operation succ with (in cache)Sunday𓆝𓆜𓆟𓆞 on message
+2020-09-02 12:16:10,739 INFO: operation succ with (in cache)路人喵ΦωΦ回鍋者請告知解封鎖 on message
+2020-09-02 12:16:23,646 INFO: operation succ with (in cache)路人喵ΦωΦ回鍋者請告知解封鎖 on message
+2020-09-02 12:16:55,295 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:17:03,650 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:17:08,576 INFO: operation succ with (in cache)路人喵ΦωΦ回鍋者請告知解封鎖 on message
+2020-09-02 12:17:15,589 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:17:30,135 INFO: operation succ with (in cache)· 娜娜♡姆姆· 筆記中 (´▽`ʃ♡ƪ) on message
+2020-09-02 12:17:30,248 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:17:37,826 INFO: operation succ with (in cache)· 娜娜♡姆姆· 筆記中 (´▽`ʃ♡ƪ) on message
+2020-09-02 12:17:57,845 INFO: operation succ with (in cache)Sunday𓆝𓆜𓆟𓆞 on message
+2020-09-02 12:18:15,958 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 12:18:15,959 Level 15: {'nick': '右方、要去辦公室可以@我<3', 'lastDate': '20_09_02', 'xpDeque': [1, 0, 1, 0, 0, 1, 1, 1], 'xpTotal': 5, 'eternal': 0}
+2020-09-02 12:18:15,959 Level 15: operated,try save
+2020-09-02 12:18:15,959 Level 15: try to save
+2020-09-02 12:18:15,959 Level 15: {'nick': '右方、要去辦公室可以@我<3', 'lastDate': '20_09_02', 'xpDeque': [1, 0, 1, 0, 0, 1, 1, 1], 'xpTotal': 5, 'eternal': 0}
+2020-09-02 12:18:15,959 Level 15: outputed右方、要去辦公室可以@我<3(348376769075609600)'s json
+2020-09-02 12:18:15,959 INFO: saved,try update
+2020-09-02 12:18:15,959 INFO: [<Role id=741691937299365919 name='兩翼'>] , 三翼
+2020-09-02 12:18:16,610 INFO: role update
+2020-09-02 12:18:16,610 INFO: operation succ with 右方、要去辦公室可以@我<3 on message
+2020-09-02 12:18:32,944 INFO: operation succ with (in cache)路人喵ΦωΦ回鍋者請告知解封鎖 on message
+2020-09-02 12:18:43,486 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:19:16,161 INFO: operation succ with (in cache)路人喵ΦωΦ回鍋者請告知解封鎖 on message
+2020-09-02 12:19:23,359 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:20:10,450 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:20:10,924 Level 15: [<class 'discord.role.Role'>, 7, 7, 7, 1, 0, '20_09_02']
+2020-09-02 12:20:10,924 INFO: operation succ with (in cache)Lorian on message
+2020-09-02 12:20:11,313 INFO: operation succ with (in cache)Blaz on message
+2020-09-02 12:20:26,985 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:20:49,518 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:20:53,059 INFO: operation succ with (in cache)路人喵ΦωΦ回鍋者請告知解封鎖 on message
+2020-09-02 12:20:57,692 INFO: operation succ with (in cache)路人喵ΦωΦ回鍋者請告知解封鎖 on message
+2020-09-02 12:21:08,154 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:21:25,464 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:21:31,866 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:21:47,856 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:21:49,466 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 12:21:49,467 INFO: 餃子 was token
+2020-09-02 12:21:49,467 Level 15: no write and no update in SOP
+2020-09-02 12:21:49,467 INFO: operation succ with 餃子 on message
+2020-09-02 12:22:19,680 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 12:22:19,680 INFO: 墨言-自己開車車🛶 was token
+2020-09-02 12:22:19,680 Level 15: no write and no update in SOP
+2020-09-02 12:22:19,680 INFO: operation succ with 墨言-自己開車車🛶 on message
+2020-09-02 12:22:31,758 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 12:22:31,758 INFO: 花見桜咲 was token
+2020-09-02 12:22:31,758 Level 15: no write and no update in SOP
+2020-09-02 12:22:31,758 INFO: operation succ with 花見桜咲's voice channel changed !
+2020-09-02 12:22:35,223 INFO: operation succ with (in cache)花見桜咲's voice channel changed !
+2020-09-02 12:22:44,922 INFO: operation succ with (in cache)墨言-自己開車車🛶 on message
+2020-09-02 12:23:29,219 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 12:23:29,219 Level 15: {'nick': 'IanIan', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 12:23:29,219 Level 15: operated,try save
+2020-09-02 12:23:29,219 Level 15: try to save
+2020-09-02 12:23:29,220 Level 15: {'nick': 'IanIan', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 12:23:29,220 Level 15: outputedIanIan(467245105619664896)'s json
+2020-09-02 12:23:29,220 INFO: saved,try update
+2020-09-02 12:23:29,221 INFO: [] , 一翼
+2020-09-02 12:23:29,611 INFO: role update
+2020-09-02 12:23:29,611 INFO: operation succ with IanIan on message
+2020-09-02 12:23:32,201 INFO: operation succ with (in cache)Sunday𓆝𓆜𓆟𓆞 on message
+2020-09-02 12:23:42,679 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 12:23:44,771 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 12:24:11,504 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 12:24:11,504 Level 15: {'nick': '小八', 'lastDate': '20_09_02', 'xpDeque': [0, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 8, 'eternal': 0}
+2020-09-02 12:24:11,504 Level 15: operated,try save
+2020-09-02 12:24:11,504 Level 15: try to save
+2020-09-02 12:24:11,505 Level 15: {'nick': '小八', 'lastDate': '20_09_02', 'xpDeque': [0, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 8, 'eternal': 0}
+2020-09-02 12:24:11,505 Level 15: outputed小八(645098173307682873)'s json
+2020-09-02 12:24:11,505 INFO: saved,try update
+2020-09-02 12:24:11,505 INFO: no change
+2020-09-02 12:24:11,505 INFO: operation succ with 小八 on message
+2020-09-02 12:24:13,122 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:24:14,840 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 12:24:14,854 INFO: operation succ with (in cache)花見桜咲 on message
+2020-09-02 12:24:28,751 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 12:24:32,035 INFO: operation succ with (in cache)死線踐踏怨靈 on message
+2020-09-02 12:25:02,634 INFO: operation succ with (in cache)薄情💦 on message
+2020-09-02 12:25:14,757 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 12:26:59,144 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:27:01,778 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:27:26,671 INFO: operation succ with (in cache)多多綠綠🥑's voice channel changed !
+2020-09-02 12:27:29,479 INFO: operation succ with (in cache)多多綠綠🥑's voice channel changed !
+2020-09-02 12:27:57,487 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:28:12,695 INFO: operation succ with (in cache)啊噗 on message
+2020-09-02 12:28:38,860 INFO: operation succ with (in cache)小喇叭3(>>)'s voice channel changed !
+2020-09-02 12:28:57,872 INFO: operation succ with (in cache)小喇叭3(>>)'s voice channel changed !
+2020-09-02 12:30:01,197 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 12:30:01,197 INFO: 火柴🕯對我知道這是蠟燭因為沒火柴貼圖所以只好找相似的來充當一下🕯 was token
+2020-09-02 12:30:01,197 Level 15: no write and no update in SOP
+2020-09-02 12:30:01,197 INFO: operation succ with 火柴🕯對我知道這是蠟燭因為沒火柴貼圖所以只好找相似的來充當一下🕯's voice channel changed !
+2020-09-02 12:30:12,549 INFO: operation succ with (in cache)火柴🕯對我知道這是蠟燭因為沒火柴貼圖所以只好找相似的來充當一下🕯's voice channel changed !
+2020-09-02 12:30:34,380 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:30:38,341 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:30:43,190 INFO: operation succ with (in cache)火柴🕯對我知道這是蠟燭因為沒火柴貼圖所以只好找相似的來充當一下🕯's voice channel changed !
+2020-09-02 12:30:56,266 INFO: operation succ with (in cache)火柴🕯對我知道這是蠟燭因為沒火柴貼圖所以只好找相似的來充當一下🕯's voice channel changed !
+2020-09-02 12:30:58,550 INFO: operation succ with (in cache)火柴🕯對我知道這是蠟燭因為沒火柴貼圖所以只好找相似的來充當一下🕯's voice channel changed !
+2020-09-02 12:30:59,490 INFO: operation succ with (in cache)火柴🕯對我知道這是蠟燭因為沒火柴貼圖所以只好找相似的來充當一下🕯's voice channel changed !
+2020-09-02 12:31:35,185 INFO: operation succ with (in cache)火柴🕯對我知道這是蠟燭因為沒火柴貼圖所以只好找相似的來充當一下🕯 on message
+2020-09-02 12:31:36,309 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 12:31:36,310 INFO: 這是喝了會兔子的聰明水 was token
+2020-09-02 12:31:36,310 Level 15: no write and no update in SOP
+2020-09-02 12:31:36,310 INFO: operation succ with 這是喝了會兔子的聰明水's voice channel changed !
+2020-09-02 12:32:28,835 INFO: operation succ with (in cache)火柴🕯對我知道這是蠟燭因為沒火柴貼圖所以只好找相似的來充當一下🕯's voice channel changed !
+2020-09-02 12:32:29,995 INFO: operation succ with (in cache)火柴🕯對我知道這是蠟燭因為沒火柴貼圖所以只好找相似的來充當一下🕯's voice channel changed !
+2020-09-02 12:32:39,957 INFO: operation succ with (in cache)火柴🕯對我知道這是蠟燭因為沒火柴貼圖所以只好找相似的來充當一下🕯's voice channel changed !
+2020-09-02 12:32:42,120 INFO: operation succ with (in cache)火柴🕯對我知道這是蠟燭因為沒火柴貼圖所以只好找相似的來充當一下🕯's voice channel changed !
+2020-09-02 12:35:54,239 INFO: operation succ with (in cache)哇洗洛宇 on message
+2020-09-02 12:36:02,787 INFO: operation succ with (in cache)哇洗洛宇 on message
+2020-09-02 12:36:12,185 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:36:15,372 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:36:19,640 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:36:30,521 INFO: operation succ with (in cache)啾唧 on message
+2020-09-02 12:36:32,780 INFO: operation succ with (in cache)死線踐踏怨靈's voice channel changed !
+2020-09-02 12:36:33,357 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 12:36:54,095 INFO: operation succ with (in cache)枏ㄋㄢˊ樳ㄒㄩㄣˊ's voice channel changed !
+2020-09-02 12:36:54,504 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 12:37:13,964 INFO: operation succ with (in cache)啾唧 on message
+2020-09-02 12:37:16,884 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:37:31,243 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:37:41,780 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:37:45,692 INFO: operation succ with (in cache)哇洗洛宇 on message
+2020-09-02 12:37:49,895 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 12:38:10,373 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:38:15,643 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 12:38:19,596 INFO: operation succ with (in cache)這是喝了會兔子的聰明水's voice channel changed !
+2020-09-02 12:38:31,674 INFO: operation succ with (in cache)啾唧 on message
+2020-09-02 12:38:32,881 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:38:34,935 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 12:38:52,787 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:38:55,216 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:39:02,022 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 12:39:05,987 INFO: operation succ with (in cache)死線踐踏怨靈's voice channel changed !
+2020-09-02 12:39:10,761 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 12:39:13,200 INFO: operation succ with (in cache)這是喝了會兔子的聰明水's voice channel changed !
+2020-09-02 12:39:13,741 INFO: operation succ with (in cache)哇洗洛宇 on message
+2020-09-02 12:39:40,904 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:39:59,390 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:40:06,767 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:40:10,828 INFO: operation succ with (in cache)多多綠綠🥑's voice channel changed !
+2020-09-02 12:40:13,108 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:40:39,335 INFO: operation succ with (in cache)薄情💦 on message
+2020-09-02 12:41:07,668 INFO: operation succ with (in cache)涅 on message
+2020-09-02 12:41:21,211 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:41:23,295 INFO: operation succ with (in cache)多多綠綠🥑's voice channel changed !
+2020-09-02 12:41:30,111 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 12:41:30,111 Level 15: {'nick': '柑桔🍊水滴閣💦原來水母頭自帶彩虹🌈', 'lastDate': '20_09_02', 'xpDeque': [3, 0, 0, 0, 1, 0, 0, 0, 1], 'xpTotal': 5, 'eternal': 0}
+2020-09-02 12:41:30,111 Level 15: operated,try save
+2020-09-02 12:41:30,111 Level 15: try to save
+2020-09-02 12:41:30,111 Level 15: {'nick': '柑桔🍊水滴閣💦原來水母頭自帶彩虹🌈', 'lastDate': '20_09_02', 'xpDeque': [3, 0, 0, 0, 1, 0, 0, 0, 1], 'xpTotal': 5, 'eternal': 0}
+2020-09-02 12:41:30,112 Level 15: outputed柑桔🍊水滴閣💦原來水母頭自帶彩虹🌈(657978952522137650)'s json
+2020-09-02 12:41:30,112 INFO: saved,try update
+2020-09-02 12:41:30,112 INFO: [<Role id=741691937299365919 name='兩翼'>] , 三翼
+2020-09-02 12:41:30,768 INFO: role update
+2020-09-02 12:41:30,768 INFO: operation succ with 柑桔🍊水滴閣💦原來水母頭自帶彩虹🌈 on message
+2020-09-02 12:41:32,162 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:41:47,300 INFO: operation succ with (in cache)薄情💦 on message
+2020-09-02 12:41:47,326 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:41:51,005 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:41:51,348 INFO: operation succ with (in cache)薄情💦 on message
+2020-09-02 12:42:03,780 INFO: operation succ with (in cache)涅 on message
+2020-09-02 12:42:11,623 INFO: operation succ with (in cache)柑桔🍊水滴閣💦原來水母頭自帶彩虹🌈 on message
+2020-09-02 12:42:15,534 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 12:42:18,267 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:42:20,199 INFO: operation succ with (in cache)涅 on message
+2020-09-02 12:42:22,210 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 12:42:24,790 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 12:42:32,624 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 12:42:43,638 INFO: operation succ with (in cache)薄情💦 on message
+2020-09-02 12:42:50,736 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 12:42:53,909 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:42:54,330 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 12:42:55,763 INFO: operation succ with (in cache)柑桔🍊水滴閣💦原來水母頭自帶彩虹🌈 on message
+2020-09-02 12:43:13,270 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:43:18,270 INFO: operation succ with (in cache)薄情💦 on message
+2020-09-02 12:43:18,851 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:43:26,432 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:43:29,082 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 12:43:37,110 INFO: operation succ with (in cache)哇洗洛宇 on message
+2020-09-02 12:43:47,708 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:44:07,250 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:44:09,738 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 12:44:23,137 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:44:33,626 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 12:44:47,183 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:44:51,960 INFO: operation succ with (in cache)Blaz on message
+2020-09-02 12:45:11,988 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 12:45:32,647 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:45:40,187 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 12:45:44,975 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 12:45:47,315 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:45:55,641 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:46:11,996 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 12:46:17,430 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 12:46:17,610 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:46:27,401 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 12:46:34,142 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 12:46:35,584 INFO: operation succ with (in cache)PU TAO 水滴閣💦 on message
+2020-09-02 12:47:28,196 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:47:54,598 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:48:00,956 INFO: operation succ with (in cache)姿姿( • ̀ω•́ ) on message
+2020-09-02 12:48:09,017 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:48:40,785 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:49:05,912 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 12:49:10,560 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:49:53,302 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 12:49:53,302 Level 15: {'nick': '佛系跑圖的賴馬', 'lastDate': '20_09_02', 'xpDeque': [13, 0, 1, 0, 1, 1, 1, 1, 1], 'xpTotal': 19, 'eternal': 0}
+2020-09-02 12:49:53,302 Level 15: operated,try save
+2020-09-02 12:49:53,302 Level 15: try to save
+2020-09-02 12:49:53,303 Level 15: {'nick': '佛系跑圖的賴馬', 'lastDate': '20_09_02', 'xpDeque': [13, 0, 1, 0, 1, 1, 1, 1, 1], 'xpTotal': 19, 'eternal': 0}
+2020-09-02 12:49:53,303 Level 15: outputed佛系跑圖的賴馬(509750691653353472)'s json
+2020-09-02 12:49:53,303 INFO: saved,try update
+2020-09-02 12:49:53,303 INFO: no change
+2020-09-02 12:49:53,303 INFO: operation succ with 佛系跑圖的賴馬 on message
+2020-09-02 12:50:01,683 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:50:09,091 INFO: operation succ with (in cache)這是喝了會兔子的聰明水's voice channel changed !
+2020-09-02 12:50:22,463 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:50:47,930 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:51:00,677 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:51:45,734 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:51:51,406 INFO: operation succ with (in cache)小喇叭's voice channel changed !
+2020-09-02 12:51:53,013 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 12:51:54,840 INFO: operation succ with (in cache)這是喝了會兔子的聰明水's voice channel changed !
+2020-09-02 12:52:02,624 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:52:12,287 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 12:52:35,167 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 12:55:12,190 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 12:55:32,870 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 12:55:55,528 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 12:55:55,528 Level 15: {'nick': '麵麵٩(๑`^´๑)۶', 'lastDate': '20_09_02', 'xpDeque': [1, 1, 0, 1, 1, 0, 1, 1], 'xpTotal': 6, 'eternal': 0}
+2020-09-02 12:55:55,528 Level 15: operated,try save
+2020-09-02 12:55:55,528 Level 15: try to save
+2020-09-02 12:55:55,528 Level 15: {'nick': '麵麵٩(๑`^´๑)۶', 'lastDate': '20_09_02', 'xpDeque': [1, 1, 0, 1, 1, 0, 1, 1], 'xpTotal': 6, 'eternal': 0}
+2020-09-02 12:55:55,528 Level 15: outputed麵麵٩(๑`^´๑)۶(627114421222899712)'s json
+2020-09-02 12:55:55,529 INFO: saved,try update
+2020-09-02 12:55:55,529 INFO: no change
+2020-09-02 12:55:55,529 INFO: operation succ with 麵麵٩(๑`^´๑)۶ on message
+2020-09-02 12:55:57,487 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 12:56:29,112 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 12:56:34,321 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 12:56:41,119 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 12:57:15,750 INFO: operation succ with (in cache)麵麵٩(๑`^´๑)۶ on message
+2020-09-02 12:57:28,636 INFO: operation succ with (in cache)麵麵٩(๑`^´๑)۶ on message
+2020-09-02 12:57:37,500 INFO: operation succ with (in cache)麵麵٩(๑`^´๑)۶ on message
+2020-09-02 12:57:45,349 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 12:57:50,440 INFO: operation succ with (in cache)麵麵٩(๑`^´๑)۶ on message
+2020-09-02 12:57:50,685 INFO: operation succ with (in cache)蹭音樂機器人的hoho's voice channel changed !
+2020-09-02 12:58:08,804 INFO: operation succ with (in cache)麵麵٩(๑`^´๑)۶ on message
+2020-09-02 12:58:39,888 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 12:58:55,125 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 12:59:00,954 INFO: operation succ with (in cache)麵麵٩(๑`^´๑)۶ on message
+2020-09-02 12:59:07,085 INFO: operation succ with (in cache)麵麵٩(๑`^´๑)۶ on message
+2020-09-02 12:59:14,168 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 12:59:18,289 INFO: operation succ with (in cache)麵麵٩(๑`^´๑)۶ on message
+2020-09-02 12:59:44,875 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 12:59:45,464 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 13:01:22,172 INFO: Got a request to RESUME the websocket.
+2020-09-02 13:01:22,653 INFO: Shard ID None has sent the RESUME payload.
+2020-09-02 13:01:22,889 INFO: Shard ID None has successfully RESUMED session 80d16bd13f95d7d7f68bd347df1fd297 under trace ["gateway-prd-main-vl67",{"micros":2232,"calls":["discord-sessions-prd-2-87",{"micros":36}]}].
+2020-09-02 13:02:07,970 INFO: operation succ with (in cache)這是喝了會兔子的聰明水's voice channel changed !
+2020-09-02 13:02:10,341 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 13:02:25,878 INFO: operation succ with (in cache)麵麵٩(๑`^´๑)۶ on message
+2020-09-02 13:02:40,816 INFO: operation succ with (in cache)麵麵٩(๑`^´๑)۶ on message
+2020-09-02 13:03:48,854 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 13:03:54,333 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 13:06:36,400 INFO: operation succ with (in cache)企鵝 on message
+2020-09-02 13:06:49,970 INFO: operation succ with (in cache)果♡姆*˙︶˙*)ﾉﾞꕤ-徵耐心包容我軟爛的固玩哈哈哈哈哈☆ on message
+2020-09-02 13:07:02,508 INFO: operation succ with (in cache)這是喝了會兔子的聰明水's voice channel changed !
+2020-09-02 13:08:12,909 INFO: operation succ with (in cache)這是喝了會兔子的聰明水's voice channel changed !
+2020-09-02 13:08:24,730 INFO: operation succ with (in cache)涅 on message
+2020-09-02 13:08:58,120 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 13:09:10,771 INFO: operation succ with (in cache)枏ㄋㄢˊ樳ㄒㄩㄣˊ on message
+2020-09-02 13:13:53,774 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 13:13:53,775 Level 15: {'nick': '陶陶 𓆝𓆜𓆟𓆞', 'lastDate': '20_09_02', 'xpDeque': [9, 1, 1, 0, 1, 1, 1, 1, 1, 1], 'xpTotal': 17, 'eternal': 0}
+2020-09-02 13:13:53,775 Level 15: operated,try save
+2020-09-02 13:13:53,775 Level 15: try to save
+2020-09-02 13:13:53,775 Level 15: {'nick': '陶陶 𓆝𓆜𓆟𓆞', 'lastDate': '20_09_02', 'xpDeque': [9, 1, 1, 0, 1, 1, 1, 1, 1, 1], 'xpTotal': 17, 'eternal': 0}
+2020-09-02 13:13:53,775 Level 15: outputed*𓆝*𓆜陶𓆟*𓆞*(644946414987640852)'s json
+2020-09-02 13:13:53,775 INFO: saved,try update
+2020-09-02 13:13:53,775 INFO: no change
+2020-09-02 13:13:53,776 INFO: operation succ with *𓆝*𓆜陶𓆟*𓆞* on message
+2020-09-02 13:14:20,164 INFO: operation succ with (in cache)*𓆝*𓆜陶𓆟*𓆞* on message
+2020-09-02 13:14:43,579 INFO: operation succ with (in cache)*𓆝*𓆜陶𓆟*𓆞* on message
+2020-09-02 13:15:29,192 INFO: operation succ with (in cache)涅 on message
+2020-09-02 13:16:43,863 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 13:16:43,863 Level 15: {'nick': 'Wayne', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 1, 0, 1], 'xpTotal': 2, 'eternal': 0}
+2020-09-02 13:16:43,863 Level 15: operated,try save
+2020-09-02 13:16:43,863 Level 15: try to save
+2020-09-02 13:16:43,864 Level 15: {'nick': 'Wayne', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 1, 0, 1], 'xpTotal': 2, 'eternal': 0}
+2020-09-02 13:16:43,864 Level 15: outputedWayne(702054010248495195)'s json
+2020-09-02 13:16:43,864 INFO: saved,try update
+2020-09-02 13:16:43,864 INFO: [<Role id=741691856890495046 name='一翼'>] , 兩翼
+2020-09-02 13:16:44,027 INFO: operation succ with (in cache)Wayne's voice channel changed !
+2020-09-02 13:16:44,473 INFO: role update
+2020-09-02 13:16:44,473 INFO: operation succ with Wayne's voice channel changed !
+2020-09-02 13:16:45,890 INFO: operation succ with (in cache)Wayne's voice channel changed !
+2020-09-02 13:16:47,206 INFO: operation succ with (in cache)Wayne's voice channel changed !
+2020-09-02 13:16:48,473 INFO: operation succ with (in cache)Wayne's voice channel changed !
+2020-09-02 13:16:50,804 INFO: operation succ with (in cache)Wayne's voice channel changed !
+2020-09-02 13:17:10,676 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 13:17:14,685 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 13:17:39,357 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 13:18:16,110 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 13:18:26,159 INFO: operation succ with (in cache)涅 on message
+2020-09-02 13:18:30,326 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 13:18:38,992 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 13:18:57,122 INFO: operation succ with (in cache)涅 on message
+2020-09-02 13:19:10,769 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 13:19:10,769 Level 15: {'nick': '啊寧💦水滴閣', 'lastDate': '20_09_02', 'xpDeque': [7, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 15, 'eternal': 0}
+2020-09-02 13:19:10,770 Level 15: operated,try save
+2020-09-02 13:19:10,770 Level 15: try to save
+2020-09-02 13:19:10,770 Level 15: {'nick': '啊寧💦水滴閣', 'lastDate': '20_09_02', 'xpDeque': [7, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 15, 'eternal': 0}
+2020-09-02 13:19:10,770 Level 15: outputed啊寧💦水滴閣(439105298481807360)'s json
+2020-09-02 13:19:10,770 INFO: saved,try update
+2020-09-02 13:19:10,770 INFO: no change
+2020-09-02 13:19:10,771 INFO: operation succ with 啊寧💦水滴閣 on message
+2020-09-02 13:19:23,681 INFO: Got a request to RESUME the websocket.
+2020-09-02 13:19:24,131 INFO: Shard ID None has sent the RESUME payload.
+2020-09-02 13:19:24,367 INFO: Shard ID None has successfully RESUMED session 80d16bd13f95d7d7f68bd347df1fd297 under trace ["gateway-prd-main-kgds",{"micros":2856,"calls":["discord-sessions-prd-2-87",{"micros":28}]}].
+2020-09-02 13:19:25,488 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 13:19:34,532 INFO: operation succ with (in cache)餃子 on message
+2020-09-02 13:19:49,166 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 13:20:20,440 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 13:20:24,262 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 13:21:11,516 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 13:24:00,552 INFO: operation succ with (in cache)歐若拉.阿克斯內斯 on message
+2020-09-02 13:24:06,815 INFO: operation succ with (in cache)枏ㄋㄢˊ樳ㄒㄩㄣˊ's voice channel changed !
+2020-09-02 13:24:19,027 INFO: operation succ with (in cache)歐若拉.阿克斯內斯 on message
+2020-09-02 13:24:53,654 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-09-02 13:24:55,533 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-09-02 13:25:05,736 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 13:25:05,771 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-09-02 13:25:07,038 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 13:25:11,988 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 13:25:33,597 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 13:27:10,869 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 13:27:52,588 INFO: operation succ with (in cache)這是喝了會兔子的聰明水's voice channel changed !
+2020-09-02 13:28:28,374 INFO: operation succ with (in cache)火柴🕯對我知道這是蠟燭因為沒火柴貼圖所以只好找相似的來充當一下🕯 on message
+2020-09-02 13:28:38,566 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 13:28:52,034 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 13:28:54,207 INFO: operation succ with (in cache)阿愷～下次聚會9月在台北 on message
+2020-09-02 13:29:03,523 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 13:29:21,367 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 13:29:21,367 INFO: IceScar was token
+2020-09-02 13:29:21,367 Level 15: no write and no update in SOP
+2020-09-02 13:29:21,367 INFO: operation succ with IceScar on message
+2020-09-02 13:29:45,879 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 13:29:52,071 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 13:29:53,426 INFO: operation succ with (in cache)Midnight lantern. on message
+2020-09-02 13:31:13,990 INFO: operation succ with (in cache)IceScar on message
+2020-09-02 13:31:31,996 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-09-02 13:31:37,023 INFO: operation succ with (in cache)這是喝了會兔子的聰明水's voice channel changed !
+2020-09-02 13:31:43,584 INFO: operation succ with (in cache)這是喝了會兔子的聰明水's voice channel changed !
+2020-09-02 13:33:24,375 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 13:33:24,375 Level 15: {'nick': '長相老實的豬精', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 1, 1, 1, 1], 'xpTotal': 4, 'eternal': 0}
+2020-09-02 13:33:24,375 Level 15: operated,try save
+2020-09-02 13:33:24,376 Level 15: try to save
+2020-09-02 13:33:24,376 Level 15: {'nick': '長相老實的豬精', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 1, 1, 1, 1], 'xpTotal': 4, 'eternal': 0}
+2020-09-02 13:33:24,376 Level 15: outputed長相老實的豬精(593699459502964737)'s json
+2020-09-02 13:33:24,376 INFO: saved,try update
+2020-09-02 13:33:24,376 INFO: no change
+2020-09-02 13:33:24,377 INFO: operation succ with 長相老實的豬精 on message
+2020-09-02 13:33:30,742 INFO: operation succ with (in cache)長相老實的豬精 on message
+2020-09-02 13:33:31,657 INFO: operation succ with (in cache)這是喝了會兔子的聰明水's voice channel changed !
+2020-09-02 13:34:17,704 INFO: operation succ with (in cache)這是喝了會兔子的聰明水's voice channel changed !
+2020-09-02 13:34:37,440 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 13:34:37,440 Level 15: {'nick': 'may-互❤可找我唷', 'lastDate': '20_09_02', 'xpDeque': [1, 1, 1, 1, 0, 0, 1, 1, 1], 'xpTotal': 7, 'eternal': 0}
+2020-09-02 13:34:37,440 Level 15: operated,try save
+2020-09-02 13:34:37,440 Level 15: try to save
+2020-09-02 13:34:37,441 Level 15: {'nick': 'may-互❤可找我唷', 'lastDate': '20_09_02', 'xpDeque': [1, 1, 1, 1, 0, 0, 1, 1, 1], 'xpTotal': 7, 'eternal': 0}
+2020-09-02 13:34:37,441 Level 15: outputedmay-晴晴🤙🦋(660475852173213706)'s json
+2020-09-02 13:34:37,441 INFO: saved,try update
+2020-09-02 13:34:37,441 INFO: no change
+2020-09-02 13:34:37,441 INFO: operation succ with may-晴晴🤙🦋 on message
+2020-09-02 13:35:07,116 INFO: operation succ with (in cache)這是喝了會兔子的聰明水's voice channel changed !
+2020-09-02 13:35:34,120 INFO: operation succ with (in cache)右方、要去辦公室可以@我<3 on message
+2020-09-02 13:35:39,646 INFO: operation succ with (in cache)這是喝了會兔子的聰明水's voice channel changed !
+2020-09-02 13:37:55,699 INFO: operation succ with (in cache)mayi's voice channel changed !
+2020-09-02 13:38:15,773 INFO: operation succ with (in cache)Wayne's voice channel changed !
+2020-09-02 13:38:25,868 INFO: operation succ with (in cache)mayi's voice channel changed !
+2020-09-02 13:38:40,790 INFO: operation succ with (in cache)Wayne's voice channel changed !
+2020-09-02 13:39:52,550 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 13:40:28,332 INFO: operation succ with (in cache)Blaz on message
+2020-09-02 13:40:28,710 INFO: operation succ with (in cache)Blaz on message
+2020-09-02 13:40:48,626 INFO: operation succ with (in cache)右方、要去辦公室可以@我<3 on message
+2020-09-02 13:41:33,328 INFO: operation succ with (in cache)死線踐踏怨靈's voice channel changed !
+2020-09-02 13:42:13,669 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 13:42:13,669 Level 15: {'nick': '雨雨', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 1, 0, 0, 1], 'xpTotal': 2, 'eternal': 0}
+2020-09-02 13:42:13,669 Level 15: operated,try save
+2020-09-02 13:42:13,669 Level 15: try to save
+2020-09-02 13:42:13,669 Level 15: {'nick': '雨雨', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 1, 0, 0, 1], 'xpTotal': 2, 'eternal': 0}
+2020-09-02 13:42:13,669 Level 15: outputed雨雨(434972720237772811)'s json
+2020-09-02 13:42:13,669 INFO: saved,try update
+2020-09-02 13:42:13,669 INFO: [<Role id=741691856890495046 name='一翼'>] , 兩翼
+2020-09-02 13:42:14,314 INFO: role update
+2020-09-02 13:42:14,314 INFO: operation succ with 雨雨 on message
+2020-09-02 13:42:43,683 INFO: operation succ with (in cache)IceScar on message
+2020-09-02 13:43:02,914 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 13:43:02,914 Level 15: {'nick': '宅宅', 'lastDate': '20_09_02', 'xpDeque': [1, 1, 0, 1, 1, 0, 1, 1], 'xpTotal': 6, 'eternal': 0}
+2020-09-02 13:43:02,914 Level 15: operated,try save
+2020-09-02 13:43:02,915 Level 15: try to save
+2020-09-02 13:43:02,915 Level 15: {'nick': '宅宅', 'lastDate': '20_09_02', 'xpDeque': [1, 1, 0, 1, 1, 0, 1, 1], 'xpTotal': 6, 'eternal': 0}
+2020-09-02 13:43:02,915 Level 15: outputed宅宅(562689436538765343)'s json
+2020-09-02 13:43:02,915 INFO: saved,try update
+2020-09-02 13:43:02,915 INFO: no change
+2020-09-02 13:43:02,915 INFO: operation succ with 宅宅 on message
+2020-09-02 13:44:23,653 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 13:44:23,654 INFO: 小狼🐾 was token
+2020-09-02 13:44:23,655 Level 15: no write and no update in SOP
+2020-09-02 13:44:23,655 INFO: operation succ with 小狼🐾 on message
+2020-09-02 13:44:30,058 INFO: operation succ with (in cache)右方、要去辦公室可以@我<3 on message
+2020-09-02 13:44:36,164 INFO: operation succ with (in cache)右方、要去辦公室可以@我<3 on message
+2020-09-02 13:44:37,552 INFO: operation succ with (in cache)雨雨 on message
+2020-09-02 13:44:38,982 INFO: operation succ with (in cache)右方、要去辦公室可以@我<3 on message
+2020-09-02 13:45:05,145 INFO: operation succ with (in cache)死線踐踏怨靈's voice channel changed !
+2020-09-02 13:45:18,353 INFO: operation succ with (in cache)IceScar on message
+2020-09-02 13:45:34,785 INFO: operation succ with (in cache)死線踐踏怨靈's voice channel changed !
+2020-09-02 13:45:35,817 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-09-02 13:45:39,777 INFO: operation succ with (in cache)這是喝了會兔子的聰明水's voice channel changed !
+2020-09-02 13:45:44,799 INFO: operation succ with (in cache)死線踐踏怨靈's voice channel changed !
+2020-09-02 13:45:47,331 INFO: operation succ with (in cache)死線踐踏怨靈's voice channel changed !
+2020-09-02 13:46:10,832 INFO: operation succ with (in cache)死線踐踏怨靈's voice channel changed !
+2020-09-02 13:46:47,548 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-09-02 13:47:21,144 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-09-02 13:47:41,110 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-09-02 13:48:15,112 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 13:48:25,850 INFO: operation succ with (in cache)尼亞 -凝視深淵𓆝𓆜𓆟𓆞 on message
+2020-09-02 13:48:56,571 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 13:49:02,483 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 13:49:05,747 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 13:50:33,337 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 13:50:33,337 INFO: 冰冰 was token
+2020-09-02 13:50:33,337 Level 15: no write and no update in SOP
+2020-09-02 13:50:33,337 INFO: operation succ with 冰冰 on message
+2020-09-02 13:51:02,854 WARNING: [Errno 2] No such file or directory: 'D:\\VirtualStudio_Code_Programming\\VSCode_Python3_DiscordBot/data/guild_741429518484635749/usersLevelData/510135944683192334.json'created temp json
+2020-09-02 13:51:02,854 Level 15: null =?= 20_09_02
+2020-09-02 13:51:02,854 Level 15: date not match
+2020-09-02 13:51:02,854 Level 15: appended
+2020-09-02 13:51:02,854 Level 15: {'nick': 'CrazySL', 'lastDate': '20_09_02', 'xpDeque': [1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 13:51:02,854 Level 15: operated,try save
+2020-09-02 13:51:02,854 Level 15: try to save
+2020-09-02 13:51:02,854 Level 15: {'nick': 'CrazySL', 'lastDate': '20_09_02', 'xpDeque': [1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 13:51:02,855 Level 15: outputedCrazySL(510135944683192334)'s json
+2020-09-02 13:51:02,855 INFO: saved,try update
+2020-09-02 13:51:02,855 INFO: [] , 一翼
+2020-09-02 13:51:03,237 INFO: role update
+2020-09-02 13:51:03,237 INFO: operation succ with CrazySL on message
+2020-09-02 13:53:05,757 INFO: operation succ with (in cache)右方、要去辦公室可以@我<3 on message
+2020-09-02 13:53:26,945 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 13:53:26,945 Level 15: {'nick': '蒂娜( • ̀ω•́ )✧', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 1, 1, 1], 'xpTotal': 3, 'eternal': 0}
+2020-09-02 13:53:26,945 Level 15: operated,try save
+2020-09-02 13:53:26,945 Level 15: try to save
+2020-09-02 13:53:26,945 Level 15: {'nick': '蒂娜( • ̀ω•́ )✧', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 1, 1, 1], 'xpTotal': 3, 'eternal': 0}
+2020-09-02 13:53:26,945 Level 15: outputed蒂娜(❀´∀`❀)ﾉ(548831908520525824)'s json
+2020-09-02 13:53:26,945 INFO: saved,try update
+2020-09-02 13:53:26,945 INFO: no change
+2020-09-02 13:53:26,946 INFO: operation succ with 蒂娜(❀´∀`❀)ﾉ on message
+2020-09-02 13:54:46,628 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 13:54:46,628 Level 15: {'nick': 'Eric1001', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 13:54:46,628 Level 15: operated,try save
+2020-09-02 13:54:46,628 Level 15: try to save
+2020-09-02 13:54:46,629 Level 15: {'nick': 'Eric1001', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 13:54:46,629 Level 15: outputedEric1001(325077064304689155)'s json
+2020-09-02 13:54:46,629 INFO: saved,try update
+2020-09-02 13:54:46,629 INFO: [] , 一翼
+2020-09-02 13:54:46,967 INFO: role update
+2020-09-02 13:54:46,967 INFO: operation succ with Eric1001 on message
+2020-09-02 13:55:02,698 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 13:55:02,698 Level 15: {'nick': '雷特', 'lastDate': '20_09_02', 'xpDeque': [3, 0, 1, 0, 1, 1, 1, 1, 1], 'xpTotal': 9, 'eternal': 0}
+2020-09-02 13:55:02,698 Level 15: operated,try save
+2020-09-02 13:55:02,698 Level 15: try to save
+2020-09-02 13:55:02,699 Level 15: {'nick': '雷特', 'lastDate': '20_09_02', 'xpDeque': [3, 0, 1, 0, 1, 1, 1, 1, 1], 'xpTotal': 9, 'eternal': 0}
+2020-09-02 13:55:02,699 Level 15: outputed雷特(736859682379137036)'s json
+2020-09-02 13:55:02,699 INFO: saved,try update
+2020-09-02 13:55:02,699 INFO: no change
+2020-09-02 13:55:02,699 INFO: operation succ with 雷特 on message
+2020-09-02 13:56:31,394 INFO: operation succ with (in cache)酥皮🌵 on message
+2020-09-02 13:57:03,887 INFO: operation succ with (in cache)果♡姆*˙︶˙*)ﾉﾞꕤ-徵耐心包容我軟爛的固玩哈哈哈哈哈☆ on message
+2020-09-02 13:57:44,630 INFO: operation succ with (in cache)右方、要去辦公室可以@我<3 on message
+2020-09-02 13:57:56,116 INFO: operation succ with (in cache)右方、要去辦公室可以@我<3 on message
+2020-09-02 13:58:59,003 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 13:58:59,003 INFO: 🎶小LUA吧🎶 was token
+2020-09-02 13:58:59,004 Level 15: no write and no update in SOP
+2020-09-02 13:58:59,004 INFO: operation succ with 🎶小LUA吧🎶's voice channel changed !
+2020-09-02 13:59:08,480 INFO: operation succ with (in cache)🎶小LUA吧🎶's voice channel changed !
+2020-09-02 13:59:12,806 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 13:59:16,470 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 13:59:17,100 INFO: operation succ with (in cache)🎶小LUA吧🎶 on message
+2020-09-02 13:59:21,940 INFO: operation succ with (in cache)🎶小LUA吧🎶 on message
+2020-09-02 13:59:33,391 INFO: operation succ with (in cache)右方、要去辦公室可以@我<3 on message
+2020-09-02 13:59:42,906 INFO: operation succ with (in cache)右方、要去辦公室可以@我<3 on message
+2020-09-02 14:01:37,967 INFO: operation succ with (in cache)蹭音樂機器人的hoho's voice channel changed !
+2020-09-02 14:01:41,024 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 14:01:41,024 Level 15: {'nick': '如果可以冬眠就好(๑´ㅂ`๑)', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 14:01:41,024 Level 15: operated,try save
+2020-09-02 14:01:41,024 Level 15: try to save
+2020-09-02 14:01:41,024 Level 15: {'nick': '如果可以冬眠就好(๑´ㅂ`๑)', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 14:01:41,024 Level 15: outputed如果可以冬眠就好(๑´ㅂ`๑)(722798871545249822)'s json
+2020-09-02 14:01:41,024 INFO: saved,try update
+2020-09-02 14:01:41,024 INFO: [] , 一翼
+2020-09-02 14:01:41,025 INFO: operation succ with (in cache)蹭音樂機器人的hoho's voice channel changed !
+2020-09-02 14:01:41,381 INFO: role update
+2020-09-02 14:01:41,382 INFO: operation succ with 如果可以冬眠就好(๑´ㅂ`๑) on message
+2020-09-02 14:01:48,554 INFO: operation succ with (in cache)如果可以冬眠就好(๑´ㅂ`๑) on message
+2020-09-02 14:02:00,587 INFO: operation succ with (in cache)如果可以冬眠就好(๑´ㅂ`๑) on message
+2020-09-02 14:02:14,946 INFO: operation succ with (in cache)麵麵٩(๑`^´๑)۶ on message
+2020-09-02 14:02:44,070 INFO: operation succ with (in cache)🎶小LUA吧🎶's voice channel changed !
+2020-09-02 14:02:52,992 INFO: operation succ with (in cache)麵麵٩(๑`^´๑)۶ on message
+2020-09-02 14:03:04,756 INFO: operation succ with (in cache)酥皮🌵 on message
+2020-09-02 14:03:52,564 INFO: operation succ with (in cache)麵麵٩(๑`^´๑)۶ on message
+2020-09-02 14:04:52,451 INFO: operation succ with (in cache)🎶小LUA吧🎶's voice channel changed !
+2020-09-02 14:05:00,692 INFO: operation succ with (in cache)🎶小LUA吧🎶's voice channel changed !
+2020-09-02 14:05:18,702 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 14:05:20,868 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 14:05:40,900 INFO: operation succ with (in cache)Midnight lantern. on message
+2020-09-02 14:06:06,281 INFO: operation succ with (in cache)Midnight lantern. on message
+2020-09-02 14:06:26,178 INFO: operation succ with (in cache)酥皮🌵 on message
+2020-09-02 14:10:42,630 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 14:10:42,630 Level 15: {'nick': '茜奇 Akane', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 1, 0, 0, 1], 'xpTotal': 2, 'eternal': 0}
+2020-09-02 14:10:42,630 Level 15: operated,try save
+2020-09-02 14:10:42,630 Level 15: try to save
+2020-09-02 14:10:42,630 Level 15: {'nick': '茜奇 Akane', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 1, 0, 0, 1], 'xpTotal': 2, 'eternal': 0}
+2020-09-02 14:10:42,630 Level 15: outputed茜奇 Akane(732805375350276106)'s json
+2020-09-02 14:10:42,630 INFO: saved,try update
+2020-09-02 14:10:42,630 INFO: [<Role id=741691856890495046 name='一翼'>] , 兩翼
+2020-09-02 14:10:43,293 INFO: role update
+2020-09-02 14:10:43,293 INFO: operation succ with 茜奇 Akane on message
+2020-09-02 14:10:57,930 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 14:10:57,930 Level 15: {'nick': '狐狸', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 1, 0, 0, 0, 0, 1, 1], 'xpTotal': 3, 'eternal': 0}
+2020-09-02 14:10:57,930 Level 15: operated,try save
+2020-09-02 14:10:57,930 Level 15: try to save
+2020-09-02 14:10:57,931 Level 15: {'nick': '狐狸', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 1, 0, 0, 0, 0, 1, 1], 'xpTotal': 3, 'eternal': 0}
+2020-09-02 14:10:57,931 Level 15: outputed狐狸(716834090065723493)'s json
+2020-09-02 14:10:57,931 INFO: saved,try update
+2020-09-02 14:10:57,931 INFO: no change
+2020-09-02 14:10:57,931 INFO: operation succ with 狐狸 on message
+2020-09-02 14:12:00,225 INFO: operation succ with (in cache)麵麵٩(๑`^´๑)۶ on message
+2020-09-02 14:14:47,246 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 14:14:47,246 Level 15: {'nick': '喵喵🤫', 'lastDate': '20_09_02', 'xpDeque': [0, 1, 0, 1, 1, 1, 1, 1, 1], 'xpTotal': 7, 'eternal': 0}
+2020-09-02 14:14:47,254 Level 15: operated,try save
+2020-09-02 14:14:47,254 Level 15: try to save
+2020-09-02 14:14:47,254 Level 15: {'nick': '喵喵🤫', 'lastDate': '20_09_02', 'xpDeque': [0, 1, 0, 1, 1, 1, 1, 1, 1], 'xpTotal': 7, 'eternal': 0}
+2020-09-02 14:14:47,254 Level 15: outputed喵喵🤫(601753743456731147)'s json
+2020-09-02 14:14:47,255 INFO: saved,try update
+2020-09-02 14:14:47,255 INFO: no change
+2020-09-02 14:14:47,255 INFO: operation succ with 喵喵🤫 on message
+2020-09-02 14:15:16,905 INFO: operation succ with (in cache)喵喵🤫 on message
+2020-09-02 14:15:31,021 INFO: operation succ with (in cache)這是喝了會兔子的聰明水's voice channel changed !
+2020-09-02 14:17:06,774 INFO: operation succ with (in cache)花見桜咲 on message
+2020-09-02 14:17:29,664 Level 15: [<class 'discord.role.Role'>, 11, 11, 11, 0, 0, '20_09_01']
+2020-09-02 14:17:29,665 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 14:17:29,665 Level 15: {'nick': 'ClaudiaH', 'lastDate': '20_09_02', 'xpDeque': [6, 1, 0, 0, 1, 1, 1, 1, 1], 'xpTotal': 12, 'eternal': 0}
+2020-09-02 14:17:29,665 Level 15: operated,try save
+2020-09-02 14:17:29,665 Level 15: try to save
+2020-09-02 14:17:29,666 Level 15: {'nick': 'ClaudiaH', 'lastDate': '20_09_02', 'xpDeque': [6, 1, 0, 0, 1, 1, 1, 1, 1], 'xpTotal': 12, 'eternal': 0}
+2020-09-02 14:17:29,666 Level 15: outputedClaudiaH(706097021362110525)'s json
+2020-09-02 14:17:29,666 INFO: saved,try update
+2020-09-02 14:17:29,666 INFO: no change
+2020-09-02 14:17:29,666 INFO: operation succ with ClaudiaH on message
+2020-09-02 14:17:30,017 INFO: operation succ with (in cache)Blaz on message
+2020-09-02 14:18:58,078 INFO: operation succ with (in cache)ClaudiaH on message
+2020-09-02 14:19:14,516 INFO: operation succ with (in cache)ClaudiaH on message
+2020-09-02 14:20:56,380 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 14:23:32,617 INFO: operation succ with (in cache)酥皮🌵 on message
+2020-09-02 14:23:42,616 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 14:23:47,226 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 14:23:57,925 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 14:24:10,110 INFO: operation succ with (in cache)這是喝了會兔子的聰明水's voice channel changed !
+2020-09-02 14:24:17,885 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 14:24:38,398 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 14:25:28,825 Level 15: [<class 'discord.role.Role'>, 58, 45, 58, 1, 0, '20_09_02']
+2020-09-02 14:25:28,826 INFO: operation succ with (in cache)· 娜娜♡姆姆· 筆記中 (´▽`ʃ♡ƪ) on message
+2020-09-02 14:25:29,196 INFO: operation succ with (in cache)Blaz on message
+2020-09-02 14:25:31,555 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 14:25:42,262 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 14:26:48,182 INFO: operation succ with (in cache)狐狸 on message
+2020-09-02 14:26:48,340 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 14:26:48,340 INFO: 伊塔 __想畢業霞谷(˃̶͈̀௰˂̶͈́) was token
+2020-09-02 14:26:48,341 Level 15: no write and no update in SOP
+2020-09-02 14:26:48,341 INFO: operation succ with 伊塔 __想畢業霞谷(˃̶͈̀௰˂̶͈́) on message
+2020-09-02 14:27:15,013 INFO: operation succ with (in cache)狐狸 on message
+2020-09-02 14:28:02,261 INFO: operation succ with (in cache)右方、要去辦公室可以@我<3 on message
+2020-09-02 14:33:33,141 INFO: operation succ with (in cache)蹭音樂機器人的hoho's voice channel changed !
+2020-09-02 14:33:59,996 INFO: operation succ with (in cache)伊塔 __想畢業霞谷(˃̶͈̀௰˂̶͈́) on message
+2020-09-02 14:34:31,787 INFO: operation succ with (in cache)右方、要去辦公室可以@我<3 on message
+2020-09-02 14:36:04,720 INFO: operation succ with (in cache)伊塔 __想畢業霞谷(˃̶͈̀௰˂̶͈́) on message
+2020-09-02 14:36:23,071 INFO: operation succ with (in cache)右方、要去辦公室可以@我<3 on message
+2020-09-02 14:36:50,249 INFO: operation succ with (in cache)伊塔 __想畢業霞谷(˃̶͈̀௰˂̶͈́) on message
+2020-09-02 14:37:43,455 INFO: operation succ with (in cache)右方、要去辦公室可以@我<3 on message
+2020-09-02 14:39:00,531 INFO: operation succ with (in cache)伊塔 __想畢業霞谷(˃̶͈̀௰˂̶͈́) on message
+2020-09-02 14:40:04,512 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 14:40:09,572 INFO: operation succ with (in cache)右方、要去辦公室可以@我<3 on message
+2020-09-02 14:40:29,483 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 14:40:51,106 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 14:40:56,807 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 14:40:57,216 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 14:41:00,215 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 14:41:31,549 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 14:42:01,588 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 14:42:13,414 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 14:42:34,021 INFO: Got a request to RESUME the websocket.
+2020-09-02 14:42:34,481 INFO: Shard ID None has sent the RESUME payload.
+2020-09-02 14:42:34,713 INFO: Shard ID None has successfully RESUMED session 80d16bd13f95d7d7f68bd347df1fd297 under trace ["gateway-prd-main-vqcs",{"micros":3928,"calls":["discord-sessions-prd-2-87",{"micros":29}]}].
+2020-09-02 14:42:40,434 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 14:47:36,340 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 14:49:47,706 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 14:49:47,706 Level 15: {'nick': '滇滇', 'lastDate': '20_09_02', 'xpDeque': [1, 0, 1, 1, 1], 'xpTotal': 4, 'eternal': 0}
+2020-09-02 14:49:47,706 Level 15: operated,try save
+2020-09-02 14:49:47,706 Level 15: try to save
+2020-09-02 14:49:47,707 Level 15: {'nick': '滇滇', 'lastDate': '20_09_02', 'xpDeque': [1, 0, 1, 1, 1], 'xpTotal': 4, 'eternal': 0}
+2020-09-02 14:49:47,707 Level 15: outputed滇滇(739934393283641506)'s json
+2020-09-02 14:49:47,707 INFO: saved,try update
+2020-09-02 14:49:47,707 INFO: no change
+2020-09-02 14:49:47,707 INFO: operation succ with 滇滇 on message
+2020-09-02 14:50:16,868 INFO: operation succ with (in cache)pizza ξ( ✿＞◡❛) on message
+2020-09-02 14:55:59,909 INFO: operation succ with (in cache)Midnight lantern. on message
+2020-09-02 14:56:02,392 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-09-02 14:56:03,564 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-09-02 14:56:11,158 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 14:56:18,957 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 14:56:20,954 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 14:56:26,790 INFO: operation succ with (in cache)Midnight lantern. on message
+2020-09-02 14:56:47,976 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 14:56:53,959 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 14:57:06,385 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 14:57:06,505 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 14:57:21,629 INFO: operation succ with (in cache)一轉身就會迷路的鴿子 🕊💦 on message
+2020-09-02 14:58:06,019 INFO: operation succ with (in cache)枏ㄋㄢˊ樳ㄒㄩㄣˊ on message
+2020-09-02 14:58:09,861 INFO: operation succ with (in cache)滇滇 on message
+2020-09-02 14:58:43,362 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 14:58:46,158 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 14:58:58,311 INFO: operation succ with (in cache)Midnight lantern. on message
+2020-09-02 14:59:32,541 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 15:00:44,651 INFO: operation succ with (in cache)pizza ξ( ✿＞◡❛) on message
+2020-09-02 15:02:01,894 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 15:02:01,894 INFO: 英式奶茶☕ was token
+2020-09-02 15:02:01,894 Level 15: no write and no update in SOP
+2020-09-02 15:02:01,894 INFO: operation succ with 英式奶茶☕ on message
+2020-09-02 15:03:33,242 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 15:03:42,997 INFO: operation succ with (in cache)這是喝了會兔子的聰明水 on message
+2020-09-02 15:03:59,365 INFO: operation succ with (in cache)長相老實的豬精 on message
+2020-09-02 15:04:04,408 INFO: operation succ with (in cache)IceScar on message
+2020-09-02 15:04:53,755 INFO: operation succ with (in cache)酥皮🌵 on message
+2020-09-02 15:05:05,459 INFO: operation succ with (in cache)花見桜咲 on message
+2020-09-02 15:05:12,399 INFO: operation succ with (in cache)IceScar on message
+2020-09-02 15:08:38,588 INFO: operation succ with (in cache)多多綠綠🥑's voice channel changed !
+2020-09-02 15:08:39,433 INFO: operation succ with (in cache)姿姿( • ̀ω•́ ) on message
+2020-09-02 15:09:31,006 INFO: operation succ with (in cache)小喇叭 on message
+2020-09-02 15:10:01,583 INFO: operation succ with (in cache)pizza ξ( ✿＞◡❛) on message
+2020-09-02 15:10:42,433 INFO: operation succ with (in cache)果♡姆*˙︶˙*)ﾉﾞꕤ-徵耐心包容我軟爛的固玩哈哈哈哈哈☆ on message
+2020-09-02 15:12:36,622 INFO: operation succ with (in cache)枏ㄋㄢˊ樳ㄒㄩㄣˊ on message
+2020-09-02 15:12:50,643 INFO: operation succ with (in cache)pizza ξ( ✿＞◡❛) on message
+2020-09-02 15:13:02,244 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 15:13:02,244 Level 15: {'nick': '咕嚕嚕', 'lastDate': '20_09_02', 'xpDeque': [0, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 8, 'eternal': 0}
+2020-09-02 15:13:02,244 Level 15: operated,try save
+2020-09-02 15:13:02,244 Level 15: try to save
+2020-09-02 15:13:02,245 Level 15: {'nick': '咕嚕嚕', 'lastDate': '20_09_02', 'xpDeque': [0, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 8, 'eternal': 0}
+2020-09-02 15:13:02,245 Level 15: outputed咕嚕嚕(592282050346614786)'s json
+2020-09-02 15:13:02,245 INFO: saved,try update
+2020-09-02 15:13:02,245 INFO: no change
+2020-09-02 15:13:02,245 INFO: operation succ with 咕嚕嚕 on message
+2020-09-02 15:16:07,204 INFO: operation succ with (in cache)枏ㄋㄢˊ樳ㄒㄩㄣˊ on message
+2020-09-02 15:16:37,402 INFO: operation succ with (in cache)枏ㄋㄢˊ樳ㄒㄩㄣˊ on message
+2020-09-02 15:16:55,815 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 15:16:55,815 Level 15: {'nick': 'Silver_彼翼.銀', 'lastDate': '20_09_02', 'xpDeque': [2, 0, 0, 0, 0, 0, 0, 1, 1], 'xpTotal': 4, 'eternal': 0}
+2020-09-02 15:16:55,815 Level 15: operated,try save
+2020-09-02 15:16:55,815 Level 15: try to save
+2020-09-02 15:16:55,815 Level 15: {'nick': 'Silver_彼翼.銀', 'lastDate': '20_09_02', 'xpDeque': [2, 0, 0, 0, 0, 0, 0, 1, 1], 'xpTotal': 4, 'eternal': 0}
+2020-09-02 15:16:55,815 Level 15: outputedSilver_彼翼.銀(574575577063751684)'s json
+2020-09-02 15:16:55,815 INFO: saved,try update
+2020-09-02 15:16:55,816 INFO: no change
+2020-09-02 15:16:55,816 INFO: operation succ with Silver_彼翼.銀 on message
+2020-09-02 15:16:57,291 INFO: operation succ with (in cache)長相老實的豬精 on message
+2020-09-02 15:17:01,794 INFO: operation succ with (in cache)英式奶茶☕ on message
+2020-09-02 15:17:22,205 INFO: operation succ with (in cache)英式奶茶☕ on message
+2020-09-02 15:17:44,159 INFO: operation succ with (in cache)英式奶茶☕ on message
+2020-09-02 15:18:08,903 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 15:18:08,903 INFO: 貓.物理老師教太差我該怎麼辦呢 was token
+2020-09-02 15:18:08,903 Level 15: no write and no update in SOP
+2020-09-02 15:18:08,903 INFO: operation succ with 貓.物理老師教太差我該怎麼辦呢 on message
+2020-09-02 15:18:17,070 INFO: operation succ with (in cache)貓.物理老師教太差我該怎麼辦呢 on message
+2020-09-02 15:18:23,909 INFO: operation succ with (in cache)長相老實的豬精 on message
+2020-09-02 15:18:55,306 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 15:19:39,532 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 15:19:39,532 Level 15: {'nick': '奶綠-我醒著呢  我沒傻唷', 'lastDate': '20_09_02', 'xpDeque': [1, 0, 0, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 8, 'eternal': 0}
+2020-09-02 15:19:39,532 Level 15: operated,try save
+2020-09-02 15:19:39,532 Level 15: try to save
+2020-09-02 15:19:39,534 Level 15: {'nick': '奶綠-我醒著呢  我沒傻唷', 'lastDate': '20_09_02', 'xpDeque': [1, 0, 0, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 8, 'eternal': 0}
+2020-09-02 15:19:39,534 Level 15: outputed奶綠-孤狼探險我為您開路(720892491187880027)'s json
+2020-09-02 15:19:39,534 INFO: saved,try update
+2020-09-02 15:19:39,534 INFO: no change
+2020-09-02 15:19:39,534 INFO: operation succ with 奶綠-孤狼探險我為您開路's voice channel changed !
+2020-09-02 15:20:33,261 INFO: operation succ with (in cache)🎶小LUA吧🎶's voice channel changed !
+2020-09-02 15:20:39,950 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-09-02 15:20:40,562 Level 15: [<class 'discord.role.Role'>, 8, 8, 8, 1, 0, '20_09_02']
+2020-09-02 15:20:40,564 INFO: operation succ with (in cache)pizza ξ( ✿＞◡❛) on message
+2020-09-02 15:20:40,930 INFO: operation succ with (in cache)Blaz on message
+2020-09-02 15:22:25,102 INFO: operation succ with (in cache)Silver_彼翼.銀 on message
+2020-09-02 15:22:45,221 INFO: operation succ with (in cache)Silver_彼翼.銀 on message
+2020-09-02 15:22:56,619 INFO: operation succ with (in cache)奶綠-孤狼探險我為您開路's voice channel changed !
+2020-09-02 15:24:30,780 INFO: operation succ with (in cache)花見桜咲 on message
+2020-09-02 15:27:23,063 INFO: operation succ with (in cache)熙熙's voice channel changed !
+2020-09-02 15:28:28,057 INFO: operation succ with (in cache)熙熙's voice channel changed !
+2020-09-02 15:30:20,150 INFO: operation succ with (in cache)啊噗 on message
+2020-09-02 15:32:34,317 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 15:32:34,318 Level 15: {'nick': '某某', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 1, 1, 1, 1], 'xpTotal': 4, 'eternal': 0}
+2020-09-02 15:32:34,318 Level 15: operated,try save
+2020-09-02 15:32:34,318 Level 15: try to save
+2020-09-02 15:32:34,318 Level 15: {'nick': '某某', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 1, 1, 1, 1], 'xpTotal': 4, 'eternal': 0}
+2020-09-02 15:32:34,318 Level 15: outputed某某(523445432416862208)'s json
+2020-09-02 15:32:34,318 INFO: saved,try update
+2020-09-02 15:32:34,319 INFO: no change
+2020-09-02 15:32:34,319 INFO: operation succ with 某某 on message
+2020-09-02 15:34:45,778 INFO: operation succ with (in cache)mayi's voice channel changed !
+2020-09-02 15:36:49,021 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-09-02 15:37:00,570 INFO: operation succ with (in cache)多多綠綠🥑's voice channel changed !
+2020-09-02 15:37:23,712 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-09-02 15:37:34,426 INFO: operation succ with (in cache)Midnight lantern.'s voice channel changed !
+2020-09-02 15:38:06,702 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 15:38:07,883 INFO: operation succ with (in cache)史萊宇治姆茶 on message
+2020-09-02 15:38:13,337 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 15:38:19,038 INFO: operation succ with (in cache)🎶小LUA吧🎶 on message
+2020-09-02 15:39:08,197 INFO: operation succ with (in cache)多多綠綠🥑 on message
+2020-09-02 15:41:23,714 INFO: operation succ with (in cache)小喇叭 on message

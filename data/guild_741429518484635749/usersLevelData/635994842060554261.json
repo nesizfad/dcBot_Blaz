@@ -1,9 +1,10 @@
 {
     "nick": "冷凌漩",
-    "lastDate": "20_08_31",
+    "lastDate": "20_09_02",
     "xpDeque": [
-        0
+        0,
+        1
     ],
-    "xpTotal": 0,
+    "xpTotal": 1,
     "eternal": 0
 }
