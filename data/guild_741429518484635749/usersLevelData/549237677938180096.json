@@ -1,11 +1,12 @@
 {
     "nick": "貓神",
-    "lastDate": "20_09_02",
+    "lastDate": "20_09_03",
     "xpDeque": [
         0,
         0,
         0,
         1,
+        0,
         0
     ],
     "xpTotal": 1,

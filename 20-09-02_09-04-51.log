@@ -3256,3 +3256,26 @@
 2020-09-02 22:10:06,624 Level 15: [<class 'discord.role.Role'>, 1, 1, 1, 1, 0, '20_09_02']
 2020-09-02 22:10:06,635 INFO: operation succ with (in cache)夏憶 on message
 2020-09-02 22:10:06,943 INFO: operation succ with (in cache)Blaz on message
+2020-09-02 22:11:58,379 INFO: operation succ with (in cache)夏憶's voice channel changed !
+2020-09-02 22:14:01,705 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 22:14:01,706 Level 15: {'nick': '迷你', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 22:14:01,707 Level 15: operated,try save
+2020-09-02 22:14:01,708 Level 15: try to save
+2020-09-02 22:14:01,709 Level 15: {'nick': '迷你', 'lastDate': '20_09_02', 'xpDeque': [0, 0, 0, 0, 0, 0, 1], 'xpTotal': 1, 'eternal': 0}
+2020-09-02 22:14:01,712 Level 15: outputed迷你(501059393756856326)'s json
+2020-09-02 22:14:01,713 INFO: saved,try update
+2020-09-02 22:14:01,713 INFO: [] , 一翼
+2020-09-02 22:14:02,021 INFO: role update
+2020-09-02 22:14:02,022 INFO: operation succ with 迷你 on message
+2020-09-02 22:16:06,417 INFO: operation succ with (in cache)迷你 on message
+2020-09-02 22:16:55,529 INFO: operation succ with (in cache)迷你 on message
+2020-09-02 22:17:44,717 INFO: operation succ with (in cache)迷你 on message
+2020-09-02 22:21:39,606 INFO: operation succ with (in cache)迷你 on message
+2020-09-02 22:22:27,138 Level 15: 20_09_02 =?= 20_09_02
+2020-09-02 22:22:27,139 INFO: 琪琪 was token
+2020-09-02 22:22:27,140 Level 15: no write and no update in SOP
+2020-09-02 22:22:27,141 INFO: operation succ with 琪琪 on message
+2020-09-02 22:27:39,333 INFO: Cleaning up tasks.
+2020-09-02 22:27:39,334 INFO: Cleaning up after 1 tasks.
+2020-09-02 22:27:39,369 INFO: All tasks finished cancelling.
+2020-09-02 22:27:39,371 INFO: Closing the event loop.

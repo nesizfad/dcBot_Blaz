@@ -334,7 +334,7 @@ def get_today_date_with_delta_str( hours: int = 0 ) -> str:
 def get_user_json_path( guildID: int, userID: int ) -> str:
     global g_path_data
     path =  f"{os.path.dirname( sys.argv[ 0 ] )}{g_path_data}/guild_{guildID}/usersLevelData/{userID}.json"
-    print(path)
+    level_logger.log( 14, path)
     return path
 
 

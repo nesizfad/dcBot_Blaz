@@ -1,0 +1,8 @@
+2020-09-02 22:29:54,002 INFO: info message
+2020-09-02 22:29:54,003 WARNING: warning message
+2020-09-02 22:29:54,004 ERROR: error message
+2020-09-02 22:29:54,004 CRITICAL: critical message
+2020-09-02 22:29:54,022 INFO: logging in using static token
+2020-09-02 22:29:54,036 INFO: Cleaning up tasks.
+2020-09-02 22:29:54,037 INFO: Closing the event loop.
+2020-09-02 22:29:54,098 INFO:  * Running on http://0.0.0.0:6767/ (Press CTRL+C to quit)

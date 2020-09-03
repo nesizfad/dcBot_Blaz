@@ -1,6 +1,6 @@
 {
     "nick": "涅",
-    "lastDate": "20_09_02",
+    "lastDate": "20_09_03",
     "xpDeque": [
         10,
         1,
@@ -12,8 +12,9 @@
         1,
         1,
         1,
+        1,
         1
     ],
-    "xpTotal": 20,
+    "xpTotal": 21,
     "eternal": 0
 }
