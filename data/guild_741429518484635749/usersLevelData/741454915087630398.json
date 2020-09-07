@@ -1,10 +1,12 @@
 {
     "nick": "Sky: Children of the Light #news",
-    "lastDate": "20_09_02",
+    "lastDate": "20_09_05",
     "xpDeque": [
+        1,
+        1,
         1,
         1
     ],
-    "xpTotal": 2,
+    "xpTotal": 4,
     "eternal": 0
 }

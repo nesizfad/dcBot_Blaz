@@ -1,6 +1,6 @@
 {
     "nick": "栗OWO/",
-    "lastDate": "20_09_03",
+    "lastDate": "20_09_05",
     "xpDeque": [
         0,
         0,
@@ -9,8 +9,10 @@
         0,
         0,
         0,
-        0
+        0,
+        0,
+        1
     ],
-    "xpTotal": 0,
+    "xpTotal": 1,
     "eternal": 0
 }

@@ -1,6 +1,6 @@
 {
     "nick": "冰開水",
-    "lastDate": "20_09_03",
+    "lastDate": "20_09_07",
     "xpDeque": [
         0,
         0,
@@ -10,8 +10,11 @@
         0,
         1,
         1,
+        1,
+        1,
+        1,
         0
     ],
-    "xpTotal": 2,
+    "xpTotal": 5,
     "eternal": 0
 }

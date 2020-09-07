@@ -1,6 +1,6 @@
 {
     "nick": "早安",
-    "lastDate": "20_09_03",
+    "lastDate": "20_09_07",
     "xpDeque": [
         0,
         0,
@@ -9,8 +9,11 @@
         1,
         0,
         0,
-        0
+        0,
+        1,
+        0,
+        1
     ],
-    "xpTotal": 1,
+    "xpTotal": 3,
     "eternal": 0
 }

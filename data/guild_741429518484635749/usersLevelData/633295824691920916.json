@@ -1,6 +1,6 @@
 {
     "nick": "Cielo2727",
-    "lastDate": "20_09_03",
+    "lastDate": "20_09_07",
     "xpDeque": [
         0,
         0,
@@ -9,8 +9,12 @@
         0,
         0,
         0,
+        0,
+        1,
+        1,
+        0,
         0
     ],
-    "xpTotal": 0,
+    "xpTotal": 2,
     "eternal": 0
 }

@@ -1,11 +1,15 @@
 {
     "nick": "IceScar",
-    "lastDate": "20_09_03",
+    "lastDate": "20_09_07",
     "xpDeque": [
+        1,
+        1,
+        1,
+        1,
         1,
         1,
         0
     ],
-    "xpTotal": 2,
+    "xpTotal": 6,
     "eternal": 0
 }

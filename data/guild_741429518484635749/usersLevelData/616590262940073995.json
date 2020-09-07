@@ -1,10 +1,13 @@
 {
     "nick": "阿梟",
-    "lastDate": "20_09_03",
+    "lastDate": "20_09_07",
     "xpDeque": [
+        1,
+        0,
+        1,
         1,
         0
     ],
-    "xpTotal": 1,
+    "xpTotal": 3,
     "eternal": 0
 }
