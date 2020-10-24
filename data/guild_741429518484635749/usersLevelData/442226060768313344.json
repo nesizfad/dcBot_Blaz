@@ -1,6 +1,6 @@
 {
     "nick": "DMoonlight3012",
-    "lastDate": "20_09_07",
+    "lastDate": "20_09_25",
     "xpDeque": [
         0,
         0,
@@ -13,8 +13,14 @@
         0,
         0,
         0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
         0
     ],
-    "xpTotal": 4,
+    "xpTotal": 5,
     "eternal": 0
 }

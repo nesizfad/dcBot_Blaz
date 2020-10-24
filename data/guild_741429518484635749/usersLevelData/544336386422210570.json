@@ -1,14 +1,20 @@
 {
     "nick": "亞碧",
-    "lastDate": "20_09_07",
+    "lastDate": "20_09_25",
     "xpDeque": [
         1,
         0,
         0,
         1,
         0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
         0
     ],
-    "xpTotal": 2,
+    "xpTotal": 3,
     "eternal": 0
 }

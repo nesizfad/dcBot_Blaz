@@ -1,0 +1,115 @@
+2020-10-24 16:07:46,832 INFO: info message
+2020-10-24 16:07:46,857 WARNING: warning message
+2020-10-24 16:07:46,858 ERROR: error message
+2020-10-24 16:07:46,858 CRITICAL: critical message
+2020-10-24 16:07:46,877 INFO: logging in using static token
+2020-10-24 16:07:46,988 INFO:  * Running on http://0.0.0.0:7564/ (Press CTRL+C to quit)
+2020-10-24 16:07:47,850 INFO: Shard ID None has sent the IDENTIFY payload.
+2020-10-24 16:07:48,143 INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-jvn8",{"micros":47856,"calls":["discord-sessions-prd-2-116",{"micros":45172,"calls":["start_session",{"micros":29853,"calls":["api-prd-main-dkdl",{"micros":27406,"calls":["get_user",{"micros":1969},"add_authorized_ip",{"micros":1254},"get_guilds",{"micros":3259},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":4,"calls":[]},"presence_connect",{"micros":3914,"calls":[]}]}]}] (Session ID: 4f246e3ce226617326d562a1f611dc12).
+2020-10-24 16:07:51,658 INFO: Finished requesting guild member chunks for 1 guilds.
+2020-10-24 16:08:18,347 Level 15: 20_10_24 =?= 20_10_25
+2020-10-24 16:08:18,347 Level 15: date not match
+2020-10-24 16:08:18,348 Level 15: appended
+2020-10-24 16:08:18,349 Level 15: {'nick': 'Farewell, my friend.', 'lastDate': '20_10_25', 'xpDeque': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 83, 'eternal': 0}
+2020-10-24 16:08:18,349 Level 15: operated,try save
+2020-10-24 16:08:18,350 Level 15: try to save
+2020-10-24 16:08:18,351 Level 15: {'nick': 'Farewell, my friend.', 'lastDate': '20_10_25', 'xpDeque': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 83, 'eternal': 0}
+2020-10-24 16:08:18,353 Level 15: outputed推到傷口的StarLotus星蓮(710854577121132636)'s json
+2020-10-24 16:08:18,354 INFO: saved,try update
+2020-10-24 16:08:18,356 INFO: no change
+2020-10-24 16:08:18,356 INFO: operation succ with 推到傷口的StarLotus星蓮's voice channel changed !
+2020-10-24 16:08:54,206 Level 15: 20_10_24 =?= 20_10_25
+2020-10-24 16:08:54,206 Level 15: date not match
+2020-10-24 16:08:54,207 Level 15: appended
+2020-10-24 16:08:54,208 Level 15: {'nick': '涅', 'lastDate': '20_10_25', 'xpDeque': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 70, 'eternal': 0}
+2020-10-24 16:08:54,208 Level 15: operated,try save
+2020-10-24 16:08:54,209 Level 15: try to save
+2020-10-24 16:08:54,210 Level 15: {'nick': '涅', 'lastDate': '20_10_25', 'xpDeque': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 70, 'eternal': 0}
+2020-10-24 16:08:54,212 Level 15: outputed涅(402394522824474624)'s json
+2020-10-24 16:08:54,213 INFO: saved,try update
+2020-10-24 16:08:54,214 INFO: no change
+2020-10-24 16:08:54,215 INFO: operation succ with 涅 on message
+2020-10-24 16:08:59,623 INFO: operation succ with (in cache)涅 on message
+2020-10-24 16:09:00,081 Level 15: 20_10_24 =?= 20_10_25
+2020-10-24 16:09:00,082 Level 15: date not match
+2020-10-24 16:09:00,083 Level 15: appended
+2020-10-24 16:09:00,083 Level 15: {'nick': 'Blaz', 'lastDate': '20_10_25', 'xpDeque': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 65, 'eternal': 0}
+2020-10-24 16:09:00,084 Level 15: operated,try save
+2020-10-24 16:09:00,085 Level 15: try to save
+2020-10-24 16:09:00,086 Level 15: {'nick': 'Blaz', 'lastDate': '20_10_25', 'xpDeque': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 65, 'eternal': 0}
+2020-10-24 16:09:00,088 Level 15: outputedBlaz(742195760522854482)'s json
+2020-10-24 16:09:00,089 INFO: saved,try update
+2020-10-24 16:09:00,090 INFO: no change
+2020-10-24 16:09:00,090 INFO: operation succ with Blaz on message
+2020-10-24 16:09:10,113 Level 15: 20_10_22 =?= 20_10_25
+2020-10-24 16:09:10,114 Level 15: date not match
+2020-10-24 16:09:10,115 Level 15: appended
+2020-10-24 16:09:10,115 Level 15: {'nick': 'Shallo_空𓆝𓆜𓆟𓆞', 'lastDate': '20_10_25', 'xpDeque': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 78, 'eternal': 0.1}
+2020-10-24 16:09:10,116 Level 15: operated,try save
+2020-10-24 16:09:10,117 Level 15: try to save
+2020-10-24 16:09:10,118 Level 15: {'nick': 'Shallo_空𓆝𓆜𓆟𓆞', 'lastDate': '20_10_25', 'xpDeque': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 78, 'eternal': 0.1}
+2020-10-24 16:09:10,120 Level 15: outputedᵏᶦˡˡ ᵐᵉ(640197596450652160)'s json
+2020-10-24 16:09:10,121 INFO: saved,try update
+2020-10-24 16:09:10,123 INFO: no change
+2020-10-24 16:09:10,123 INFO: operation succ with ᵏᶦˡˡ ᵐᵉ on message
+2020-10-24 16:09:39,486 WARNING:  not right guild
+2020-10-24 16:09:48,846 INFO: operation succ with (in cache)涅 on message
+2020-10-24 16:09:51,402 INFO: operation succ with (in cache)ᵏᶦˡˡ ᵐᵉ on message
+2020-10-24 16:10:00,335 Level 15: 20_10_24 =?= 20_10_25
+2020-10-24 16:10:00,336 Level 15: date not match
+2020-10-24 16:10:00,337 Level 15: appended
+2020-10-24 16:10:00,338 Level 15: {'nick': 'X× Lowe♡姆姆 ×X', 'lastDate': '20_10_25', 'xpDeque': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 87, 'eternal': 0}
+2020-10-24 16:10:00,338 Level 15: operated,try save
+2020-10-24 16:10:00,339 Level 15: try to save
+2020-10-24 16:10:00,340 Level 15: {'nick': 'X× Lowe♡姆姆 ×X', 'lastDate': '20_10_25', 'xpDeque': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 87, 'eternal': 0}
+2020-10-24 16:10:00,343 Level 15: outputedX× Lowe♡蓮姆 ×X(616981256768585758)'s json
+2020-10-24 16:10:00,343 INFO: saved,try update
+2020-10-24 16:10:00,345 INFO: no change
+2020-10-24 16:10:00,346 INFO: operation succ with X× Lowe♡蓮姆 ×X on message
+2020-10-24 16:10:02,160 INFO: operation succ with (in cache)ᵏᶦˡˡ ᵐᵉ on message
+2020-10-24 16:10:07,151 WARNING:  not right guild
+2020-10-24 16:10:09,920 Level 15: [<class 'discord.role.Role'>, 70, 45, 45, 1, 0, '20_10_25']
+2020-10-24 16:10:09,927 INFO: operation succ with (in cache)涅 on message
+2020-10-24 16:10:10,329 INFO: operation succ with (in cache)Blaz on message
+2020-10-24 16:10:20,575 WARNING:  not right guild
+2020-10-24 16:10:24,648 WARNING:  not right guild
+2020-10-24 16:10:27,927 WARNING:  not right guild
+2020-10-24 16:10:29,808 WARNING:  not right guild
+2020-10-24 16:10:32,840 WARNING:  not right guild
+2020-10-24 16:10:41,034 WARNING:  not right guild
+2020-10-24 16:10:43,298 Level 15: 20_10_24 =?= 20_10_25
+2020-10-24 16:10:43,299 Level 15: date not match
+2020-10-24 16:10:43,300 Level 15: appended
+2020-10-24 16:10:43,300 Level 15: {'nick': 'Sunday𓆝𓆜𓆟𓆞', 'lastDate': '20_10_25', 'xpDeque': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 62, 'eternal': 0}
+2020-10-24 16:10:43,301 Level 15: operated,try save
+2020-10-24 16:10:43,302 Level 15: try to save
+2020-10-24 16:10:43,303 Level 15: {'nick': 'Sunday𓆝𓆜𓆟𓆞', 'lastDate': '20_10_25', 'xpDeque': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 62, 'eternal': 0}
+2020-10-24 16:10:43,305 Level 15: outputed鴿子唱歌(652909866658037790)'s json
+2020-10-24 16:10:43,306 INFO: saved,try update
+2020-10-24 16:10:43,307 INFO: no change
+2020-10-24 16:10:43,308 INFO: operation succ with 鴿子唱歌 on message
+2020-10-24 16:10:45,743 INFO: operation succ with (in cache)X× Lowe♡蓮姆 ×X on message
+2020-10-24 16:10:47,624 INFO: operation succ with (in cache)鴿子唱歌 on message
+2020-10-24 16:10:49,195 INFO: operation succ with (in cache)推到傷口的StarLotus星蓮's voice channel changed !
+2020-10-24 16:10:54,964 WARNING:  not right guild
+2020-10-24 16:11:09,189 WARNING:  not right guild
+2020-10-24 16:11:10,933 WARNING:  not right guild
+2020-10-24 16:11:11,801 INFO: operation succ with (in cache)X× Lowe♡蓮姆 ×X on message
+2020-10-24 16:11:27,919 INFO: operation succ with (in cache)鴿子唱歌 on message
+2020-10-24 16:11:30,251 INFO: operation succ with (in cache)ᵏᶦˡˡ ᵐᵉ on message
+2020-10-24 16:11:36,363 INFO: operation succ with (in cache)鴿子唱歌 on message
+2020-10-24 16:11:40,593 INFO: operation succ with (in cache)鴿子唱歌 on message
+2020-10-24 16:12:23,537 INFO: operation succ with (in cache)ᵏᶦˡˡ ᵐᵉ on message
+2020-10-24 16:12:25,862 WARNING:  not right guild
+2020-10-24 16:12:47,438 Level 15: 20_10_24 =?= 20_10_25
+2020-10-24 16:12:47,439 Level 15: date not match
+2020-10-24 16:12:47,440 Level 15: appended
+2020-10-24 16:12:47,440 Level 15: {'nick': 'Luc', 'lastDate': '20_10_25', 'xpDeque': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 70, 'eternal': 0}
+2020-10-24 16:12:47,441 Level 15: operated,try save
+2020-10-24 16:12:47,441 Level 15: try to save
+2020-10-24 16:12:47,443 Level 15: {'nick': 'Luc', 'lastDate': '20_10_25', 'xpDeque': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'xpTotal': 70, 'eternal': 0}
+2020-10-24 16:12:47,445 Level 15: outputed🕊是高音🕊后(356457910986997780)'s json
+2020-10-24 16:12:47,446 INFO: saved,try update
+2020-10-24 16:12:47,447 INFO: no change
+2020-10-24 16:12:47,447 INFO: operation succ with 🕊是高音🕊后's voice channel changed !
+2020-10-24 16:12:54,294 INFO: operation succ with (in cache)鴿子唱歌 on message

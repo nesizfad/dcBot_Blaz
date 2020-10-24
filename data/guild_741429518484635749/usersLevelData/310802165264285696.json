@@ -1,10 +1,15 @@
 {
     "nick": "一期一会.",
-    "lastDate": "20_08_31",
+    "lastDate": "20_10_24",
     "xpDeque": [
         1,
-        0
+        0,
+        1,
+        1,
+        1,
+        1,
+        1
     ],
-    "xpTotal": 1,
+    "xpTotal": 6,
     "eternal": 0
 }

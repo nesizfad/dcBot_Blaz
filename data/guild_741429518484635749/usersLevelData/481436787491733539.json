@@ -1,6 +1,6 @@
 {
     "nick": "Finia",
-    "lastDate": "20_09_07",
+    "lastDate": "20_09_29",
     "xpDeque": [
         0,
         0,
@@ -11,8 +11,14 @@
         0,
         0,
         0,
-        0
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
     ],
-    "xpTotal": 0,
+    "xpTotal": 1,
     "eternal": 0
 }

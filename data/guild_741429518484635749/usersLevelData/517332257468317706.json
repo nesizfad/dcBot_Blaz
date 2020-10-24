@@ -1,12 +1,18 @@
 {
     "nick": "絨翠",
-    "lastDate": "20_09_07",
+    "lastDate": "20_10_14",
     "xpDeque": [
         1,
         0,
         0,
-        0
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
     ],
-    "xpTotal": 1,
+    "xpTotal": 2,
     "eternal": 0
 }

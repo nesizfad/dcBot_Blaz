@@ -8,7 +8,7 @@ import asyncio
 import logging
 import logging.handlers
 
-TIMEZONE = 0
+TIMEZONE = 8
 
 DEBUG_CHECK = 15
 FORMAT = '%(asctime)s %(levelname)s: %(message)s'

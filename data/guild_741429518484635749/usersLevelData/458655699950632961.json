@@ -1,8 +1,13 @@
 {
     "nick": "請叫我小小蘇",
-    "lastDate": "20_09_07",
+    "lastDate": "20_09_25",
     "xpDeque": [
-        1
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
     ],
     "xpTotal": 1,
     "eternal": 0
