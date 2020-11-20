@@ -1,9 +1,15 @@
 {
     "nick": "我要小豬你！",
-    "lastDate": "20_10_05",
+    "lastDate": "20_11_03",
     "xpDeque": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         1
     ],
-    "xpTotal": 1,
+    "xpTotal": 7,
     "eternal": 0
 }

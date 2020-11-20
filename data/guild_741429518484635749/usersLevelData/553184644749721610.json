@@ -1,10 +1,12 @@
 {
     "nick": "兔排",
-    "lastDate": "20_10_24",
+    "lastDate": "20_11_19",
     "xpDeque": [
+        1,
+        1,
         1,
         1
     ],
-    "xpTotal": 2,
+    "xpTotal": 4,
     "eternal": 0
 }

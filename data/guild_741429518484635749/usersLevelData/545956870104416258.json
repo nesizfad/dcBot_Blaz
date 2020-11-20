@@ -1,6 +1,6 @@
 {
     "nick": "yellow dog",
-    "lastDate": "20_10_19",
+    "lastDate": "20_11_13",
     "xpDeque": [
         1,
         0,
@@ -12,8 +12,10 @@
         1,
         1,
         1,
+        1,
+        1,
         1
     ],
-    "xpTotal": 9,
+    "xpTotal": 11,
     "eternal": 0
 }

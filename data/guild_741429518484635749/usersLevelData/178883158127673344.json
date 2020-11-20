@@ -1,6 +1,6 @@
 {
     "nick": "Moko",
-    "lastDate": "20_09_29",
+    "lastDate": "20_11_13",
     "xpDeque": [
         0,
         0,
@@ -21,8 +21,10 @@
         0,
         0,
         1,
+        1,
+        1,
         1
     ],
-    "xpTotal": 7,
+    "xpTotal": 9,
     "eternal": 0.1
 }

@@ -1,7 +1,8 @@
 {
     "nick": "忆YI",
-    "lastDate": "20_10_09",
+    "lastDate": "20_11_03",
     "xpDeque": [
+        1,
         1,
         1,
         1,
@@ -9,6 +10,6 @@
         1,
         1
     ],
-    "xpTotal": 6,
+    "xpTotal": 7,
     "eternal": 0
 }

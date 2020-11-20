@@ -1,6 +1,6 @@
 {
     "nick": "栗子",
-    "lastDate": "20_10_11",
+    "lastDate": "20_11_15",
     "xpDeque": [
         1,
         1,
@@ -13,8 +13,10 @@
         1,
         0,
         1,
+        1,
+        1,
         1
     ],
-    "xpTotal": 6,
+    "xpTotal": 8,
     "eternal": 0
 }

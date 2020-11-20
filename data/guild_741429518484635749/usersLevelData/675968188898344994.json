@@ -1,6 +1,6 @@
 {
     "nick": "比利",
-    "lastDate": "20_10_16",
+    "lastDate": "20_11_05",
     "xpDeque": [
         8,
         1,
@@ -29,8 +29,10 @@
         1,
         1,
         1,
+        1,
+        1,
         1
     ],
-    "xpTotal": 28,
+    "xpTotal": 30,
     "eternal": 0
 }

@@ -1,10 +1,12 @@
 {
     "nick": "Yuyuhong",
-    "lastDate": "20_09_25",
+    "lastDate": "20_10_31",
     "xpDeque": [
         0,
-        0
+        0,
+        1,
+        1
     ],
-    "xpTotal": 0,
+    "xpTotal": 2,
     "eternal": 0
 }

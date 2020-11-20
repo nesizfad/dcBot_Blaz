@@ -1,12 +1,13 @@
 {
     "nick": "夜染",
-    "lastDate": "20_10_05",
+    "lastDate": "20_11_05",
     "xpDeque": [
         0,
         0,
         1,
+        1,
         1
     ],
-    "xpTotal": 2,
+    "xpTotal": 3,
     "eternal": 0
 }

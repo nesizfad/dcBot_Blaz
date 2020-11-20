@@ -1,6 +1,6 @@
 {
     "nick": "SHOCKH",
-    "lastDate": "20_10_19",
+    "lastDate": "20_11_16",
     "xpDeque": [
         0,
         0,
@@ -21,8 +21,15 @@
         1,
         1,
         1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         1
     ],
-    "xpTotal": 4,
+    "xpTotal": 11,
     "eternal": 0
 }

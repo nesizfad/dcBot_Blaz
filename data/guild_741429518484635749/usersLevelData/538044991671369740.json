@@ -1,7 +1,9 @@
 {
     "nick": "喬布",
-    "lastDate": "20_10_20",
+    "lastDate": "20_10_30",
     "xpDeque": [
+        1,
+        1,
         1,
         1,
         1,
@@ -12,6 +14,6 @@
         1,
         1
     ],
-    "xpTotal": 9,
+    "xpTotal": 11,
     "eternal": 0
 }

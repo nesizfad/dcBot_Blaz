@@ -1,6 +1,6 @@
 {
     "nick": "新喇叭(_)",
-    "lastDate": "20_09_29",
+    "lastDate": "20_11_17",
     "xpDeque": [
         0,
         0,
@@ -20,8 +20,10 @@
         0,
         1,
         1,
+        1,
+        1,
         1
     ],
-    "xpTotal": 3,
+    "xpTotal": 5,
     "eternal": 0
 }

@@ -1,7 +1,10 @@
 {
     "nick": "Sky: Children of the Light #known-issues",
-    "lastDate": "20_10_16",
+    "lastDate": "20_11_20",
     "xpDeque": [
+        1,
+        1,
+        1,
         1,
         1,
         1,
@@ -10,6 +13,6 @@
         1,
         1
     ],
-    "xpTotal": 7,
+    "xpTotal": 10,
     "eternal": 0
 }

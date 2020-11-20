@@ -1,6 +1,6 @@
 {
     "nick": "🎃🕸🕷Truffle Cookie🕷🕸🎃",
-    "lastDate": "20_10_23",
+    "lastDate": "20_11_19",
     "xpDeque": [
         1,
         0,
@@ -16,8 +16,12 @@
         0,
         1,
         0,
+        1,
+        1,
+        1,
+        1,
         1
     ],
-    "xpTotal": 4,
+    "xpTotal": 8,
     "eternal": 0
 }

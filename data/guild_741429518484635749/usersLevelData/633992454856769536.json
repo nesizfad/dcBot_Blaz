@@ -1,9 +1,10 @@
 {
     "nick": "阿豹",
-    "lastDate": "20_09_25",
+    "lastDate": "20_10_29",
     "xpDeque": [
-        0
+        0,
+        1
     ],
-    "xpTotal": 0,
+    "xpTotal": 1,
     "eternal": 0
 }

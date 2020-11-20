@@ -1,10 +1,12 @@
 {
     "nick": "ruru",
-    "lastDate": "20_10_20",
+    "lastDate": "20_11_06",
     "xpDeque": [
+        1,
+        1,
         1,
         1
     ],
-    "xpTotal": 2,
+    "xpTotal": 4,
     "eternal": 0
 }

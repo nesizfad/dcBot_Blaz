@@ -1,11 +1,12 @@
 {
     "nick": "軍刀",
-    "lastDate": "20_10_22",
+    "lastDate": "20_11_08",
     "xpDeque": [
+        1,
         1,
         1,
         1
     ],
-    "xpTotal": 3,
+    "xpTotal": 4,
     "eternal": 0
 }

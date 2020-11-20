@@ -1,9 +1,16 @@
 {
     "nick": "香米",
-    "lastDate": "20_09_25",
+    "lastDate": "20_11_18",
     "xpDeque": [
-        0
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
     ],
-    "xpTotal": 0,
+    "xpTotal": 7,
     "eternal": 0
 }

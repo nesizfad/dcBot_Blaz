@@ -1,6 +1,6 @@
 {
     "nick": "Juju",
-    "lastDate": "20_10_10",
+    "lastDate": "20_11_14",
     "xpDeque": [
         0,
         0,
@@ -26,8 +26,9 @@
         1,
         1,
         1,
+        1,
         1
     ],
-    "xpTotal": 12,
+    "xpTotal": 13,
     "eternal": 0
 }

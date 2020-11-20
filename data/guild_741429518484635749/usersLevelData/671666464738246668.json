@@ -1,7 +1,9 @@
 {
     "nick": "食夢龍",
-    "lastDate": "20_10_20",
+    "lastDate": "20_11_15",
     "xpDeque": [
+        1,
+        1,
         1,
         1,
         1,
@@ -15,6 +17,6 @@
         1,
         1
     ],
-    "xpTotal": 12,
+    "xpTotal": 14,
     "eternal": 0
 }

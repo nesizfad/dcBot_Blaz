@@ -1,9 +1,10 @@
 {
     "nick": "Suri",
-    "lastDate": "20_10_13",
+    "lastDate": "20_10_30",
     "xpDeque": [
+        1,
         1
     ],
-    "xpTotal": 1,
+    "xpTotal": 2,
     "eternal": 0
 }

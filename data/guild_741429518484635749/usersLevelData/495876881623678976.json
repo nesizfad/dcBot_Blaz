@@ -1,6 +1,6 @@
 {
     "nick": "a!level",
-    "lastDate": "20_10_24",
+    "lastDate": "20_10_31",
     "xpDeque": [
         4,
         1,
@@ -35,8 +35,14 @@
         1,
         1,
         1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         1
     ],
-    "xpTotal": 35,
+    "xpTotal": 41,
     "eternal": 0
 }

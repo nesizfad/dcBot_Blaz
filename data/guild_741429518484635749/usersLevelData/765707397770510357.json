@@ -1,11 +1,20 @@
 {
     "nick": "white",
-    "lastDate": "20_10_22",
+    "lastDate": "20_11_20",
     "xpDeque": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         1,
         1,
         1
     ],
-    "xpTotal": 3,
+    "xpTotal": 12,
     "eternal": 0
 }

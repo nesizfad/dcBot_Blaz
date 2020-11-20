@@ -1,6 +1,6 @@
 {
     "nick": "小精靈",
-    "lastDate": "20_10_24",
+    "lastDate": "20_11_06",
     "xpDeque": [
         0,
         0,
@@ -23,8 +23,11 @@
         1,
         1,
         1,
+        1,
+        1,
+        1,
         1
     ],
-    "xpTotal": 6,
+    "xpTotal": 9,
     "eternal": 0
 }

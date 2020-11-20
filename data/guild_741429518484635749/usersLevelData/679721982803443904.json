@@ -1,8 +1,7 @@
 {
     "nick": "Awkward Silence S",
-    "lastDate": "20_10_19",
+    "lastDate": "20_10_29",
     "xpDeque": [
-        1,
         0,
         1,
         1,
@@ -11,6 +10,7 @@
         0,
         1,
         0,
+        1,
         1,
         1,
         1,
@@ -48,6 +48,6 @@
         1,
         1
     ],
-    "xpTotal": 43,
+    "xpTotal": 44,
     "eternal": 0
 }

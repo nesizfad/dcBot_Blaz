@@ -1,13 +1,18 @@
 {
     "nick": "Maltoseslime",
-    "lastDate": "20_10_20",
+    "lastDate": "20_11_11",
     "xpDeque": [
+        1,
+        1,
+        1,
+        1,
+        1,
         1,
         1,
         1,
         1,
         1
     ],
-    "xpTotal": 5,
+    "xpTotal": 10,
     "eternal": 0
 }

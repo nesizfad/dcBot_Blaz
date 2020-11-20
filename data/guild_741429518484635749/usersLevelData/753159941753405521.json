@@ -1,6 +1,6 @@
 {
     "nick": "Children of the dark",
-    "lastDate": "20_10_24",
+    "lastDate": "20_11_15",
     "xpDeque": [
         1,
         0,
@@ -18,8 +18,11 @@
         1,
         1,
         1,
+        1,
+        1,
+        1,
         1
     ],
-    "xpTotal": 13,
+    "xpTotal": 16,
     "eternal": 0
 }

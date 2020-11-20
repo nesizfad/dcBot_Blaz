@@ -1,7 +1,9 @@
 {
     "nick": "wan",
-    "lastDate": "20_10_18",
+    "lastDate": "20_11_18",
     "xpDeque": [
+        1,
+        1,
         1,
         1,
         1,
@@ -10,6 +12,6 @@
         1,
         1
     ],
-    "xpTotal": 7,
+    "xpTotal": 9,
     "eternal": 0
 }

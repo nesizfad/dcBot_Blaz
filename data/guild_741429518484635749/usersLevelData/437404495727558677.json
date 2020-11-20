@@ -1,13 +1,14 @@
 {
     "nick": "雨君",
-    "lastDate": "20_10_11",
+    "lastDate": "20_10_27",
     "xpDeque": [
         0,
         0,
         1,
         1,
+        1,
         1
     ],
-    "xpTotal": 3,
+    "xpTotal": 4,
     "eternal": 0
 }

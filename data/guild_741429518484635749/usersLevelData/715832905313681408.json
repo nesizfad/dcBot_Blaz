@@ -1,6 +1,6 @@
 {
     "nick": "開車達人",
-    "lastDate": "20_10_07",
+    "lastDate": "20_10_31",
     "xpDeque": [
         0,
         0,
@@ -18,8 +18,9 @@
         0,
         0,
         0,
+        1,
         1
     ],
-    "xpTotal": 1,
+    "xpTotal": 2,
     "eternal": 0
 }

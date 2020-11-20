@@ -1,11 +1,13 @@
 {
     "nick": "伊甸試飛員",
-    "lastDate": "20_10_02",
+    "lastDate": "20_11_19",
     "xpDeque": [
         1,
         0,
+        1,
+        1,
         1
     ],
-    "xpTotal": 2,
+    "xpTotal": 4,
     "eternal": 0
 }

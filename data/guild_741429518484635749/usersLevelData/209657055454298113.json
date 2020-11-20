@@ -1,6 +1,6 @@
 {
     "nick": "時空悖論",
-    "lastDate": "20_10_06",
+    "lastDate": "20_11_20",
     "xpDeque": [
         1,
         0,
@@ -12,8 +12,9 @@
         0,
         0,
         1,
+        1,
         1
     ],
-    "xpTotal": 3,
+    "xpTotal": 4,
     "eternal": 0
 }

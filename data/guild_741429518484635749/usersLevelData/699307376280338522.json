@@ -1,12 +1,16 @@
 {
     "nick": "波采妮",
-    "lastDate": "20_10_20",
+    "lastDate": "20_11_17",
     "xpDeque": [
+        1,
+        1,
+        1,
+        1,
         1,
         1,
         1,
         1
     ],
-    "xpTotal": 4,
+    "xpTotal": 8,
     "eternal": 0
 }

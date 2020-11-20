@@ -1,6 +1,6 @@
 {
     "nick": "Seraphine",
-    "lastDate": "20_10_20",
+    "lastDate": "20_11_14",
     "xpDeque": [
         1,
         1,
@@ -11,8 +11,16 @@
         1,
         1,
         1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         1
     ],
-    "xpTotal": 7,
+    "xpTotal": 15,
     "eternal": 0
 }

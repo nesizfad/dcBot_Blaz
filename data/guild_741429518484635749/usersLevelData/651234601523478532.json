@@ -1,10 +1,11 @@
 {
     "nick": "茅源仙",
-    "lastDate": "20_09_25",
+    "lastDate": "20_11_15",
     "xpDeque": [
         0,
-        0
+        0,
+        1
     ],
-    "xpTotal": 0,
+    "xpTotal": 1,
     "eternal": 0
 }

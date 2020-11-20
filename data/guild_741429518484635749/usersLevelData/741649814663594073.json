@@ -1,6 +1,6 @@
 {
     "nick": "羽毛",
-    "lastDate": "20_10_18",
+    "lastDate": "20_11_19",
     "xpDeque": [
         0,
         1,
@@ -27,8 +27,10 @@
         1,
         1,
         1,
+        1,
+        1,
         1
     ],
-    "xpTotal": 19,
+    "xpTotal": 21,
     "eternal": 0
 }

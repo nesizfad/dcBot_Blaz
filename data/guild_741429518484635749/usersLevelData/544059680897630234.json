@@ -1,14 +1,15 @@
 {
     "nick": "葉葉",
-    "lastDate": "20_10_05",
+    "lastDate": "20_11_02",
     "xpDeque": [
         1,
         1,
         1,
         0,
         0,
+        1,
         1
     ],
-    "xpTotal": 4,
+    "xpTotal": 5,
     "eternal": 0
 }

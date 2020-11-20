@@ -1,12 +1,14 @@
 {
     "nick": "Yunching.",
-    "lastDate": "20_10_11",
+    "lastDate": "20_11_01",
     "xpDeque": [
+        1,
+        1,
         1,
         1,
         1,
         1
     ],
-    "xpTotal": 4,
+    "xpTotal": 6,
     "eternal": 0
 }

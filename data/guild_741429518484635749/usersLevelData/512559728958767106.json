@@ -1,6 +1,6 @@
 {
     "nick": "Yoru",
-    "lastDate": "20_10_21",
+    "lastDate": "20_11_19",
     "xpDeque": [
         0,
         0,
@@ -38,8 +38,11 @@
         1,
         1,
         1,
+        1,
+        1,
+        1,
         1
     ],
-    "xpTotal": 28,
+    "xpTotal": 31,
     "eternal": 0
 }
